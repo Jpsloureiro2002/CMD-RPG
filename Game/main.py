@@ -9,7 +9,7 @@ clsp = lambda : os.system('cls')
 game_Start = True
 Display.draw_raw_Map()
 
-while (game_Start and not g.dead):
+while (game_Start and not g.DEAD):
     res()
     Logs.log(f"{g.PLAYER_X}/{g.PLAYER_Y}")
     Display.update_map()

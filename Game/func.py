@@ -1,12 +1,11 @@
 from global_var import Global as g
-import pathlib
 import os
 from PIL import Image
 
 
 class Display:
     def draw_raw_Map():
-        file = os.path.join("Assets","Maps","level"+str(g.LEVEL)+".gif")
+        file = os.path.join("Assets","Maps","level"+str(g.STATS['Level'])+".gif")
         img = Image.open(file).convert("RGB")
         pix = img.load()
         for y in range(15):
@@ -33,14 +32,14 @@ class Display:
     def update_map():
         row = g.Map[g.PLAYER_Y+1]
         row[g.PLAYER_X] = " "
-        file = os.path.join("Assets","Maps","level"+str(g.LEVEL)+".gif")
+        file = os.path.join("Assets","Maps","level"+str(g.STATS['Level'])+".gif")
         img = Image.open(file).convert("RGB")
         pix = img.load()
         for y in range(15):
             row =""
             r_m = []
             for x in range(100):
-                temp_char = ""
+                temp_char = " "
                 if pix[x,y] == (0,0,0):
                     r_m.append("█")
                     temp_char = "█"
@@ -67,7 +66,7 @@ class KeyEvent():
 class Colision():
     def check_col():
         wall = "█"
-        print(g.Map[g.PLAYER_Y+1]) #Isto representa a linha do player
+        #print(g.Map[g.PLAYER_Y+1]) #Isto representa a linha do player
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
@@ -75,8 +74,9 @@ class Colision():
             g.Move_Lock['a'] = True
         else:
             g.Move_Lock['a'] = False
-        if row[g.PLAYER_X+1] == wall:
-            g.Move_Lock['d'] = False
+        # o x+1 vai ser a pos do Player o x+2 vai ser a pos a direita do player isto por causa do temp na criação do mapa
+        if row[g.PLAYER_X+2] == wall:
+            g.Move_Lock['d'] = True
         else:
             g.Move_Lock['d'] = False
         if row_Up[g.PLAYER_X] == wall:

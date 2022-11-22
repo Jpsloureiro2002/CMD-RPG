@@ -1,14 +1,17 @@
 class Global:
     rows, cols = (15, 100)
     DISPLAY_INV = [[""]*cols]*rows
-    dead = False
-    WALL = []
-    LEVEL = 0
-    HP = 10
+    DEAD = False
     PLAYER_X = 1
     PLAYER_Y = 1
     TURNS = 0
-    PLAYER_SKIN = "P"
+    STATS={
+        'HP':10,
+        'LV':0,
+        'XP':0,
+        'Slot':'-1',
+        'Level':0
+    }
     Map = {
         1:[],
         2:[],
@@ -33,6 +36,7 @@ class Global:
         'a':False,
     }
     inv = {
+        '-1':'hand',
         '0':'n',
         '1':'n',
         '2':'n',
@@ -49,5 +53,7 @@ class Global:
     }
     skins={
         "Default":"■",
-        "F":"ƒ"
+        "F":"ƒ",
+        "Percent":"%"
     }
+    PLAYER_SKIN = skins['Default']
