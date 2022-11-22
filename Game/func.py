@@ -11,46 +11,49 @@ class Display:
         pix = img.load()
         for y in range(15):
             row =""
+            r_m = []
             for x in range(100):
+                temp_char = ""
                 if pix[x,y] == (0,0,0):
-                    g.MAP[y][x] = "█"
+                    r_m.append("█")
+                    temp_char = "█"
                 elif pix[x,y] == (255,255,255):
-                    g.MAP[y][x] = " "
+                    r_m.append(" ")
+                    temp_char = " "
                 elif pix[x,y] == (255,0,0):
-                    g.MAP[y][x] = g.PLAYER_SKIN
+                    r_m.append(g.PLAYER_SKIN)
+                    temp_char = g.PLAYER_SKIN
                     g.PLAYER_X = x
                     g.PLAYER_Y = y
-                row = row + g.MAP[y][x] 
+                row = row + temp_char
+                g.Map[y+1] = r_m
             print(row)
     def display_options():
         print("Options:\nUse de wasd to move around the screen but will cost you a turn\nOr see your items with the key I and then press enter")
     def update_map():
-        g.TEMP[g.PLAYER_Y][g.PLAYER_X] = " "
+        row = g.Map[g.PLAYER_Y+1]
+        row[g.PLAYER_X] = " "
         file = os.path.join("Assets","Maps","level"+str(g.LEVEL)+".gif")
         img = Image.open(file).convert("RGB")
         pix = img.load()
-        g.WALL.clear()
-        y_ = 0
-        x_ = 0
-        for y in g.TEMP:
+        for y in range(15):
             row =""
-            x_ = 0
-            for x in y:
-                if pix[x_,y_] == (0,0,0):
-                    g.TEMP[y_][x_] = "1"
-                    g.WALL.append(f"{y}/{x}")               
-                elif pix[x_,y_] == (255,255,255):
-                    g.TEMP[y_][x_] = "0"
-                if (x == g.PLAYER_X and g.PLAYER_Y == y):
-                    g.TEMP[y_][x_] = g.PLAYER_SKIN
-                x_ = x_ +1
-                row = row + x
-            y_ = y_ + 1
-        for i in g.TEMP:
-            r = ""
-            for j in i:
-                r = r + j
-            print(r)
+            r_m = []
+            for x in range(100):
+                temp_char = ""
+                if pix[x,y] == (0,0,0):
+                    r_m.append("█")
+                    temp_char = "█"
+                elif pix[x,y] == (255,255,255):
+                    r_m.append(" ")
+                    temp_char = " "
+                if (y == g.PLAYER_Y and x == g.PLAYER_X):
+                    r_m.append(g.PLAYER_SKIN)
+                    temp_char = g.PLAYER_SKIN
+                row = row + temp_char
+                g.Map[y+1] = r_m
+            print(row)
+
 class KeyEvent():
     def KeyPress(option):
         if (option == "d" and not g.Move_Lock.get('d')):
@@ -63,18 +66,27 @@ class KeyEvent():
             g.PLAYER_Y = g.PLAYER_Y + 1
 class Colision():
     def check_col():
-        Wall = "█"
-        for row in g.TEMP:
-            r = ""
-            for col in row:
-                r = r + col
-            print(r)
-        x = input("")
-        
-        if g.TEMP[g.PLAYER_Y-1][g.PLAYER_X] == Wall:
-            g.Move_Lock.update({"w":True})
+        wall = "█"
+        print(g.Map[g.PLAYER_Y+1]) #Isto representa a linha do player
+        row = g.Map[g.PLAYER_Y+1]
+        row_Up = g.Map[g.PLAYER_Y]
+        row_Down = g.Map[g.PLAYER_Y+2]
+        if row[g.PLAYER_X-1] == wall:
+            g.Move_Lock['a'] = True
         else:
-            g.Move_Lock.update({"w":False})
+            g.Move_Lock['a'] = False
+        if row[g.PLAYER_X+1] == wall:
+            g.Move_Lock['d'] = False
+        else:
+            g.Move_Lock['d'] = False
+        if row_Up[g.PLAYER_X] == wall:
+            g.Move_Lock['w'] = True
+        else:
+            g.Move_Lock['w'] = False
+        if row_Down[g.PLAYER_X] == wall:
+            g.Move_Lock['s'] = True
+        else:
+            g.Move_Lock['s'] = False
             
 class Logs:
     def log(log):
