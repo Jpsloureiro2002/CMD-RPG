@@ -5,6 +5,7 @@ class Global:
     PLAYER_X = 1
     PLAYER_Y = 1
     TURNS = 0
+    NEW_GEN_ITEMS = []
     STATS={
         'HP':10,
         'LV':0,

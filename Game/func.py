@@ -39,20 +39,28 @@ class Display:
             row =""
             r_m = []
             for x in range(100):
-                temp_char = " "
                 if pix[x,y] == (0,0,0):
                     r_m.append("█")
-                    temp_char = "█"
                 elif pix[x,y] == (255,255,255):
                     r_m.append(" ")
-                    temp_char = " "
+                elif pix[x,y] == (255,0,0):
+                    r_m.append(" ")
                 if (y == g.PLAYER_Y and x == g.PLAYER_X):
-                    r_m.append(g.PLAYER_SKIN)
-                    temp_char = g.PLAYER_SKIN
-                row = row + temp_char
+                    r_m[x-1] = g.PLAYER_SKIN
                 g.Map[y+1] = r_m
-            print(row)
-
+        if g.NEW_GEN_ITEMS:
+            for item in g.NEW_GEN_ITEMS:
+                info = item.split("/")
+                y, x=(int(info[0]),int(info[1]))
+                row = g.Map[y]
+                row[x] = "I"
+                pass
+        for y in range(15):
+            row = g.Map[y+1]
+            r = ""
+            for i in row:
+                r = r + i
+            print(r)
 class KeyEvent():
     def KeyPress(option):
         if (option == "d" and not g.Move_Lock.get('d')):
@@ -70,12 +78,12 @@ class Colision():
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
-        if row[g.PLAYER_X-1] == wall:
+        if row[g.PLAYER_X-2] == wall:
             g.Move_Lock['a'] = True
         else:
             g.Move_Lock['a'] = False
         # o x+1 vai ser a pos do Player o x+2 vai ser a pos a direita do player isto por causa do temp na criação do mapa
-        if row[g.PLAYER_X+2] == wall:
+        if row[g.PLAYER_X] == wall:
             g.Move_Lock['d'] = True
         else:
             g.Move_Lock['d'] = False
@@ -95,9 +103,19 @@ class Logs:
 
 class Generation():
     def gen_item(n,tipe):
-        if tipe == "potions":
-            item_list = g.items[tipe]
+        item_list = g.items[tipe]
         for i in range(n):
             item_temp = random.choice(item_list)
-            
+            y = random.randint(1,15)
+            x = random.randint(0,100)
+            check = False
+            while check == False:
+                row = g.Map[y]
+                print(f"{x}:{y}")
+                if (row[x] != "█" and row[x] != g.PLAYER_SKIN) and row[x] != "I":
+                    row[x] = "I"
+                    g.NEW_GEN_ITEMS.append(f"{y}/{x}/{item_temp}")
+                    check = True
+                y = random.randint(1,15)
+                x = random.randint(0,100)
         
