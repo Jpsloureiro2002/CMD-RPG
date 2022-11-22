@@ -30,18 +30,27 @@ class Display:
         img = Image.open(file).convert("RGB")
         pix = img.load()
         g.WALL.clear()
-        for y in range(15):
+        y_ = 0
+        x_ = 0
+        for y in g.TEMP:
             row =""
-            for x in range(100):
-                if pix[x,y] == (0,0,0):
-                    g.TEMP[y][x] = "█"
+            x_ = 0
+            for x in y:
+                if pix[x_,y_] == (0,0,0):
+                    g.TEMP[y_][x_] = "1"
                     g.WALL.append(f"{y}/{x}")               
-                elif pix[x,y] == (255,255,255):
-                    g.TEMP[y][x] = " "
+                elif pix[x_,y_] == (255,255,255):
+                    g.TEMP[y_][x_] = "0"
                 if (x == g.PLAYER_X and g.PLAYER_Y == y):
-                    g.TEMP[y][x] = g.PLAYER_SKIN
-                row = row + g.TEMP[y][x]
-            print(row)
+                    g.TEMP[y_][x_] = g.PLAYER_SKIN
+                x_ = x_ +1
+                row = row + x
+            y_ = y_ + 1
+        for i in g.TEMP:
+            r = ""
+            for j in i:
+                r = r + j
+            print(r)
 class KeyEvent():
     def KeyPress(option):
         if (option == "d" and not g.Move_Lock.get('d')):
@@ -55,13 +64,17 @@ class KeyEvent():
 class Colision():
     def check_col():
         Wall = "█"
-        print(g.TEMP[g.PLAYER_Y][g.PLAYER_X])
+        for row in g.TEMP:
+            r = ""
+            for col in row:
+                r = r + col
+            print(r)
         x = input("")
         
         if g.TEMP[g.PLAYER_Y-1][g.PLAYER_X] == Wall:
-            g.Move_Lock.update({"w":False})
-        else:
             g.Move_Lock.update({"w":True})
+        else:
+            g.Move_Lock.update({"w":False})
             
 class Logs:
     def log(log):

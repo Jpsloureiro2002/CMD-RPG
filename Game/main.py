@@ -11,6 +11,7 @@ Display.draw_raw_Map()
 
 while (game_Start and not g.dead):
     #res()
+    g.TEMP[:]
     Logs.log(f"{g.PLAYER_X}/{g.PLAYER_Y}")
     Display.update_map()
     Display.display_options()
