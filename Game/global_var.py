@@ -56,4 +56,4 @@ class Global:
         "F":"ƒ",
         "Percent":"%"
     }
-    PLAYER_SKIN = skins['Default']
+    PLAYER_SKIN = skins['F']

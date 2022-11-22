@@ -1,7 +1,7 @@
 from global_var import Global as g
 import os
 from PIL import Image
-
+import random
 
 class Display:
     def draw_raw_Map():
@@ -93,5 +93,11 @@ class Logs:
         file = open("logs.txt", "w")
         file.write(log + "\n")
 
-
+class Generation():
+    def gen_item(n,tipe):
+        if tipe == "potions":
+            item_list = g.items[tipe]
+        for i in range(n):
+            item_temp = random.choice(item_list)
+            
         
