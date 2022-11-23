@@ -12,6 +12,7 @@ def Game(game_Start):
     Display.draw_raw_Map()
     Generation.gen_item(3,"potions")
     Generation.gen_item(2,"swords")
+    Generation.gen_monster(2)
     while (game_Start and not g.DEAD):
         res()
         Logs.log(f"{g.PLAYER_X}/{g.PLAYER_Y}")

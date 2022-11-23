@@ -55,6 +55,13 @@ class Display:
                 row = g.Map[y]
                 row[x] = "I"
                 pass
+        if g.NEW_GEN_MONSTER:
+            for item in g.NEW_GEN_MONSTER:
+                info = item.split("/")
+                y, x, display=(int(info[0]),int(info[1]), info[2])
+                row = g.Map[y]
+                row[x] = display
+                pass
         for y in range(15):
             row = g.Map[y+1]
             r = ""
@@ -115,6 +122,21 @@ class Generation():
                 if (row[x] != "█" and row[x] != g.PLAYER_SKIN) and row[x] != "I":
                     row[x] = "I"
                     g.NEW_GEN_ITEMS.append(f"{y}/{x}/{item_temp}")
+                    check = True
+                y = random.randint(1,15)
+                x = random.randint(0,100)
+    def gen_monster(n):
+        for i in range(n):
+            item_temp = random.choice(g.best_list)
+            y = random.randint(1,15)
+            x = random.randint(0,100)
+            check = False
+            while check == False:
+                row = g.Map[y]
+                print(f"{x}:{y}")
+                if (row[x] != "█" and row[x] != g.PLAYER_SKIN) and row[x] != "I":
+                    row[x] = item_temp
+                    g.NEW_GEN_MONSTER.append(f"{y}/{x}/{item_temp}")
                     check = True
                 y = random.randint(1,15)
                 x = random.randint(0,100)

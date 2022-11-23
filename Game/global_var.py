@@ -6,11 +6,13 @@ class Global:
     PLAYER_Y = 1
     TURNS = 0
     NEW_GEN_ITEMS = []
+    NEW_GEN_MONSTER = []
     STATS={
         'HP':10,
         'LV':0,
         'XP':0,
         'Slot':'-1',
+        'Def':0,
         'Level':0
     }
     Map = {
@@ -36,21 +38,24 @@ class Global:
         'd':False,
         'a':False,
     }
+    #0-Swords 1-SHields 2- Armor
     inv = {
         '-1':'hand',
-        '0':'n',
-        '1':'n',
-        '2':'n',
-        '3':'n',
-        '4':'n'
+        '0':'',
+        '1':'',
+        '2':''
     }
     items={
         "swords":[("knife",5),("iron_sword",10)],
-        "potions":[("life_b",3),("life_g",5)]
+        "potions":[("life_b",3),("life_g",5)],
+        "Shield":[("Wood Shield",2)]
     }
+    best_list = ["$","B","&"]
+    # [HP,ATACK,DEF]
     bestiary={
-        "$":[10,4,0],
-        "B":[30,7,0],
+        0:[10,4,4],
+        1:[30,7,5],
+        2:[10,2,3]
     }
     skins={
         "Default":"■",
