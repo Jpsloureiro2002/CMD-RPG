@@ -54,7 +54,7 @@ class Global:
     }
     skins={
         "Default":"■",
-        "F":"ƒ",
+        "f":"ƒ",
         "Percent":"%"
     }
-    PLAYER_SKIN = skins['F']
+    PLAYER_SKIN = skins['Default']

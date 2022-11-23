@@ -102,8 +102,8 @@ class Logs:
         file.write(log + "\n")
 
 class Generation():
-    def gen_item(n,tipe):
-        item_list = g.items[tipe]
+    def gen_item(n,types):
+        item_list = g.items[types]
         for i in range(n):
             item_temp = random.choice(item_list)
             y = random.randint(1,15)

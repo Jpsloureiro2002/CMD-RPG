@@ -21,14 +21,37 @@ def Game(game_Start):
         Option = input("")
         Colision.check_col()
         KeyEvent.KeyPress(Option)
-
-
+def Options():
+    while True:
+        clsp()
+        banner = pyfiglet.figlet_format("Options!")
+        print(banner)
+        print("Here o can costumise your Character and Change some Things\nHere is the List: skin, back")
+        op = input("Type Here:\n")
+        if op == "skin":
+            clsp()
+            print(banner)
+            stop = False
+            while not stop:
+                clsp()
+                print(banner)
+                key = list(g.skins.keys())
+                for i in key:
+                    print(f"Code:{i} --> {g.skins.get(i)}")
+                op = input("\nType Here the code of the skin:\n")
+                if op in key:
+                    g.PLAYER_SKIN = g.skins.get(op)
+                    stop = True
+                else:
+                    clsp()
+        if op == "back":
+            break    
 ##Start of Program
 while True:
     clsp()
     banner = pyfiglet.figlet_format("Math Dungeons!!")
     print(banner)
-    print("Choose your Option: start, options*, load*,quit")
+    print("Choose your Option: start, options(o), load*,quit(q)")
     op = input("Type Here:\n")
     if op == "start":
         game_Start = True
@@ -39,6 +62,8 @@ while True:
         print(banner)
         time.sleep(3)
         sys.exit()
+    if (op == "o" or op =="options"):
+        Options()
 
 
 
