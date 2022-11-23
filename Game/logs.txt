@@ -9640,3 +9640,189 @@
 [DEBUG]: 3/62/&
 [DEBUG]: 13/22/B
 [Player Coords]x:14 y:3
+[Item Spawn]x:23 y:5
+[Item Spawn]x:44 y:8
+[Item Spawn]x:68 y:8
+[Item Spawn]x:31 y:6
+[Item Spawn]x:88 y:4
+[Item Spawn]x:96 y:10
+[Item Spawn]x:40 y:8
+[Item Spawn]x:14 y:5
+[Monster Spawn]x:24 y:13
+[Monster Spawn]x:48 y:2
+[Monster Spawn]x:54 y:15
+[Monster Spawn]x:12 y:4
+[Player Coords]x:18 y:5
+[DEBUG]: 13/24/$
+[DEBUG]: 4/12/B
+[Player Coords]x:18 y:6
+[DEBUG]: 12/24/$
+[DEBUG]: 4/12/B
+[Player Coords]x:18 y:7
+[DEBUG]: 11/24/$
+[DEBUG]: 5/12/B
+[Player Coords]x:18 y:8
+[DEBUG]: 11/25/$
+[DEBUG]: 4/12/B
+[Player Coords]x:18 y:9
+[DEBUG]: 11/24/$
+[DEBUG]: 4/12/B
+[Player Coords]x:18 y:10
+[DEBUG]: 11/25/$
+[DEBUG]: 4/12/B
+[Player Coords]x:18 y:11
+[DEBUG]: 11/24/$
+[DEBUG]: 3/12/B
+[Player Coords]x:17 y:11
+[DEBUG]: 12/24/$
+[DEBUG]: 4/12/B
+[Player Coords]x:16 y:11
+[DEBUG]: 12/25/$
+[DEBUG]: 4/11/B
+[Player Coords]x:15 y:11
+[DEBUG]: 12/26/$
+[DEBUG]: 4/12/B
+[Player Coords]x:15 y:10
+[DEBUG]: 12/26/$
+[DEBUG]: 4/13/B
+[Player Coords]x:15 y:9
+[DEBUG]: 11/26/$
+[DEBUG]: 4/12/B
+[Player Coords]x:14 y:9
+[DEBUG]: 10/26/$
+[DEBUG]: 3/12/B
+[Player Coords]x:14 y:10
+[DEBUG]: 10/25/$
+[DEBUG]: 3/11/B
+[Player Coords]x:14 y:9
+[DEBUG]: 9/25/$
+[DEBUG]: 3/11/B
+[Player Coords]x:14 y:8
+[DEBUG]: 10/25/$
+[Monster Move (B)]Dist: 5.0
+[New Gen List 1] --> 4/12/B
+[Enemy Move]From [3/12/B] --> [4/12/B]
+[Player Coords]x:14 y:7
+[DEBUG]: 10/24/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 5/12/B
+[Enemy Move]From [4/12/B] --> [5/12/B]
+[Player Coords]x:14 y:6
+[DEBUG]: 9/24/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 5/13/B
+[Enemy Move]From [5/12/B] --> [5/13/B]
+[Player Coords]x:15 y:6
+[DEBUG]: 9/23/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 5/14/B
+[Enemy Move]From [5/13/B] --> [5/14/B]
+[Player Coords]x:16 y:6
+[DEBUG]: 10/23/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 6/14/B
+[Enemy Move]From [5/14/B] --> [6/14/B]
+[Player Coords]x:16 y:7
+[DEBUG]: 10/23/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 7/14/B
+[Enemy Move]From [6/14/B] --> [7/14/B]
+[Player Coords]x:16 y:8
+[DEBUG]: 10/23/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 8/14/B
+[Enemy Move]From [7/14/B] --> [8/14/B]
+[Player Coords]x:16 y:9
+[DEBUG]: 10/22/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 9/14/B
+[Enemy Move]From [8/14/B] --> [9/14/B]
+[Player Coords]x:16 y:10
+[DEBUG]: 10/23/$
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 10/14/B
+[Enemy Move]From [9/14/B] --> [10/14/B]
+[Player Coords]x:16 y:11
+[DEBUG]: 10/23/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/15/B
+[Enemy Move]From [10/14/B] --> [10/15/B]
+[Player Coords]x:17 y:11
+[DEBUG]: 10/24/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/16/B
+[Enemy Move]From [10/15/B] --> [10/16/B]
+[Player Coords]x:18 y:11
+[DEBUG]: 10/25/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/17/B
+[Enemy Move]From [10/16/B] --> [10/17/B]
+[Player Coords]x:19 y:11
+[DEBUG]: 9/25/$
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/18/B
+[Enemy Move]From [10/17/B] --> [10/18/B]
+[Player Coords]x:20 y:11
+[Monster Move ($)]Dist: 2.8284271247461903
+[New Gen List 0] --> 9/23/$
+[Enemy Move]From [9/24/$] --> [9/23/$]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/19/B
+[Enemy Move]From [10/18/B] --> [10/19/B]
+[Player Coords]x:21 y:11
+[Monster Move ($)]Dist: 2.0
+[New Gen List 0] --> 10/23/$
+[Enemy Move]From [9/23/$] --> [10/23/$]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/20/B
+[Enemy Move]From [10/19/B] --> [10/20/B]
+[Player Coords]x:22 y:11
+[Monster Move ($)]Dist: 1.4142135623730951
+[New Gen List 0] --> 11/23/$
+[Enemy Move]From [10/23/$] --> [11/23/$]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/21/B
+[Enemy Move]From [10/20/B] --> [10/21/B]
+[Player Coords]x:23 y:11
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/23/$
+[Enemy Move]From [11/23/$] --> [10/23/$]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 10/22/B
+[Enemy Move]From [10/21/B] --> [10/22/B]
+[Player Coords]x:23 y:11
+[Monster Move ($)]Dist: 1.4142135623730951
+[New Gen List 0] --> 11/23/$
+[Enemy Move]From [10/23/$] --> [11/23/$]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 11/22/B
+[Enemy Move]From [10/22/B] --> [11/22/B]
+[Player Coords]x:23 y:11
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/23/$
+[Enemy Move]From [11/23/$] --> [10/23/$]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/23/B
+[Enemy Move]From [11/22/B] --> [11/23/B]
+[Player Coords]x:23 y:11
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 11/23/$
+[Enemy Move]From [10/23/$] --> [11/23/$]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/22/B
+[Enemy Move]From [11/23/B] --> [11/22/B]
+[Player Coords]x:22 y:11
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 11/22/$
+[Enemy Move]From [11/23/$] --> [11/22/$]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/21/B
+[Enemy Move]From [11/22/B] --> [11/21/B]
+[Player Coords]x:21 y:11
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 11/21/$
+[Enemy Move]From [11/22/$] --> [11/21/$]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/20/B
+[Enemy Move]From [11/21/B] --> [11/20/B]
+[Player Coords]x:20 y:11

@@ -8,21 +8,30 @@ import time
 res = lambda : os.system('mode con: cols=100 lines=30')
 clsp = lambda : os.system('cls')
 
-def Game(game_Start):
-    Display.draw_raw_Map()
-    Generation.gen_item(3,"potions")
-    Generation.gen_item(2,"swords")
-    Generation.gen_monster(2)
+def Game(game_Start, Load):
+    if not Load:
+        Logs.log(f"#######[TURN{g.TURNS}]##########")
+        Display.draw_raw_Map()
+        Generation.gen_item(3,"potions")
+        Generation.gen_item(2,"swords")
+        Generation.gen_monster(2)
+    else:
+        slot = input("Witch Slot 1~5:\n")
+        Data.load(slot)
     while (game_Start and not g.DEAD):
         res()
         Logs.log(f"[Player Coords]x:{g.PLAYER_X} y:{g.PLAYER_Y}")
         Display.update_map()
         Display.display_options()
-        #print(g.Map)
         Option = input("")
+        if (Option == "save"):
+            slot_chose= input("Witch Slot 1~5:\n")
+            Data.save(slot_chose)
         Colision.check_col()
         KeyEvent.KeyPress(Option)
         AI.Monster_AI()
+        g.TURNS +=1
+        Logs.log(f"#######[TURN{g.TURNS}]##########")
 def Options():
     while True:
         clsp()
@@ -57,7 +66,7 @@ while True:
     op = input("Type Here:\n")
     if op == "start":
         game_Start = True
-        Game(game_Start)
+        Game(game_Start, False)
     if (op == "quit" or op == "q"):
         clsp()
         banner = pyfiglet.figlet_format("Bye :(")
@@ -66,6 +75,9 @@ while True:
         sys.exit()
     if (op == "o" or op =="options"):
         Options()
+    if (op == "l" or op =="load"):
+        game_Start = True
+        Game(game_Start, True)
 
 
 

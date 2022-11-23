@@ -1,0 +1,8110 @@
+[Item Spawn]x:16 y:10
+[Item Spawn]x:46 y:3
+[Item Spawn]x:32 y:8
+[Item Spawn]x:49 y:15
+[Item Spawn]x:19 y:15
+[Item Spawn]x:46 y:7
+[Item Spawn]x:61 y:9
+[Item Spawn]x:48 y:5
+[Item Spawn]x:10 y:15
+[Item Spawn]x:80 y:2
+[Item Spawn]x:23 y:14
+[Item Spawn]x:53 y:4
+[Item Spawn]x:29 y:1
+[Item Spawn]x:12 y:11
+[Monster Spawn]x:64 y:4
+[Monster Spawn]x:39 y:5
+[Player Coords]x:18 y:5
+[DEBUG]: 4/64/B
+[DEBUG]: 5/39/B
+[Player Coords]x:18 y:6
+[DEBUG]: 3/64/B
+[DEBUG]: 5/38/B
+[Player Coords]x:18 y:7
+[DEBUG]: 2/64/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:7
+[DEBUG]: 2/64/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:8
+[DEBUG]: 2/64/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:9
+[DEBUG]: 2/64/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:10
+[DEBUG]: 2/65/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:11
+[DEBUG]: 2/64/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/67/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/67/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/67/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/67/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/67/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/68/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 6/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 6/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 6/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 7/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 7/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 7/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 7/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 7/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 8/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 8/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/68/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/68/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/68/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 7/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 6/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/65/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 6/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 6/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 7/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 7/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 7/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 7/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 7/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 7/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 7/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 7/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 8/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 7/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 7/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 8/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 8/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 10/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 10/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 10/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/59/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/59/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/58/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/59/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 10/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 10/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 10/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 10/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 11/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 11/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 12/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/58/B
+[DEBUG]: 12/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/58/B
+[DEBUG]: 12/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/58/B
+[DEBUG]: 12/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 12/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/60/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 13/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/58/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/58/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/58/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/58/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/57/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/58/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/60/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/60/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/60/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/60/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/60/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/60/B
+[DEBUG]: 13/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/60/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/60/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/60/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/58/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/57/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/58/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/59/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/59/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/59/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/59/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 13/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 13/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 14/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 14/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 13/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 13/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 12/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 12/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 13/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 13/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/64/B
+[DEBUG]: 14/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 14/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 14/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 14/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 14/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 13/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/64/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 12/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 12/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 13/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 12/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 12/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/60/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/60/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 13/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/64/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 13/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 13/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 14/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/63/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/62/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/62/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/62/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/61/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/61/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 12/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 12/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/61/B
+[DEBUG]: 11/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/61/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/62/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/62/B
+[DEBUG]: 10/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 10/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/63/B
+[DEBUG]: 10/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/64/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/65/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/65/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/65/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/64/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 12/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 13/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 13/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 8/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 8/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 8/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 9/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 8/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/72/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/72/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 8/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 9/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 9/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 12/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 13/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 13/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 14/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 13/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 13/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 14/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 13/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 13/55/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 12/55/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 12/55/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 12/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 12/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 12/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 12/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 14/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 14/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 14/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 14/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 10/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 8/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 8/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 8/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 8/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 8/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 8/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 11/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 10/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 10/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 10/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 10/55/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 11/55/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 11/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 10/54/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 10/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 9/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 9/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/53/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 10/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 11/52/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 14/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 14/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 13/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 12/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/72/B
+[DEBUG]: 12/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 11/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 10/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 10/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 9/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 9/51/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/73/B
+[DEBUG]: 9/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 10/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/74/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 11/50/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 13/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 12/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 12/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 11/49/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 11/48/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 10/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 11/47/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 11/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 11/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 11/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 12/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 12/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/76/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 10/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 9/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 9/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 9/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 5/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 4/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 4/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 6/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 7/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 8/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 9/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 8/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 8/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 7/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/73/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 7/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/74/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/76/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/77/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/72/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/74/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/73/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 6/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 7/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 6/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/65/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/63/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/64/B
+[DEBUG]: 7/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 7/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 7/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 7/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/68/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 7/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/66/B
+[DEBUG]: 6/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/65/B
+[DEBUG]: 6/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 6/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/65/B
+[DEBUG]: 5/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 5/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 5/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 6/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 6/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/65/B
+[DEBUG]: 6/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/65/B
+[DEBUG]: 6/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 6/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 6/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 6/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 7/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 7/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 7/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 7/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 7/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 6/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 6/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/69/B
+[DEBUG]: 7/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/70/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/71/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 7/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 7/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 8/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 9/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 10/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 10/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 10/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 10/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 14/67/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/68/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 11/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/73/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/72/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 9/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 8/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 7/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[DEBUG]: 9/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 8/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 9/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/75/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/74/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/74/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/73/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/68/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/67/B
+[DEBUG]: 7/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/67/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/66/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/67/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/67/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/66/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/66/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/66/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 11/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/63/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/62/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/62/B
+[DEBUG]: 7/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/61/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/61/B
+[DEBUG]: 6/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/61/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/62/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/63/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 12/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 12/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/64/B
+[DEBUG]: 12/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/63/B
+[DEBUG]: 12/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/63/B
+[DEBUG]: 12/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/63/B
+[DEBUG]: 13/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/63/B
+[DEBUG]: 12/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/63/B
+[DEBUG]: 13/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/63/B
+[DEBUG]: 13/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/63/B
+[DEBUG]: 13/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/62/B
+[DEBUG]: 13/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 13/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 13/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 13/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/63/B
+[DEBUG]: 12/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/63/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/63/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/63/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 12/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 11/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 11/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/62/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/63/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/64/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/65/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/67/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 11/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 11/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/68/B
+[DEBUG]: 11/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/68/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 7/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 8/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 9/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/66/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 8/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 8/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 8/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 2/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/68/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/68/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/67/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/68/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/69/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/68/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/68/B
+[DEBUG]: 5/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/67/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/65/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 3/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/65/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/65/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/67/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/67/B
+[DEBUG]: 2/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/67/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/67/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/67/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/67/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 2/66/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/66/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 3/65/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/65/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/67/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/68/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/68/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/68/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 6/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 7/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 6/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 7/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 7/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 8/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/65/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 11/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 11/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/64/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 11/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 11/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/63/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/63/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/64/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/65/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 12/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/64/B
+[DEBUG]: 12/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 12/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/64/B
+[DEBUG]: 12/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/64/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/65/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/66/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/66/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/66/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/65/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/66/B
+[DEBUG]: 10/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/67/B
+[DEBUG]: 9/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 10/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/67/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 9/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/68/B
+[DEBUG]: 9/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 10/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 9/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 9/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 9/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 9/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 9/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 8/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/73/B
+[DEBUG]: 7/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 7/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/76/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 3/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 3/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 3/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 2/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 2/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 3/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/78/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/79/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/81/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/81/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/81/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/81/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/81/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/80/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/79/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/78/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/77/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/77/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/77/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/76/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/76/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/76/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 2/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/75/B
+[DEBUG]: 2/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/75/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 2/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 2/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/75/B
+[DEBUG]: 2/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 2/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 2/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 2/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 2/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/76/B
+[DEBUG]: 2/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 2/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 2/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 3/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 3/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 3/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 3/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 3/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/76/B
+[DEBUG]: 4/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/77/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/78/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/78/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 6/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 7/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/78/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 8/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 6/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 7/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 6/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 5/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 5/46/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 5/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 5/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 4/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 4/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 4/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 5/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 6/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 6/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 5/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 3/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 4/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/77/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/78/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/80/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/80/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/79/B
+[DEBUG]: 6/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/79/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/80/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/81/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/81/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/80/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/80/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/81/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/81/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/81/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/81/B
+[DEBUG]: 7/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/80/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/80/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/80/B
+[DEBUG]: 6/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/80/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 6/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 6/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 6/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 5/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 4/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 5/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 6/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 7/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/79/B
+[DEBUG]: 7/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 7/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 8/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 8/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 7/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/78/B
+[DEBUG]: 8/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 8/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/79/B
+[DEBUG]: 9/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 9/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 9/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 9/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 9/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/79/B
+[DEBUG]: 10/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 10/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/78/B
+[DEBUG]: 9/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/77/B
+[DEBUG]: 10/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/76/B
+[DEBUG]: 10/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 9/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 10/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 10/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 10/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 9/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/76/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 8/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/77/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 9/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 10/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 11/45/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 11/44/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 11/43/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 11/42/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 11/41/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 11/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 11/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 11/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 11/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 12/40/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/78/B
+[DEBUG]: 12/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 11/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/76/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/77/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 10/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/78/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/77/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/76/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 9/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 9/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 8/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/76/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 8/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/75/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/75/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/73/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 2/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 2/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/74/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/75/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/75/B
+[DEBUG]: 2/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/75/B
+[DEBUG]: 2/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/73/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/72/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/71/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/71/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 6/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 3/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 5/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 7/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/69/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 7/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/68/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/68/B
+[DEBUG]: 9/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 9/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/69/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 8/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 7/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 6/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 6/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 6/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/70/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 5/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 5/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 5/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 6/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/70/B
+[DEBUG]: 7/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/70/B
+[DEBUG]: 6/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/71/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 7/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/71/B
+[DEBUG]: 7/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/71/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/69/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/69/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/70/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 10/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/70/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 10/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/71/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[DEBUG]: 11/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 11/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/74/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/74/B
+[DEBUG]: 11/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 10/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 9/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 8/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 7/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/73/B
+[DEBUG]: 7/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/73/B
+[DEBUG]: 6/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/74/B
+[DEBUG]: 5/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 5/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/74/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/74/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 3/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 2/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 2/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 4/39/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 3/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/73/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/73/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/72/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/72/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/72/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/71/B
+[DEBUG]: 5/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 5/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 4/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 4/38/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 4/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 3/37/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/66/B
+[DEBUG]: 3/36/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 3/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/66/B
+[DEBUG]: 4/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 4/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 4/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/66/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 4/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 5/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/67/B
+[DEBUG]: 5/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/67/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/66/B
+[DEBUG]: 5/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 5/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/67/B
+[DEBUG]: 6/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 6/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 7/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 8/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/67/B
+[DEBUG]: 8/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 8/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 8/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/66/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/66/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 9/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 10/35/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 10/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/65/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/65/B
+[DEBUG]: 9/34/B
+[Player Coords]x:19 y:12
+[DEBUG]: 4/64/B
+[DEBUG]: 9/33/B
+[Player Coords]x:19 y:12
+[DEBUG]: 5/64/B
+[DEBUG]: 9/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/64/B
+[DEBUG]: 10/32/B
+[Player Coords]x:19 y:12
+[DEBUG]: 6/65/B
+[DEBUG]: 10/31/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/65/B
+[DEBUG]: 10/30/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/66/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/67/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 7/67/B
+[DEBUG]: 8/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 9/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/68/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 9/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 8/67/B
+[DEBUG]: 8/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/67/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 9/68/B
+[DEBUG]: 10/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/68/B
+[DEBUG]: 10/29/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[DEBUG]: 10/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/69/B
+[DEBUG]: 9/28/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 9/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 9/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 8/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 8/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 8/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 8/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 9/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 10/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/68/B
+[DEBUG]: 10/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 10/27/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/69/B
+[DEBUG]: 10/26/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/69/B
+[DEBUG]: 10/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 13/70/B
+[DEBUG]: 11/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 12/70/B
+[DEBUG]: 12/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 11/70/B
+[DEBUG]: 12/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[DEBUG]: 12/25/B
+[Player Coords]x:19 y:12
+[DEBUG]: 10/70/B
+[Monster Move (B)]Dist: 4.0
+[New Gen List 1] --> 12/23/B
+[Enemy Move]From [12/24/B] --> [12/23/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 10/69/B
+[Monster Move (B)]Dist: 3.0
+[New Gen List 1] --> 12/22/B
+[Enemy Move]From [12/23/B] --> [12/22/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 9/69/B
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 12/21/B
+[Enemy Move]From [12/22/B] --> [12/21/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/20/B
+[Enemy Move]From [12/21/B] --> [12/20/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 9/70/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [12/20/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [12/19/B] --> [11/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 9/71/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [11/19/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [12/19/B] --> [11/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 8/71/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [11/19/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 8/72/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [12/19/B] --> [11/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 7/72/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [11/19/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [12/19/B] --> [11/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [11/19/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [12/19/B] --> [11/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 12/19/B
+[Enemy Move]From [11/19/B] --> [12/19/B]
+[Player Coords]x:19 y:12
+[DEBUG]: 6/72/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 12/18/B
+[Enemy Move]From [12/19/B] --> [12/18/B]
+[Player Coords]x:18 y:12
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 12/17/B
+[Enemy Move]From [12/18/B] --> [12/17/B]
+[Player Coords]x:17 y:12
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 11/17/B
+[Enemy Move]From [12/17/B] --> [11/17/B]
+[Player Coords]x:17 y:11
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 10/17/B
+[Enemy Move]From [11/17/B] --> [10/17/B]
+[Player Coords]x:17 y:10
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/17/B
+[Enemy Move]From [10/17/B] --> [9/17/B]
+[Player Coords]x:17 y:9
+[DEBUG]: 7/73/B
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/17/B
+[Enemy Move]From [9/17/B] --> [8/17/B]
+[Player Coords]x:17 y:8
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 8/18/B
+[Enemy Move]From [8/17/B] --> [8/18/B]
+[Player Coords]x:18 y:8
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 8/19/B
+[Enemy Move]From [8/18/B] --> [8/19/B]
+[Player Coords]x:19 y:8
+[DEBUG]: 6/73/B
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 8/20/B
+[Enemy Move]From [8/19/B] --> [8/20/B]
+[Player Coords]x:20 y:8
+[DEBUG]: 6/72/B
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/19/B
+[Enemy Move]From [8/20/B] --> [8/19/B]
+[Player Coords]x:21 y:8
+[DEBUG]: 6/72/B
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/20/B
+[Enemy Move]From [8/19/B] --> [8/20/B]
+[Player Coords]x:22 y:8
+[DEBUG]: 6/71/B
+[Monster Move (B)]Dist: 4.0
+[New Gen List 1] --> 8/19/B
+[Enemy Move]From [8/20/B] --> [8/19/B]
+[Player Coords]x:23 y:8
+[DEBUG]: 6/70/B
+[Monster Move (B)]Dist: 4.0
+[New Gen List 1] --> 8/20/B
+[Enemy Move]From [8/19/B] --> [8/20/B]
+[Player Coords]x:24 y:8
+[DEBUG]: 6/69/B
+[Monster Move (B)]Dist: 6.0
+[New Gen List 1] --> 8/19/B
+[Enemy Move]From [8/20/B] --> [8/19/B]
+[Player Coords]x:25 y:8
+[DEBUG]: 7/69/B
+[DEBUG]: 8/19/B
+[Player Coords]x:26 y:8
+[DEBUG]: 8/69/B
+[DEBUG]: 8/18/B
+[Player Coords]x:27 y:8
+[DEBUG]: 8/68/B
+[DEBUG]: 8/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 9/68/B
+[DEBUG]: 9/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 9/67/B
+[DEBUG]: 10/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 9/68/B
+[DEBUG]: 10/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 9/69/B
+[DEBUG]: 11/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/69/B
+[DEBUG]: 11/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/68/B
+[DEBUG]: 11/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/68/B
+[DEBUG]: 11/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/69/B
+[DEBUG]: 12/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/69/B
+[DEBUG]: 13/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/68/B
+[DEBUG]: 13/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/68/B
+[DEBUG]: 13/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/68/B
+[DEBUG]: 13/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/68/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/69/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/68/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/68/B
+[DEBUG]: 14/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/67/B
+[DEBUG]: 14/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/66/B
+[DEBUG]: 14/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/66/B
+[DEBUG]: 14/20/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/66/B
+[DEBUG]: 13/20/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/65/B
+[DEBUG]: 13/20/B
+[Player Coords]x:28 y:8
+[DEBUG]: 9/65/B
+[DEBUG]: 14/20/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/65/B
+[DEBUG]: 14/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/64/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/63/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/64/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/64/B
+[DEBUG]: 14/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/64/B
+[DEBUG]: 14/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/64/B
+[DEBUG]: 13/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/65/B
+[DEBUG]: 13/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/65/B
+[DEBUG]: 13/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/65/B
+[DEBUG]: 13/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/64/B
+[DEBUG]: 13/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/64/B
+[DEBUG]: 12/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/63/B
+[DEBUG]: 12/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/63/B
+[DEBUG]: 12/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/64/B
+[DEBUG]: 13/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/65/B
+[DEBUG]: 14/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/65/B
+[DEBUG]: 14/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/65/B
+[DEBUG]: 14/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/65/B
+[DEBUG]: 14/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/64/B
+[DEBUG]: 13/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/63/B
+[DEBUG]: 12/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/63/B
+[DEBUG]: 11/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/62/B
+[DEBUG]: 11/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/62/B
+[DEBUG]: 11/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/61/B
+[DEBUG]: 11/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/62/B
+[DEBUG]: 11/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/61/B
+[DEBUG]: 10/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/61/B
+[DEBUG]: 9/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/62/B
+[DEBUG]: 9/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/63/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 10/62/B
+[DEBUG]: 9/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/62/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/61/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/61/B
+[DEBUG]: 9/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/60/B
+[DEBUG]: 8/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 8/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 8/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/61/B
+[DEBUG]: 8/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/61/B
+[DEBUG]: 8/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/61/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/62/B
+[DEBUG]: 8/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/62/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/62/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/62/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/63/B
+[DEBUG]: 9/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/63/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/63/B
+[DEBUG]: 9/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/63/B
+[DEBUG]: 9/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/62/B
+[DEBUG]: 9/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/62/B
+[DEBUG]: 9/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/62/B
+[DEBUG]: 9/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/61/B
+[DEBUG]: 8/12/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/61/B
+[DEBUG]: 8/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/61/B
+[DEBUG]: 9/13/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/61/B
+[DEBUG]: 9/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/61/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/61/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/61/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 14/60/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/60/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/59/B
+[DEBUG]: 8/14/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 7/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/60/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/61/B
+[DEBUG]: 8/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/61/B
+[DEBUG]: 9/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/61/B
+[DEBUG]: 10/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 10/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 13/60/B
+[DEBUG]: 10/15/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 10/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/60/B
+[DEBUG]: 10/16/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 10/17/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 10/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/60/B
+[DEBUG]: 11/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 11/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 11/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/59/B
+[DEBUG]: 10/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/60/B
+[DEBUG]: 10/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/61/B
+[DEBUG]: 10/18/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/60/B
+[DEBUG]: 10/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/59/B
+[DEBUG]: 11/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/58/B
+[DEBUG]: 10/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/58/B
+[DEBUG]: 10/19/B
+[Player Coords]x:28 y:8
+[DEBUG]: 11/57/B
+[DEBUG]: 10/20/B
+[Player Coords]x:29 y:8
+[DEBUG]: 11/58/B
+[DEBUG]: 9/20/B
+[Player Coords]x:30 y:8
+[DEBUG]: 11/59/B
+[DEBUG]: 8/20/B
+[Player Coords]x:31 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/20/B
+[Player Coords]x:32 y:8
+[DEBUG]: 11/59/B
+[DEBUG]: 9/20/B
+[Player Coords]x:33 y:8
+[DEBUG]: 11/58/B
+[DEBUG]: 9/20/B
+[Player Coords]x:34 y:8
+[DEBUG]: 12/58/B
+[DEBUG]: 9/21/B
+[Player Coords]x:35 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 9/20/B
+[Player Coords]x:36 y:8
+[DEBUG]: 13/59/B
+[DEBUG]: 9/19/B
+[Player Coords]x:37 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/19/B
+[Player Coords]x:38 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/18/B
+[Player Coords]x:39 y:8
+[DEBUG]: 12/59/B
+[DEBUG]: 8/18/B
+[Player Coords]x:40 y:8
+[DEBUG]: 12/58/B
+[DEBUG]: 7/18/B
+[Player Coords]x:41 y:8
+[DEBUG]: 12/57/B
+[DEBUG]: 7/17/B
+[Player Coords]x:41 y:8
+[DEBUG]: 13/57/B
+[DEBUG]: 8/17/B
+[Player Coords]x:42 y:8
+[DEBUG]: 12/57/B
+[DEBUG]: 8/16/B
+[Player Coords]x:42 y:8
+[DEBUG]: 13/57/B
+[DEBUG]: 8/17/B
+[Player Coords]x:43 y:8
+[DEBUG]: 13/58/B
+[DEBUG]: 8/18/B
+[Player Coords]x:44 y:8
+[DEBUG]: 12/58/B
+[DEBUG]: 8/19/B
+[Player Coords]x:45 y:8
+[DEBUG]: 12/57/B
+[DEBUG]: 8/19/B
+[Player Coords]x:46 y:8
+[DEBUG]: 11/57/B
+[DEBUG]: 8/19/B
+[Player Coords]x:47 y:8
+[DEBUG]: 10/57/B
+[DEBUG]: 7/19/B
+[Player Coords]x:48 y:8
+[DEBUG]: 9/57/B
+[DEBUG]: 7/18/B
+[Player Coords]x:49 y:8
+[DEBUG]: 9/57/B
+[DEBUG]: 8/18/B
+[Player Coords]x:50 y:8
+[DEBUG]: 9/56/B
+[DEBUG]: 8/18/B
+[Player Coords]x:51 y:8
+[DEBUG]: 9/57/B
+[DEBUG]: 8/18/B
+[Player Coords]x:52 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/55/B
+[Enemy Move]From [9/56/B] --> [9/55/B]
+[DEBUG]: 9/18/B
+[Player Coords]x:53 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/54/B
+[Enemy Move]From [9/55/B] --> [9/54/B]
+[DEBUG]: 9/18/B
+[Player Coords]x:53 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/53/B
+[Enemy Move]From [9/54/B] --> [9/53/B]
+[DEBUG]: 10/18/B
+[Player Coords]x:52 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/52/B
+[Enemy Move]From [9/53/B] --> [9/52/B]
+[DEBUG]: 10/19/B
+[Player Coords]x:51 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/51/B
+[Enemy Move]From [9/52/B] --> [9/51/B]
+[DEBUG]: 10/20/B
+[Player Coords]x:50 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/50/B
+[Enemy Move]From [9/51/B] --> [9/50/B]
+[DEBUG]: 9/20/B
+[Player Coords]x:49 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/49/B
+[Enemy Move]From [9/50/B] --> [9/49/B]
+[DEBUG]: 9/21/B
+[Player Coords]x:48 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/48/B
+[Enemy Move]From [9/49/B] --> [9/48/B]
+[DEBUG]: 9/21/B
+[Player Coords]x:47 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/47/B
+[Enemy Move]From [9/48/B] --> [9/47/B]
+[DEBUG]: 9/21/B
+[Player Coords]x:46 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/46/B
+[Enemy Move]From [9/47/B] --> [9/46/B]
+[DEBUG]: 9/22/B
+[Player Coords]x:45 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/45/B
+[Enemy Move]From [9/46/B] --> [9/45/B]
+[DEBUG]: 9/23/B
+[Player Coords]x:44 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/44/B
+[Enemy Move]From [9/45/B] --> [9/44/B]
+[DEBUG]: 8/23/B
+[Player Coords]x:43 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/43/B
+[Enemy Move]From [9/44/B] --> [9/43/B]
+[DEBUG]: 8/22/B
+[Player Coords]x:42 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/42/B
+[Enemy Move]From [9/43/B] --> [9/42/B]
+[DEBUG]: 8/23/B
+[Player Coords]x:41 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/41/B
+[Enemy Move]From [9/42/B] --> [9/41/B]
+[DEBUG]: 9/23/B
+[Player Coords]x:40 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/40/B
+[Enemy Move]From [9/41/B] --> [9/40/B]
+[DEBUG]: 9/22/B
+[Player Coords]x:39 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/39/B
+[Enemy Move]From [9/40/B] --> [9/39/B]
+[DEBUG]: 8/22/B
+[Player Coords]x:38 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/38/B
+[Enemy Move]From [9/39/B] --> [9/38/B]
+[DEBUG]: 8/23/B
+[Player Coords]x:37 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/37/B
+[Enemy Move]From [9/38/B] --> [9/37/B]
+[DEBUG]: 8/22/B
+[Player Coords]x:36 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/36/B
+[Enemy Move]From [9/37/B] --> [9/36/B]
+[DEBUG]: 8/22/B
+[Player Coords]x:35 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/35/B
+[Enemy Move]From [9/36/B] --> [9/35/B]
+[DEBUG]: 9/22/B
+[Player Coords]x:34 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/34/B
+[Enemy Move]From [9/35/B] --> [9/34/B]
+[DEBUG]: 10/22/B
+[Player Coords]x:33 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/33/B
+[Enemy Move]From [9/34/B] --> [9/33/B]
+[DEBUG]: 11/22/B
+[Player Coords]x:32 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/32/B
+[Enemy Move]From [9/33/B] --> [9/32/B]
+[DEBUG]: 11/23/B
+[Player Coords]x:31 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/31/B
+[Enemy Move]From [9/32/B] --> [9/31/B]
+[DEBUG]: 12/23/B
+[Player Coords]x:30 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/30/B
+[Enemy Move]From [9/31/B] --> [9/30/B]
+[DEBUG]: 13/23/B
+[Player Coords]x:29 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/29/B
+[Enemy Move]From [9/30/B] --> [9/29/B]
+[DEBUG]: 13/23/B
+[Player Coords]x:28 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/28/B
+[Enemy Move]From [9/29/B] --> [9/28/B]
+[DEBUG]: 13/24/B
+[Player Coords]x:27 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/27/B
+[Enemy Move]From [9/28/B] --> [9/27/B]
+[DEBUG]: 13/23/B
+[Player Coords]x:26 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/26/B
+[Enemy Move]From [9/27/B] --> [9/26/B]
+[DEBUG]: 13/23/B
+[Player Coords]x:25 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/25/B
+[Enemy Move]From [9/26/B] --> [9/25/B]
+[DEBUG]: 13/22/B
+[Player Coords]x:24 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/24/B
+[Enemy Move]From [9/25/B] --> [9/24/B]
+[DEBUG]: 13/22/B
+[Player Coords]x:23 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/23/B
+[Enemy Move]From [9/24/B] --> [9/23/B]
+[Monster Move (B)]Dist: 4.123105625617661
+[New Gen List 1] --> 11/22/B
+[Enemy Move]From [12/22/B] --> [11/22/B]
+[Player Coords]x:22 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/22/B
+[Enemy Move]From [9/23/B] --> [9/22/B]
+[Monster Move (B)]Dist: 3.0
+[New Gen List 1] --> 10/22/B
+[Enemy Move]From [11/22/B] --> [10/22/B]
+[Player Coords]x:21 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/21/B
+[Enemy Move]From [9/22/B] --> [9/21/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/22/B
+[Enemy Move]From [10/22/B] --> [9/22/B]
+[Player Coords]x:20 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/20/B
+[Enemy Move]From [9/21/B] --> [9/20/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/21/B
+[Enemy Move]From [9/22/B] --> [9/21/B]
+[Player Coords]x:19 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/19/B
+[Enemy Move]From [9/20/B] --> [9/19/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/20/B
+[Enemy Move]From [9/21/B] --> [9/20/B]
+[Player Coords]x:18 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/18/B
+[Enemy Move]From [9/19/B] --> [9/18/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/19/B
+[Enemy Move]From [9/20/B] --> [9/19/B]
+[Player Coords]x:17 y:8
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/17/B
+[Enemy Move]From [9/18/B] --> [9/17/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/18/B
+[Enemy Move]From [9/19/B] --> [9/18/B]
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 8/17/B
+[Enemy Move]From [9/17/B] --> [8/17/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/17/B
+[Enemy Move]From [9/18/B] --> [9/17/B]
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 7/17/B
+[Enemy Move]From [8/17/B] --> [7/17/B]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/17/B
+[Enemy Move]From [9/17/B] --> [8/17/B]
+[Player Coords]x:16 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 6/17/B
+[Enemy Move]From [7/17/B] --> [6/17/B]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 7/17/B
+[Enemy Move]From [8/17/B] --> [7/17/B]
+[Player Coords]x:16 y:6
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 5/17/B
+[Enemy Move]From [6/17/B] --> [5/17/B]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 6/17/B
+[Enemy Move]From [7/17/B] --> [6/17/B]
+[Player Coords]x:16 y:5
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/17/B
+[Enemy Move]From [5/17/B] --> [4/17/B]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/17/B
+[Enemy Move]From [6/17/B] --> [5/17/B]
+[Player Coords]x:16 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/16/B
+[Enemy Move]From [4/17/B] --> [4/16/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/16/B
+[Enemy Move]From [5/17/B] --> [5/16/B]
+[Player Coords]x:15 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/15/B
+[Enemy Move]From [4/16/B] --> [4/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/15/B
+[Enemy Move]From [5/16/B] --> [5/15/B]
+[Player Coords]x:14 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/14/B
+[Enemy Move]From [4/15/B] --> [4/14/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/14/B
+[Enemy Move]From [5/15/B] --> [5/14/B]
+[Player Coords]x:13 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/13/B
+[Enemy Move]From [4/14/B] --> [4/13/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/13/B
+[Enemy Move]From [5/14/B] --> [5/13/B]
+[Player Coords]x:12 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/12/B
+[Enemy Move]From [4/13/B] --> [4/12/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/12/B
+[Enemy Move]From [5/13/B] --> [5/12/B]
+[Player Coords]x:11 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 4/11/B
+[Enemy Move]From [4/12/B] --> [4/11/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/11/B
+[Enemy Move]From [5/12/B] --> [5/11/B]
+[Player Coords]x:10 y:4
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 5/11/B
+[Enemy Move]From [4/11/B] --> [5/11/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 5/10/B
+[Enemy Move]From [5/11/B] --> [5/10/B]
+[Player Coords]x:10 y:5
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 6/11/B
+[Enemy Move]From [5/11/B] --> [6/11/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 6/10/B
+[Enemy Move]From [5/10/B] --> [6/10/B]
+[Player Coords]x:10 y:6
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 7/11/B
+[Enemy Move]From [6/11/B] --> [7/11/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 7/10/B
+[Enemy Move]From [6/10/B] --> [7/10/B]
+[Player Coords]x:10 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 8/11/B
+[Enemy Move]From [7/11/B] --> [8/11/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/10/B
+[Enemy Move]From [7/10/B] --> [8/10/B]
+[Player Coords]x:10 y:8
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/11/B
+[Enemy Move]From [8/11/B] --> [9/11/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/10/B
+[Enemy Move]From [8/10/B] --> [9/10/B]
+[Player Coords]x:10 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 8/11/B
+[Enemy Move]From [9/11/B] --> [8/11/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/11/B
+[Enemy Move]From [9/10/B] --> [9/11/B]
+[Player Coords]x:11 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/11/B
+[Enemy Move]From [8/11/B] --> [9/11/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/12/B
+[Enemy Move]From [9/11/B] --> [9/12/B]
+[Player Coords]x:12 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/12/B
+[Enemy Move]From [9/11/B] --> [9/12/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/13/B
+[Enemy Move]From [9/12/B] --> [9/13/B]
+[Player Coords]x:13 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/13/B
+[Enemy Move]From [9/12/B] --> [9/13/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/14/B
+[Enemy Move]From [9/13/B] --> [9/14/B]
+[Player Coords]x:14 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/14/B
+[Enemy Move]From [9/13/B] --> [9/14/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/15/B
+[Enemy Move]From [9/14/B] --> [9/15/B]
+[Player Coords]x:15 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/15/B
+[Enemy Move]From [9/14/B] --> [9/15/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/16/B
+[Enemy Move]From [9/15/B] --> [9/16/B]
+[Player Coords]x:16 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/15/B
+[Enemy Move]From [9/15/B] --> [8/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/16/B
+[Enemy Move]From [9/16/B] --> [8/16/B]
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/15/B
+[Enemy Move]From [8/15/B] --> [9/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/16/B
+[Enemy Move]From [8/16/B] --> [9/16/B]
+[Player Coords]x:16 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/15/B
+[Enemy Move]From [9/15/B] --> [8/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/16/B
+[Enemy Move]From [9/16/B] --> [8/16/B]
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/15/B
+[Enemy Move]From [8/15/B] --> [9/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/16/B
+[Enemy Move]From [8/16/B] --> [9/16/B]
+[Player Coords]x:16 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/15/B
+[Enemy Move]From [9/15/B] --> [8/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/16/B
+[Enemy Move]From [9/16/B] --> [8/16/B]
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/15/B
+[Enemy Move]From [8/15/B] --> [9/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/16/B
+[Enemy Move]From [8/16/B] --> [9/16/B]
+[Player Coords]x:16 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/15/B
+[Enemy Move]From [9/15/B] --> [10/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 10/16/B
+[Enemy Move]From [9/16/B] --> [10/16/B]
+[Player Coords]x:16 y:10
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 11/15/B
+[Enemy Move]From [10/15/B] --> [11/15/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 11/16/B
+[Enemy Move]From [10/16/B] --> [11/16/B]
+[Player Coords]x:16 y:11
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 11/16/B
+[Enemy Move]From [11/15/B] --> [11/16/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/17/B
+[Enemy Move]From [11/16/B] --> [11/17/B]
+[Player Coords]x:17 y:11
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 11/17/B
+[Enemy Move]From [11/16/B] --> [11/17/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/18/B
+[Enemy Move]From [11/17/B] --> [11/18/B]
+[Player Coords]x:18 y:11
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 11/18/B
+[Enemy Move]From [11/17/B] --> [11/18/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 11/19/B
+[Enemy Move]From [11/18/B] --> [11/19/B]
+[Player Coords]x:19 y:11
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/18/B
+[Enemy Move]From [11/18/B] --> [10/18/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 10/19/B
+[Enemy Move]From [11/19/B] --> [10/19/B]
+[Player Coords]x:19 y:10
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/18/B
+[Enemy Move]From [10/18/B] --> [9/18/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/19/B
+[Enemy Move]From [10/19/B] --> [9/19/B]
+[Player Coords]x:19 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/19/B
+[Enemy Move]From [9/18/B] --> [9/19/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/20/B
+[Enemy Move]From [9/19/B] --> [9/20/B]
+[Player Coords]x:20 y:9
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 9/20/B
+[Enemy Move]From [9/19/B] --> [9/20/B]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/21/B
+[Enemy Move]From [9/20/B] --> [9/21/B]
+[Player Coords]x:21 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/20/B
+[Enemy Move]From [9/20/B] --> [8/20/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 9/22/B
+[Enemy Move]From [9/21/B] --> [9/22/B]
+[Player Coords]x:21 y:8
+[Monster Move (B)]Dist: 3.0
+[New Gen List 0] --> 8/19/B
+[Enemy Move]From [8/20/B] --> [8/19/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/22/B
+[Enemy Move]From [9/22/B] --> [8/22/B]
+[Player Coords]x:22 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/20/B
+[Enemy Move]From [8/19/B] --> [8/20/B]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/23/B
+[Enemy Move]From [8/22/B] --> [8/23/B]
+[Player Coords]x:22 y:7
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/21/B
+[Enemy Move]From [8/20/B] --> [8/21/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [8/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 8/22/B
+[Enemy Move]From [8/21/B] --> [8/22/B]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/23/B
+[Enemy Move]From [8/22/B] --> [8/23/B]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 7/23/B
+[Enemy Move]From [8/23/B] --> [7/23/B]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 0] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 0] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [7/23/B] --> [7/23/B]
+[Player Coords]x:22 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 8/23/B
+[Enemy Move]From [7/23/B] --> [8/23/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/23/B
+[Enemy Move]From [7/23/B] --> [8/23/B]
+[Player Coords]x:23 y:7
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 7/23/B
+[Enemy Move]From [8/23/B] --> [7/23/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/23/B
+[Enemy Move]From [8/23/B] --> [7/23/B]
+[Player Coords]x:23 y:8
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/23/B
+[Enemy Move]From [7/23/B] --> [8/23/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 8/23/B
+[Enemy Move]From [7/23/B] --> [8/23/B]
+[Player Coords]x:23 y:9
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/23/B
+[Enemy Move]From [8/23/B] --> [9/23/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/23/B
+[Enemy Move]From [8/23/B] --> [9/23/B]
+[Player Coords]x:23 y:10
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/23/B
+[Enemy Move]From [9/23/B] --> [10/23/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/23/B
+[Enemy Move]From [9/23/B] --> [10/23/B]
+[Player Coords]x:23 y:11
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 0] --> 11/23/B
+[Enemy Move]From [10/23/B] --> [11/23/B]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 11/23/B
+[Enemy Move]From [10/23/B] --> [11/23/B]
+[Player Coords]x:23 y:12
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 12/23/B
+[Enemy Move]From [11/23/B] --> [12/23/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/23/B
+[Enemy Move]From [11/23/B] --> [12/23/B]
+[Player Coords]x:22 y:12
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 11/23/B
+[Enemy Move]From [12/23/B] --> [11/23/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/23/B
+[Enemy Move]From [12/23/B] --> [11/23/B]
+[Player Coords]x:22 y:11
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 11/22/B
+[Enemy Move]From [11/23/B] --> [11/22/B]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 11/22/B
+[Enemy Move]From [11/23/B] --> [11/22/B]
+[Player Coords]x:21 y:11
+[Item Spawn]x:64 y:2
+[Item Spawn]x:31 y:5
+[Item Spawn]x:93 y:15
+[Item Spawn]x:15 y:4
+[Item Spawn]x:34 y:7
+[Item Spawn]x:80 y:1
+[Item Spawn]x:64 y:10
+[Monster Spawn]x:40 y:1
+[Monster Spawn]x:2 y:10
+[Monster Spawn]x:90 y:8
+[Monster Spawn]x:73 y:3
+[Monster Spawn]x:73 y:1
+[Monster Spawn]x:74 y:8
+[Player Coords]x:18 y:5
+[DEBUG]: 8/90/&
+[DEBUG]: 8/74/$
+[Player Coords]x:18 y:6
+[DEBUG]: 8/90/&
+[DEBUG]: 9/74/$
+[Player Coords]x:18 y:7
+[DEBUG]: 8/89/&
+[DEBUG]: 10/74/$
+[Player Coords]x:18 y:8
+[DEBUG]: 8/90/&
+[DEBUG]: 9/74/$
+[Player Coords]x:18 y:9
+[DEBUG]: 8/90/&
+[DEBUG]: 9/75/$
+[Player Coords]x:19 y:9
+[Item Spawn]x:91 y:14
+[Item Spawn]x:74 y:7
+[Item Spawn]x:12 y:13
+[Item Spawn]x:4 y:6
+[Item Spawn]x:61 y:12
+[Item Spawn]x:44 y:2
+[Item Spawn]x:55 y:6
+[Monster Spawn]x:87 y:2
+[Monster Spawn]x:99 y:14
+[Monster Spawn]x:26 y:14
+[Monster Spawn]x:28 y:14
+[Player Coords]x:18 y:5
+[DEBUG]: 14/26/&
+[DEBUG]: 14/28/B
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 14/25/&
+[DEBUG]: 14/28/B
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 14/25/&
+[DEBUG]: 14/27/B
+#######[TURN1]##########
+[Player Coords]x:17 y:6
+[DEBUG]: 14/25/&
+[DEBUG]: 14/27/B
+#######[TURN1]##########
+[Player Coords]x:17 y:5
+[DEBUG]: 14/25/&
+[DEBUG]: 14/28/B
+#######[TURN1]##########
+[Player Coords]x:17 y:4
+[DEBUG]: 14/25/&
+[DEBUG]: 14/28/B
+#######[TURN1]##########
+[Player Coords]x:16 y:4
+[DEBUG]: 14/25/&
+[DEBUG]: 13/28/B
+#######[TURN1]##########
+[Player Coords]x:15 y:4
+[Item Spawn]x:30 y:13
+[Item Spawn]x:50 y:4
+[Item Spawn]x:22 y:9
+[Item Spawn]x:84 y:3
+[Item Spawn]x:20 y:14
+[Item Spawn]x:47 y:9
+[Item Spawn]x:27 y:2
+[Item Spawn]x:93 y:4
+[Item Spawn]x:64 y:8
+[Monster Spawn]x:50 y:2
+[Monster Spawn]x:3 y:11
+[Monster Spawn]x:88 y:9
+[Monster Spawn]x:18 y:14
+[Monster Spawn]x:73 y:13
+[Player Coords]x:18 y:5
+[DEBUG]: 14/18/&
+[DEBUG]: 13/73/$
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 14/19/&
+[DEBUG]: 13/73/$
+#######[TURN2]##########
+[Player Coords]x:18 y:7
+[DEBUG]: 14/19/&
+[DEBUG]: 12/73/$
+#######[TURN3]##########
+[Player Coords]x:18 y:8
+[DEBUG]: 14/18/&
+[DEBUG]: 12/74/$
+#######[TURN4]##########
+[Player Coords]x:18 y:7
+[DEBUG]: 14/18/&
+[DEBUG]: 12/75/$
+#######[TURN5]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 14/18/&
+[DEBUG]: 12/76/$
+#######[TURN6]##########
+[Player Coords]x:18 y:5
+[DEBUG]: 14/17/&
+[DEBUG]: 11/76/$
+#######[TURN7]##########
+[Player Coords]x:17 y:5
+[DEBUG]: 14/16/&
+[DEBUG]: 11/75/$
+#######[TURN8]##########
+[Player Coords]x:16 y:5
+[DEBUG]: 13/16/&
+[DEBUG]: 12/75/$
+#######[TURN9]##########
+[Player Coords]x:15 y:5
+[DEBUG]: 13/15/&
+[DEBUG]: 12/76/$
+#######[TURN10]##########
+[Player Coords]x:14 y:5
+[DEBUG]: 13/15/&
+[DEBUG]: 12/77/$
+#######[TURN11]##########
+[Player Coords]x:13 y:5
+[DEBUG]: 13/14/&
+[DEBUG]: 13/77/$
+#######[TURN12]##########
+[Player Coords]x:12 y:5
+[DEBUG]: 13/13/&
+[DEBUG]: 13/78/$
+#######[TURN13]##########
+[Player Coords]x:11 y:5
+[DEBUG]: 13/14/&
+[DEBUG]: 13/79/$
+#######[TURN14]##########
+[Player Coords]x:10 y:5
+[DEBUG]: 12/14/&
+[DEBUG]: 12/79/$
+#######[TURN15]##########
+[Player Coords]x:9 y:5
+[DEBUG]: 11/14/&
+[DEBUG]: 12/80/$
+#######[TURN16]##########
+[Player Coords]x:9 y:4
+[DEBUG]: 11/15/&
+[DEBUG]: 12/80/$
+#######[TURN17]##########
+[Player Coords]x:9 y:3
+[DEBUG]: 12/15/&
+[DEBUG]: 12/81/$
+#######[TURN18]##########
+[Player Coords]x:9 y:2
+[DEBUG]: 13/15/&
+[DEBUG]: 12/81/$
+#######[TURN19]##########
+[Player Coords]x:9 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/81/$
+#######[TURN20]##########
+[Player Coords]x:8 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/81/$
+#######[TURN21]##########
+[Player Coords]x:7 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 11/81/$
+#######[TURN22]##########
+[Player Coords]x:6 y:1
+[DEBUG]: 13/14/&
+[DEBUG]: 11/81/$
+#######[TURN23]##########
+[Player Coords]x:5 y:1
+[DEBUG]: 13/14/&
+[DEBUG]: 11/81/$
+#######[TURN24]##########
+[Player Coords]x:4 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/81/$
+#######[TURN25]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/16/&
+[DEBUG]: 12/81/$
+#######[TURN26]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 12/81/$
+#######[TURN27]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/16/&
+[DEBUG]: 12/81/$
+#######[TURN28]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 12/81/$
+#######[TURN29]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 12/81/$
+#######[TURN30]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/17/&
+[DEBUG]: 12/81/$
+#######[TURN31]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/17/&
+[DEBUG]: 12/80/$
+#######[TURN32]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/17/&
+[DEBUG]: 12/80/$
+#######[TURN33]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/17/&
+[DEBUG]: 12/81/$
+#######[TURN34]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/17/&
+[DEBUG]: 12/81/$
+#######[TURN35]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/17/&
+[DEBUG]: 12/81/$
+#######[TURN36]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/17/&
+[DEBUG]: 12/81/$
+#######[TURN37]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/16/&
+[DEBUG]: 12/81/$
+#######[TURN38]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 11/81/$
+#######[TURN39]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 11/80/$
+#######[TURN40]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/15/&
+[DEBUG]: 11/81/$
+#######[TURN41]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/15/&
+[DEBUG]: 11/81/$
+#######[TURN42]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/15/&
+[DEBUG]: 11/80/$
+#######[TURN43]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/80/$
+#######[TURN44]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/80/$
+#######[TURN45]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/16/&
+[DEBUG]: 12/80/$
+#######[TURN46]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/81/$
+#######[TURN47]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/14/&
+[DEBUG]: 12/80/$
+#######[TURN48]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/15/&
+[DEBUG]: 12/80/$
+#######[TURN49]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/15/&
+[DEBUG]: 12/81/$
+#######[TURN50]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/16/&
+[DEBUG]: 12/81/$
+#######[TURN51]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 14/17/&
+[DEBUG]: 11/81/$
+#######[TURN52]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/17/&
+[DEBUG]: 10/81/$
+#######[TURN53]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 10/82/$
+#######[TURN54]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 11/82/$
+#######[TURN55]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 11/81/$
+#######[TURN56]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 12/81/$
+#######[TURN57]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/19/&
+[DEBUG]: 12/81/$
+#######[TURN58]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 12/81/$
+#######[TURN59]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/18/&
+[DEBUG]: 11/81/$
+#######[TURN60]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/18/&
+[DEBUG]: 11/82/$
+#######[TURN61]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/18/&
+[DEBUG]: 10/82/$
+#######[TURN62]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/18/&
+[DEBUG]: 10/83/$
+#######[TURN63]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 10/83/$
+#######[TURN64]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 11/83/$
+#######[TURN65]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/19/&
+[DEBUG]: 10/83/$
+#######[TURN66]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 10/84/$
+#######[TURN67]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/18/&
+[DEBUG]: 10/84/$
+#######[TURN68]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/18/&
+[DEBUG]: 9/84/$
+#######[TURN69]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 9/85/$
+#######[TURN70]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/85/$
+#######[TURN71]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 8/84/$
+#######[TURN72]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 8/84/$
+#######[TURN73]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/85/$
+#######[TURN74]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/85/$
+#######[TURN75]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/84/$
+#######[TURN76]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 8/85/$
+#######[TURN77]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/15/&
+[DEBUG]: 9/85/$
+#######[TURN78]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/15/&
+[DEBUG]: 9/85/$
+#######[TURN79]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 9/85/$
+#######[TURN80]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 9/84/$
+#######[TURN81]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 9/85/$
+#######[TURN82]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 9/85/$
+#######[TURN83]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/15/&
+[DEBUG]: 9/85/$
+#######[TURN84]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/16/&
+[DEBUG]: 9/86/$
+#######[TURN85]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 9/86/$
+#######[TURN86]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/86/$
+#######[TURN87]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 8/85/$
+#######[TURN88]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/17/&
+[DEBUG]: 8/84/$
+#######[TURN89]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 8/84/$
+#######[TURN90]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 8/85/$
+#######[TURN91]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/17/&
+[DEBUG]: 9/85/$
+#######[TURN92]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 9/84/$
+#######[TURN93]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/17/&
+[DEBUG]: 8/84/$
+#######[TURN94]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/17/&
+[DEBUG]: 8/83/$
+#######[TURN95]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/18/&
+[DEBUG]: 8/83/$
+#######[TURN96]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/17/&
+[DEBUG]: 8/83/$
+#######[TURN97]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/18/&
+[DEBUG]: 8/84/$
+#######[TURN98]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/17/&
+[DEBUG]: 8/83/$
+#######[TURN99]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/17/&
+[DEBUG]: 8/82/$
+#######[TURN100]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/16/&
+[DEBUG]: 8/83/$
+#######[TURN101]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/16/&
+[DEBUG]: 8/83/$
+#######[TURN102]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/15/&
+[DEBUG]: 8/83/$
+#######[TURN103]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/16/&
+[DEBUG]: 8/84/$
+#######[TURN104]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/17/&
+[DEBUG]: 8/83/$
+#######[TURN105]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/16/&
+[DEBUG]: 8/84/$
+#######[TURN106]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/16/&
+[DEBUG]: 8/84/$
+#######[TURN107]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/16/&
+[DEBUG]: 8/83/$
+#######[TURN108]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/15/&
+[DEBUG]: 9/83/$
+#######[TURN109]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/15/&
+[DEBUG]: 10/83/$
+#######[TURN110]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/16/&
+[DEBUG]: 11/83/$
+#######[TURN111]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/16/&
+[DEBUG]: 11/82/$
+#######[TURN112]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/16/&
+[DEBUG]: 11/82/$
+#######[TURN113]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/16/&
+[DEBUG]: 11/81/$
+#######[TURN114]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/15/&
+[DEBUG]: 11/80/$
+#######[TURN115]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 11/79/$
+#######[TURN116]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/15/&
+[DEBUG]: 11/80/$
+#######[TURN117]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 11/81/$
+#######[TURN118]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/13/&
+[DEBUG]: 11/82/$
+#######[TURN119]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/13/&
+[DEBUG]: 11/83/$
+#######[TURN120]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/13/&
+[DEBUG]: 11/82/$
+#######[TURN121]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 13/13/&
+[DEBUG]: 11/82/$
+#######[TURN122]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/13/&
+[DEBUG]: 11/82/$
+#######[TURN123]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 11/82/$
+#######[TURN124]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 11/82/$
+#######[TURN125]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/12/&
+[DEBUG]: 11/82/$
+#######[TURN126]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/12/&
+[DEBUG]: 11/82/$
+#######[TURN127]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/12/&
+[DEBUG]: 10/82/$
+#######[TURN128]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/11/&
+[DEBUG]: 9/82/$
+#######[TURN129]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/11/&
+[DEBUG]: 9/82/$
+#######[TURN130]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/10/&
+[DEBUG]: 9/83/$
+#######[TURN131]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/11/&
+[DEBUG]: 9/82/$
+#######[TURN132]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/11/&
+[DEBUG]: 10/82/$
+#######[TURN133]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/12/&
+[DEBUG]: 11/82/$
+#######[TURN134]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 9/12/&
+[DEBUG]: 11/81/$
+#######[TURN135]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 10/12/&
+[DEBUG]: 11/82/$
+#######[TURN136]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/12/&
+[DEBUG]: 11/82/$
+#######[TURN137]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 11/81/$
+#######[TURN138]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/12/&
+[DEBUG]: 10/81/$
+#######[TURN139]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/13/&
+[DEBUG]: 10/81/$
+#######[TURN140]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/12/&
+[DEBUG]: 10/82/$
+#######[TURN141]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/13/&
+[DEBUG]: 9/82/$
+#######[TURN142]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 9/82/$
+#######[TURN143]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 9/83/$
+#######[TURN144]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/15/&
+[DEBUG]: 10/83/$
+#######[TURN145]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 10/84/$
+#######[TURN146]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 10/83/$
+#######[TURN147]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/13/&
+[DEBUG]: 9/83/$
+#######[TURN148]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/14/&
+[DEBUG]: 9/82/$
+#######[TURN149]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/13/&
+[DEBUG]: 9/81/$
+#######[TURN150]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/13/&
+[DEBUG]: 8/81/$
+#######[TURN151]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 8/81/$
+#######[TURN152]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 9/81/$
+#######[TURN153]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 9/80/$
+#######[TURN154]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/80/$
+#######[TURN155]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/79/$
+#######[TURN156]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/79/$
+#######[TURN157]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/79/$
+#######[TURN158]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 11/11/&
+[DEBUG]: 8/79/$
+#######[TURN159]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/79/$
+#######[TURN160]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/80/$
+#######[TURN161]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/11/&
+[DEBUG]: 8/81/$
+#######[TURN162]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 8/82/$
+#######[TURN163]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/12/&
+[DEBUG]: 8/81/$
+#######[TURN164]##########
+[Player Coords]x:3 y:1
+[DEBUG]: 12/13/&
+[DEBUG]: 8/82/$
+#######[TURN165]##########
+[Player Coords]x:3 y:1
+#######[TURN0]##########
+[Item Spawn]x:28 y:1
+[Item Spawn]x:73 y:15
+[Item Spawn]x:49 y:7
+[Item Spawn]x:39 y:11
+[Item Spawn]x:63 y:13
+[Item Spawn]x:83 y:12
+[Item Spawn]x:60 y:6
+[Item Spawn]x:65 y:14
+[Item Spawn]x:76 y:9
+[Item Spawn]x:28 y:15
+[Item Spawn]x:63 y:10
+[Monster Spawn]x:75 y:7
+[Monster Spawn]x:82 y:8
+[Player Coords]x:18 y:5
+[ERROR] Slot Invalid
+[DEBUG]: 7/75/B
+[DEBUG]: 8/82/&
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+#######[TURN0]##########
+[Item Spawn]x:71 y:8
+[Item Spawn]x:36 y:9
+[Item Spawn]x:27 y:4
+[Item Spawn]x:61 y:7
+[Item Spawn]x:22 y:1
+[Item Spawn]x:15 y:4
+[Item Spawn]x:58 y:4
+[Item Spawn]x:10 y:10
+[Monster Spawn]x:2 y:15
+[Monster Spawn]x:77 y:12
+[Monster Spawn]x:56 y:6
+[Player Coords]x:18 y:5
+[ERROR] Slot Invalid
+[DEBUG]: 12/77/$
+[DEBUG]: 6/56/&
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+#######[TURN0]##########
+[Item Spawn]x:8 y:3
+[Item Spawn]x:97 y:2
+[Item Spawn]x:28 y:10
+[Item Spawn]x:48 y:14
+[Item Spawn]x:14 y:6
+[Item Spawn]x:15 y:3
+[Monster Spawn]x:35 y:2
+[Monster Spawn]x:7 y:12
+[Monster Spawn]x:70 y:11
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:9 y:11
+[Item Spawn]x:37 y:5
+[Item Spawn]x:9 y:14
+[Item Spawn]x:93 y:10
+[Item Spawn]x:71 y:3
+[Item Spawn]x:63 y:10
+[Item Spawn]x:19 y:3
+[Item Spawn]x:99 y:13
+[Item Spawn]x:33 y:15
+[Item Spawn]x:95 y:6
+[Item Spawn]x:2 y:9
+[Item Spawn]x:99 y:1
+[Item Spawn]x:37 y:9
+[Item Spawn]x:42 y:5
+[Monster Spawn]x:80 y:2
+[Monster Spawn]x:70 y:11
+[Monster Spawn]x:30 y:10
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:31 y:1
+[Item Spawn]x:8 y:13
+[Item Spawn]x:95 y:10
+[Item Spawn]x:60 y:12
+[Item Spawn]x:79 y:6
+[Item Spawn]x:77 y:14
+[Item Spawn]x:21 y:2
+[Item Spawn]x:63 y:3
+[Item Spawn]x:30 y:1
+[Item Spawn]x:65 y:14
+[Item Spawn]x:66 y:13
+[Item Spawn]x:87 y:2
+[Item Spawn]x:93 y:6
+[Monster Spawn]x:56 y:7
+[Monster Spawn]x:99 y:1
+[Monster Spawn]x:15 y:6
+[Player Coords]x:18 y:5
+[ERROR] Slot Invalid
+[DEBUG]: 7/56/$
+[Monster Move (&)]Dist: 2.0
+[New Gen List 1] --> 6/16/&
+[Enemy Move]From [6/15/&] --> [6/16/&]
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+#######[TURN0]##########
+[Item Spawn]x:72 y:10
+[Item Spawn]x:2 y:3
+[Item Spawn]x:31 y:12
+[Item Spawn]x:44 y:5
+[Item Spawn]x:82 y:1
+[Item Spawn]x:97 y:10
+[Item Spawn]x:97 y:13
+[Item Spawn]x:8 y:9
+[Monster Spawn]x:85 y:7
+[Monster Spawn]x:83 y:6
+[Monster Spawn]x:8 y:5
+[Monster Spawn]x:60 y:11
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:53 y:4
+[Item Spawn]x:10 y:15
+[Item Spawn]x:9 y:14
+[Item Spawn]x:24 y:10
+[Item Spawn]x:15 y:4
+[Item Spawn]x:7 y:4
+[Item Spawn]x:59 y:13
+[Item Spawn]x:5 y:5
+[Monster Spawn]x:60 y:5
+[Monster Spawn]x:70 y:13
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:18 y:6
+[Item Spawn]x:28 y:9
+[Item Spawn]x:0 y:5
+[Item Spawn]x:18 y:8
+[Item Spawn]x:66 y:12
+[Item Spawn]x:29 y:8
+[Item Spawn]x:82 y:14
+[Item Spawn]x:4 y:10
+[Item Spawn]x:67 y:9
+[Monster Spawn]x:10 y:6
+[Monster Spawn]x:0 y:14
+[Monster Spawn]x:98 y:2
+[Monster Spawn]x:100 y:14
+#######[TURN0]##########
+[Item Spawn]x:77 y:9
+[Item Spawn]x:1 y:2
+[Item Spawn]x:89 y:12
+[Item Spawn]x:0 y:2
+[Item Spawn]x:70 y:5
+[Item Spawn]x:80 y:14
+[Item Spawn]x:35 y:5
+[Item Spawn]x:62 y:9
+[Item Spawn]x:90 y:15
+[Item Spawn]x:97 y:7
+[Item Spawn]x:76 y:1
+[Item Spawn]x:19 y:6
+[Monster Spawn]x:64 y:11
+[Monster Spawn]x:37 y:4
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:94 y:1
+[Item Spawn]x:45 y:4
+[Item Spawn]x:41 y:3
+[Item Spawn]x:25 y:14
+[Item Spawn]x:84 y:7
+[Item Spawn]x:56 y:8
+[Item Spawn]x:51 y:1
+[Item Spawn]x:57 y:1
+[Item Spawn]x:23 y:12
+[Monster Spawn]x:19 y:7
+[Monster Spawn]x:60 y:8
+[Monster Spawn]x:3 y:2
+[Player Coords]x:18 y:5
+[SAVE] Sucess Saving all Data
+[Monster Move (B)]Dist: 1.0
+[New Gen List 0] --> 6/19/B
+[Enemy Move]From [7/19/B] --> [6/19/B]
+[DEBUG]: 2/3/$
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+#######[TURN0]##########
+[Item Spawn]x:93 y:14
+[Item Spawn]x:1 y:5
+[Item Spawn]x:78 y:5
+[Item Spawn]x:44 y:14
+[Item Spawn]x:90 y:12
+[Item Spawn]x:74 y:7
+[Item Spawn]x:11 y:13
+[Item Spawn]x:63 y:9
+[Item Spawn]x:42 y:8
+[Item Spawn]x:11 y:8
+[Item Spawn]x:87 y:4
+[Item Spawn]x:71 y:10
+[Monster Spawn]x:90 y:9
+[Monster Spawn]x:12 y:13
+[Monster Spawn]x:86 y:2
+[Monster Spawn]x:66 y:3
+[Monster Spawn]x:89 y:7
+[Player Coords]x:18 y:5
+#######[TURN0]##########
+[Item Spawn]x:56 y:11
+[Item Spawn]x:53 y:8
+[Item Spawn]x:98 y:12
+[Item Spawn]x:69 y:10
+[Item Spawn]x:53 y:7
+[Item Spawn]x:9 y:4
+[Monster Spawn]x:21 y:11
+[Monster Spawn]x:32 y:1
+[Monster Spawn]x:46 y:4
+[Monster Spawn]x:80 y:12
+[Player Coords]x:18 y:5
+[DEBUG]: 11/21/B
+[DEBUG]: 12/80/$
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 12/21/B
+[DEBUG]: 11/80/$
+#######[TURN2]##########
+[Player Coords]x:18 y:7
+[Monster Move (B)]Dist: 4.47213595499958
+[New Gen List 0] --> 11/21/B
+[Enemy Move]From [12/21/B] --> [11/21/B]
+[DEBUG]: 12/80/$
+#######[TURN3]##########
+[Player Coords]x:18 y:8
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 11/20/B
+[Enemy Move]From [11/21/B] --> [11/20/B]
+[DEBUG]: 12/79/$
+#######[TURN4]##########
+[Player Coords]x:17 y:8
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 11/19/B
+[Enemy Move]From [11/20/B] --> [11/19/B]
+[DEBUG]: 11/79/$
+#######[TURN5]##########
+[Player Coords]x:16 y:8
+[Monster Move (B)]Dist: 4.47213595499958
+[New Gen List 0] --> 10/19/B
+[Enemy Move]From [11/19/B] --> [10/19/B]
+[DEBUG]: 10/79/$
+#######[TURN6]##########
+[Player Coords]x:16 y:7
+[Monster Move (B)]Dist: 4.47213595499958
+[New Gen List 0] --> 9/19/B
+[Enemy Move]From [10/19/B] --> [9/19/B]
+[DEBUG]: 10/80/$
+#######[TURN7]##########
+[Player Coords]x:16 y:6
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 9/18/B
+[Enemy Move]From [9/19/B] --> [9/18/B]
+[DEBUG]: 10/79/$
+#######[TURN8]##########
+[Player Coords]x:15 y:6
+[SAVE] Sucess Saving all Data
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 0] --> 8/18/B
+[Enemy Move]From [9/18/B] --> [8/18/B]
+[DEBUG]: 10/79/$
+#######[TURN9]##########
+[Player Coords]x:15 y:6
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 8/17/B
+[Enemy Move]From [8/18/B] --> [8/17/B]
+[DEBUG]: 11/79/$
+#######[TURN10]##########
+[Player Coords]x:15 y:6
+[LOAD] Something Went Wrong
+[Player Coords]x:1 y:1
+[DEBUG]: 11/64/$
+[DEBUG]: 4/37/&
+#######[TURN1]##########
+[Player Coords]x:18 y:5
+[LOAD] Something Went Wrong
+[Player Coords]x:1 y:1
+[LOAD] Sucess LOADING all Data
+[Player Coords]x:15 y:6
+#######[TURN9]##########
+[Player Coords]x:15 y:5
+#######[TURN10]##########
+[Player Coords]x:15 y:4
+#######[TURN11]##########
+[Player Coords]x:14 y:4
+#######[TURN12]##########
+[Player Coords]x:14 y:5
+#######[TURN13]##########
+[Player Coords]x:14 y:6
+#######[TURN14]##########
+[Player Coords]x:14 y:7
+#######[TURN15]##########
+[Player Coords]x:14 y:8
+#######[TURN16]##########
+[Player Coords]x:15 y:8
+#######[TURN0]##########
+[Item Spawn]x:58 y:8
+[Item Spawn]x:66 y:13
+[Item Spawn]x:5 y:14
+[Item Spawn]x:99 y:5
+[Item Spawn]x:41 y:3
+[Item Spawn]x:36 y:15
+[Item Spawn]x:83 y:9
+[Item Spawn]x:98 y:7
+[Item Spawn]x:71 y:3
+[Item Spawn]x:74 y:2
+[Item Spawn]x:31 y:15
+[Item Spawn]x:96 y:3
+[Item Spawn]x:19 y:14
+[Monster Spawn]x:62 y:14
+[Monster Spawn]x:38 y:11
+[Player Coords]x:18 y:5
+[DEBUG]: 14/62/B
+[DEBUG]: 11/38/&
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 14/62/B
+[DEBUG]: 12/38/&
+#######[TURN2]##########
+[Player Coords]x:18 y:7
+[DEBUG]: 14/62/B
+[DEBUG]: 12/38/&
+#######[TURN3]##########
+[Player Coords]x:18 y:8
+[SAVE] Sucess Saving all Data
+[DEBUG]: 14/61/B
+[DEBUG]: 11/38/&
+#######[TURN4]##########
+[Player Coords]x:18 y:8
+[LOAD] Sucess LOADING all Data
+[Player Coords]x:18 y:8
+[DEBUG]: 14/61/B
+[DEBUG]: 11/38/&
+#######[TURN4]##########
+[Player Coords]x:18 y:9
+[DEBUG]: 14/60/B
+[DEBUG]: 11/37/&
+#######[TURN5]##########
+[Player Coords]x:17 y:9
+[DEBUG]: 14/59/B
+[DEBUG]: 11/37/&
+#######[TURN6]##########
+[Player Coords]x:17 y:8
+[DEBUG]: 14/59/B
+[DEBUG]: 11/38/&
+#######[TURN7]##########
+[Player Coords]x:17 y:7
+[DEBUG]: 14/60/B
+[DEBUG]: 11/39/&
+#######[TURN8]##########
+[Player Coords]x:17 y:6
+[DEBUG]: 14/59/B
+[DEBUG]: 11/39/&
+#######[TURN9]##########
+[Player Coords]x:16 y:6
+[DEBUG]: 14/59/B
+[DEBUG]: 12/39/&
+#######[TURN10]##########
+[Player Coords]x:15 y:6
+[DEBUG]: 14/59/B
+[DEBUG]: 11/39/&
+#######[TURN11]##########
+[Player Coords]x:14 y:6
+[DEBUG]: 14/59/B
+[DEBUG]: 11/40/&
+#######[TURN12]##########
+[Player Coords]x:13 y:6
+[DEBUG]: 14/59/B
+[DEBUG]: 11/39/&
+#######[TURN13]##########
+[Player Coords]x:13 y:5

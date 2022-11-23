@@ -3,6 +3,8 @@ import os
 from PIL import Image
 import random
 import math
+from datetime import datetime
+import pickle
 class Display:
     def draw_raw_Map():
         file = os.path.join("Assets","Maps","level"+str(g.STATS['Level'])+".gif")
@@ -106,7 +108,8 @@ class Colision():
             
 class Logs:
     def log(log):
-        file = open("logs.txt", "a")
+        date = datetime.today().strftime('%Y_%m_%d')
+        file = open(f"Logs\logs_{date}.txt", "a")
         file.write(log + "\n")
 
 class Generation():
@@ -233,4 +236,18 @@ class AI():
             g.NEW_GEN_MONSTER[ID] = f"{y}/{x-1}/{skin}"
         elif (choice == 4 and row[x+1] != "█"):
             g.NEW_GEN_MONSTER[ID] = f"{y}/{x+1}/{skin}"
-        
+
+class Data():
+    def save(slot):
+        try:
+            file = open(f'Saves/Save_{slot}.pkl', 'wb')
+            pickle.dump([g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv],file)
+            Logs.log("[SAVE] Sucess Saving all Data")
+            file.close()
+        except:
+            Logs.log("[ERROR] Slot Invalid")
+    def load(slot):
+        with open(f'Saves/Save_{slot}.pkl','rb') as f:
+            g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv = pickle.load(f)
+        Logs.log("[LOAD] Sucess LOADING all Data")
+
