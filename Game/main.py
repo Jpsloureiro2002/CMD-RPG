@@ -15,13 +15,14 @@ def Game(game_Start):
     Generation.gen_monster(2)
     while (game_Start and not g.DEAD):
         res()
-        Logs.log(f"{g.PLAYER_X}/{g.PLAYER_Y}")
+        Logs.log(f"[Player Coords]x:{g.PLAYER_X} y:{g.PLAYER_Y}")
         Display.update_map()
         Display.display_options()
         #print(g.Map)
         Option = input("")
         Colision.check_col()
         KeyEvent.KeyPress(Option)
+        AI.Monster_AI()
 def Options():
     while True:
         clsp()
