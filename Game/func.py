@@ -5,6 +5,7 @@ import random
 import math
 from datetime import datetime
 import pickle
+
 class Display:
     def draw_raw_Map():
         file = os.path.join("Assets","Maps","level"+str(g.STATS['Level'])+".gif")
@@ -71,6 +72,7 @@ class Display:
             for i in row:
                 r = r + i
             print(r)
+
 class KeyEvent():
     def KeyPress(option):
         if (option == "d" and not g.Move_Lock.get('d')):
@@ -81,6 +83,7 @@ class KeyEvent():
             g.PLAYER_Y = g.PLAYER_Y - 1
         elif (option == "s" and not g.Move_Lock.get('s')):
             g.PLAYER_Y = g.PLAYER_Y + 1
+
 class Colision():
     def check_col():
         wall = "█"
@@ -88,20 +91,23 @@ class Colision():
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
+        
         if row[g.PLAYER_X-2] == wall:
             g.Move_Lock['a'] = True
+            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Wall")
         else:
+            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Space")
             g.Move_Lock['a'] = False
         # o x+1 vai ser a pos do Player o x+2 vai ser a pos a direita do player isto por causa do temp na criação do mapa
         if row[g.PLAYER_X] == wall:
             g.Move_Lock['d'] = True
         else:
             g.Move_Lock['d'] = False
-        if row_Up[g.PLAYER_X] == wall:
+        if row_Up[g.PLAYER_X-1] == wall:
             g.Move_Lock['w'] = True
         else:
             g.Move_Lock['w'] = False
-        if row_Down[g.PLAYER_X] == wall:
+        if row_Down[g.PLAYER_X-1] == wall:
             g.Move_Lock['s'] = True
         else:
             g.Move_Lock['s'] = False
@@ -144,6 +150,7 @@ class Generation():
                     check = True
                 y = random.randint(1,15)
                 x = random.randint(0,100)
+
 class AI():
     def Monster_AI():
         IDs = 0
@@ -241,13 +248,14 @@ class Data():
     def save(slot):
         try:
             file = open(f'Saves/Save_{slot}.pkl', 'wb')
-            pickle.dump([g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv],file)
+            pickle.dump([g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv,g.equip],file)
             Logs.log("[SAVE] Sucess Saving all Data")
             file.close()
+            print("Save Done!")
         except:
             Logs.log("[ERROR] Slot Invalid")
     def load(slot):
         with open(f'Saves/Save_{slot}.pkl','rb') as f:
-            g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv = pickle.load(f)
+            g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv,g.equip = pickle.load(f)
         Logs.log("[LOAD] Sucess LOADING all Data")
 

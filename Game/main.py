@@ -23,10 +23,21 @@ def Game(game_Start, Load):
         Logs.log(f"[Player Coords]x:{g.PLAYER_X} y:{g.PLAYER_Y}")
         Display.update_map()
         Display.display_options()
-        Option = input("")
-        if (Option == "save"):
-            slot_chose= input("Witch Slot 1~5:\n")
-            Data.save(slot_chose)
+        while True:
+            Option = input("")
+            if (Option == "save"):
+                slot_chose= input("Witch Slot 1~5:\n")
+                Data.save(slot_chose)
+            elif(Option == "quit"):
+                choise = input("Are you shure your progress won't be save(y/n)!\n")
+                if choise == "y":
+                    clsp()
+                    banner = pyfiglet.figlet_format("Bye :(")
+                    print(banner)
+                    time.sleep(3)
+                    sys.exit()
+            else:
+                break
         Colision.check_col()
         KeyEvent.KeyPress(Option)
         AI.Monster_AI()
@@ -62,9 +73,9 @@ while True:
     clsp()
     banner = pyfiglet.figlet_format("Math Dungeons!!")
     print(banner)
-    print("Choose your Option: start, options(o), load*,quit(q)")
+    print("Choose your Option: start(s), options(o), load(l),quit(q)")
     op = input("Type Here:\n")
-    if op == "start":
+    if (op == "start" or op == "s"):
         game_Start = True
         Game(game_Start, False)
     if (op == "quit" or op == "q"):

@@ -39,7 +39,8 @@ class Global:
         'a':False,
     }
     #0-Swords 1-SHields 2- Armor
-    inv = {
+    inv = []
+    equip = {
         '-1':'hand',
         '0':'',
         '1':'',
