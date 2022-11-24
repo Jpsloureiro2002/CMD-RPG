@@ -19,6 +19,9 @@ class Display:
                 if pix[x,y] == (0,0,0):
                     r_m.append("█")
                     temp_char = "█"
+                if pix[x,y] == (0,255,0):
+                    r_m.append("≡")
+                    temp_char = "≡"
                 elif pix[x,y] == (255,255,255):
                     r_m.append(" ")
                     temp_char = " "
@@ -44,6 +47,8 @@ class Display:
             for x in range(100):
                 if pix[x,y] == (0,0,0):
                     r_m.append("█")
+                elif pix[x,y] == (0,255,0):
+                    r_m.append("≡")
                 elif pix[x,y] == (255,255,255):
                     r_m.append(" ")
                 elif pix[x,y] == (255,0,0):

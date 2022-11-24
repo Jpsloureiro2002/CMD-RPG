@@ -1,0 +1,2933 @@
+#######[TURN0]##########
+[Item Spawn]x:16 y:12
+[Item Spawn]x:12 y:10
+[Item Spawn]x:2 y:15
+[Item Spawn]x:57 y:11
+[Item Spawn]x:47 y:12
+[Item Spawn]x:76 y:15
+[Item Spawn]x:49 y:15
+[Item Spawn]x:58 y:15
+[Item Spawn]x:89 y:4
+[Item Spawn]x:50 y:2
+[Item Spawn]x:16 y:2
+[Item Spawn]x:10 y:3
+[Monster Spawn]x:78 y:12
+[Monster Spawn]x:7 y:11
+[Monster Spawn]x:71 y:5
+[Player Coords]x:18 y:5
+[DEBUG]: 12/78/$
+[DEBUG]: 5/71/$
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[DEBUG]: 12/79/$
+[DEBUG]: 5/70/$
+#######[TURN2]##########
+[Player Coords]x:18 y:7
+[DEBUG]: 11/79/$
+[DEBUG]: 4/70/$
+#######[TURN3]##########
+[Player Coords]x:18 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 4/70/$
+#######[TURN4]##########
+[Player Coords]x:19 y:8
+[DEBUG]: 13/79/$
+[DEBUG]: 4/70/$
+#######[TURN5]##########
+[Player Coords]x:20 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 4/70/$
+#######[TURN6]##########
+[Player Coords]x:21 y:8
+[DEBUG]: 12/78/$
+[DEBUG]: 4/70/$
+#######[TURN7]##########
+[Player Coords]x:22 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 4/69/$
+#######[TURN8]##########
+[Player Coords]x:23 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 4/68/$
+#######[TURN9]##########
+[Player Coords]x:24 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 3/68/$
+#######[TURN10]##########
+[Player Coords]x:25 y:8
+[DEBUG]: 13/77/$
+[DEBUG]: 3/68/$
+#######[TURN11]##########
+[Player Coords]x:26 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 3/67/$
+#######[TURN12]##########
+[Player Coords]x:27 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 3/66/$
+#######[TURN13]##########
+[Player Coords]x:28 y:8
+[DEBUG]: 13/78/$
+[DEBUG]: 2/66/$
+#######[TURN14]##########
+[Player Coords]x:29 y:8
+[DEBUG]: 12/78/$
+[DEBUG]: 3/66/$
+#######[TURN15]##########
+[Player Coords]x:30 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 3/65/$
+#######[TURN16]##########
+[Player Coords]x:31 y:8
+[DEBUG]: 13/79/$
+[DEBUG]: 2/65/$
+#######[TURN17]##########
+[Player Coords]x:32 y:8
+[DEBUG]: 13/79/$
+[DEBUG]: 2/66/$
+#######[TURN18]##########
+[Player Coords]x:33 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 2/65/$
+#######[TURN19]##########
+[Player Coords]x:34 y:8
+[DEBUG]: 12/80/$
+[DEBUG]: 2/65/$
+#######[TURN20]##########
+[Player Coords]x:35 y:8
+[DEBUG]: 12/80/$
+[DEBUG]: 2/66/$
+#######[TURN21]##########
+[Player Coords]x:36 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 2/66/$
+#######[TURN22]##########
+[Player Coords]x:37 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 2/66/$
+#######[TURN23]##########
+[Player Coords]x:38 y:8
+[DEBUG]: 13/79/$
+[DEBUG]: 2/66/$
+#######[TURN24]##########
+[Player Coords]x:39 y:8
+[DEBUG]: 13/79/$
+[DEBUG]: 2/66/$
+#######[TURN25]##########
+[Player Coords]x:40 y:8
+[DEBUG]: 12/79/$
+[DEBUG]: 2/66/$
+#######[TURN26]##########
+[Player Coords]x:41 y:8
+[DEBUG]: 12/78/$
+[DEBUG]: 2/66/$
+#######[TURN27]##########
+[Player Coords]x:42 y:8
+[DEBUG]: 11/78/$
+[DEBUG]: 3/66/$
+#######[TURN28]##########
+[Player Coords]x:43 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 3/66/$
+#######[TURN29]##########
+[Player Coords]x:44 y:8
+[DEBUG]: 10/79/$
+[DEBUG]: 4/66/$
+#######[TURN30]##########
+[Player Coords]x:45 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 4/65/$
+#######[TURN31]##########
+[Player Coords]x:46 y:8
+[DEBUG]: 10/77/$
+[DEBUG]: 5/65/$
+#######[TURN32]##########
+[Player Coords]x:47 y:8
+[DEBUG]: 10/77/$
+[DEBUG]: 5/64/$
+#######[TURN33]##########
+[Player Coords]x:48 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 6/64/$
+#######[TURN34]##########
+[Player Coords]x:49 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 6/64/$
+#######[TURN35]##########
+[Player Coords]x:50 y:8
+[DEBUG]: 10/79/$
+[DEBUG]: 5/64/$
+#######[TURN36]##########
+[Player Coords]x:51 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 6/64/$
+#######[TURN37]##########
+[Player Coords]x:52 y:8
+[DEBUG]: 10/78/$
+[DEBUG]: 6/64/$
+#######[TURN38]##########
+[Player Coords]x:53 y:8
+[DEBUG]: 11/78/$
+[DEBUG]: 6/63/$
+#######[TURN39]##########
+[Player Coords]x:54 y:8
+[DEBUG]: 11/78/$
+[DEBUG]: 6/64/$
+#######[TURN40]##########
+[Player Coords]x:55 y:8
+[DEBUG]: 11/78/$
+[DEBUG]: 5/64/$
+#######[TURN41]##########
+[Player Coords]x:56 y:8
+[DEBUG]: 11/78/$
+[DEBUG]: 5/63/$
+#######[TURN42]##########
+[Player Coords]x:57 y:8
+[DEBUG]: 11/77/$
+[DEBUG]: 6/63/$
+#######[TURN43]##########
+[Player Coords]x:58 y:8
+[DEBUG]: 11/77/$
+[Monster Move ($)]Dist: 2.8284271247461903
+[New Gen List 1] --> 5/62/$
+[Enemy Move]From [6/62/$] --> [5/62/$]
+#######[TURN44]##########
+[Player Coords]x:59 y:8
+[DEBUG]: 10/77/$
+[Monster Move ($)]Dist: 3.1622776601683795
+[New Gen List 1] --> 6/62/$
+[Enemy Move]From [5/62/$] --> [6/62/$]
+#######[TURN45]##########
+[Player Coords]x:60 y:8
+[DEBUG]: 10/77/$
+[Monster Move ($)]Dist: 3.1622776601683795
+[New Gen List 1] --> 5/62/$
+[Enemy Move]From [6/62/$] --> [5/62/$]
+#######[TURN46]##########
+[Player Coords]x:60 y:9
+[DEBUG]: 9/77/$
+[DEBUG]: 5/62/$
+#######[TURN47]##########
+[Player Coords]x:60 y:10
+[DEBUG]: 9/77/$
+[DEBUG]: 5/63/$
+#######[TURN48]##########
+[Player Coords]x:60 y:10
+[DEBUG]: 9/78/$
+[DEBUG]: 4/63/$
+#######[TURN49]##########
+[Player Coords]x:61 y:10
+[DEBUG]: 8/78/$
+[DEBUG]: 3/63/$
+#######[TURN50]##########
+[Player Coords]x:62 y:10
+[DEBUG]: 8/78/$
+[DEBUG]: 4/63/$
+#######[TURN51]##########
+[Player Coords]x:63 y:10
+[DEBUG]: 9/78/$
+[DEBUG]: 4/62/$
+#######[TURN52]##########
+[Player Coords]x:64 y:10
+[DEBUG]: 10/78/$
+[DEBUG]: 4/61/$
+#######[TURN53]##########
+[Player Coords]x:65 y:10
+[DEBUG]: 11/78/$
+[DEBUG]: 3/61/$
+#######[TURN54]##########
+[Player Coords]x:66 y:10
+[DEBUG]: 10/78/$
+[DEBUG]: 2/61/$
+#######[TURN55]##########
+[Player Coords]x:67 y:10
+[DEBUG]: 10/77/$
+[DEBUG]: 2/60/$
+#######[TURN56]##########
+[Player Coords]x:68 y:10
+[DEBUG]: 10/76/$
+[DEBUG]: 2/61/$
+#######[TURN57]##########
+[Player Coords]x:69 y:10
+[DEBUG]: 10/76/$
+[DEBUG]: 2/62/$
+#######[TURN58]##########
+[Player Coords]x:70 y:10
+[DEBUG]: 10/77/$
+[DEBUG]: 3/62/$
+#######[TURN59]##########
+[Player Coords]x:71 y:10
+[DEBUG]: 10/78/$
+[DEBUG]: 2/62/$
+#######[TURN60]##########
+[Player Coords]x:72 y:10
+[Monster Move ($)]Dist: 3.0
+[New Gen List 0] --> 10/76/$
+[Enemy Move]From [10/77/$] --> [10/76/$]
+[DEBUG]: 2/61/$
+#######[TURN61]##########
+[Player Coords]x:73 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/75/$
+[Enemy Move]From [10/76/$] --> [10/75/$]
+[DEBUG]: 2/61/$
+#######[TURN62]##########
+[Player Coords]x:74 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 9/75/$
+[Enemy Move]From [10/75/$] --> [9/75/$]
+[DEBUG]: 2/60/$
+#######[TURN63]##########
+[Player Coords]x:75 y:10
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/75/$
+[Enemy Move]From [9/75/$] --> [10/75/$]
+[DEBUG]: 2/60/$
+#######[TURN64]##########
+[Player Coords]x:76 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/76/$
+[Enemy Move]From [10/75/$] --> [10/76/$]
+[DEBUG]: 2/60/$
+#######[TURN65]##########
+[Player Coords]x:77 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/77/$
+[Enemy Move]From [10/76/$] --> [10/77/$]
+[DEBUG]: 2/60/$
+#######[TURN66]##########
+[Player Coords]x:78 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/78/$
+[Enemy Move]From [10/77/$] --> [10/78/$]
+[DEBUG]: 2/59/$
+#######[TURN67]##########
+[Player Coords]x:79 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/79/$
+[Enemy Move]From [10/78/$] --> [10/79/$]
+[DEBUG]: 2/60/$
+#######[TURN68]##########
+[Player Coords]x:80 y:10
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 10/80/$
+[Enemy Move]From [10/79/$] --> [10/80/$]
+[DEBUG]: 2/60/$
+#######[TURN69]##########
+[Player Coords]x:81 y:10
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/80/$
+[Enemy Move]From [10/80/$] --> [9/80/$]
+[DEBUG]: 3/60/$
+#######[TURN70]##########
+[Player Coords]x:81 y:9
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/80/$
+[Enemy Move]From [9/80/$] --> [8/80/$]
+[DEBUG]: 3/59/$
+#######[TURN71]##########
+[Player Coords]x:81 y:8
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/81/$
+[Enemy Move]From [8/80/$] --> [8/81/$]
+[DEBUG]: 3/58/$
+#######[TURN72]##########
+[Player Coords]x:82 y:8
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/82/$
+[Enemy Move]From [8/81/$] --> [8/82/$]
+[DEBUG]: 2/58/$
+#######[TURN73]##########
+[Player Coords]x:83 y:8
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/83/$
+[Enemy Move]From [8/82/$] --> [8/83/$]
+[DEBUG]: 2/57/$
+#######[TURN74]##########
+[Player Coords]x:83 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/84/$
+[Enemy Move]From [8/83/$] --> [8/84/$]
+[DEBUG]: 2/57/$
+#######[TURN75]##########
+[Player Coords]x:84 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/85/$
+[Enemy Move]From [8/84/$] --> [8/85/$]
+[DEBUG]: 2/58/$
+#######[TURN76]##########
+[Player Coords]x:85 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 8/86/$
+[Enemy Move]From [8/85/$] --> [8/86/$]
+[DEBUG]: 2/58/$
+#######[TURN77]##########
+[Player Coords]x:86 y:7
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 7/86/$
+[Enemy Move]From [8/86/$] --> [7/86/$]
+[DEBUG]: 2/58/$
+#######[TURN78]##########
+[Player Coords]x:87 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 7/87/$
+[Enemy Move]From [7/86/$] --> [7/87/$]
+[DEBUG]: 2/58/$
+#######[TURN79]##########
+[Player Coords]x:88 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 7/88/$
+[Enemy Move]From [7/87/$] --> [7/88/$]
+[DEBUG]: 3/58/$
+#######[TURN80]##########
+[Player Coords]x:89 y:7
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 7/89/$
+[Enemy Move]From [7/88/$] --> [7/89/$]
+[DEBUG]: 4/58/$
+#######[TURN81]##########
+[Player Coords]x:89 y:6
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 6/89/$
+[Enemy Move]From [7/89/$] --> [6/89/$]
+[DEBUG]: 3/58/$
+#######[TURN82]##########
+[Player Coords]x:90 y:6
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/90/$
+[Enemy Move]From [6/89/$] --> [6/90/$]
+[DEBUG]: 3/58/$
+#######[TURN83]##########
+[Player Coords]x:91 y:6
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/91/$
+[Enemy Move]From [6/90/$] --> [6/91/$]
+[DEBUG]: 3/58/$
+#######[TURN84]##########
+[Player Coords]x:92 y:6
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/92/$
+[Enemy Move]From [6/91/$] --> [6/92/$]
+[DEBUG]: 2/58/$
+#######[TURN85]##########
+[Player Coords]x:92 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/93/$
+[Enemy Move]From [6/92/$] --> [6/93/$]
+[DEBUG]: 2/58/$
+#######[TURN86]##########
+[Player Coords]x:93 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/94/$
+[Enemy Move]From [6/93/$] --> [6/94/$]
+[DEBUG]: 3/58/$
+#######[TURN87]##########
+[Player Coords]x:94 y:5
+[Monster Move ($)]Dist: 2.23606797749979
+[New Gen List 0] --> 5/94/$
+[Enemy Move]From [6/94/$] --> [5/94/$]
+[DEBUG]: 2/58/$
+#######[TURN88]##########
+[Player Coords]x:95 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 5/95/$
+[Enemy Move]From [5/94/$] --> [5/95/$]
+[DEBUG]: 2/59/$
+#######[TURN89]##########
+[Player Coords]x:96 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 5/96/$
+[Enemy Move]From [5/95/$] --> [5/96/$]
+[DEBUG]: 2/59/$
+#######[TURN90]##########
+[Player Coords]x:97 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 6/96/$
+[Enemy Move]From [5/96/$] --> [6/96/$]
+[DEBUG]: 2/59/$
+#######[TURN91]##########
+[Player Coords]x:96 y:5
+[Monster Move ($)]Dist: 1.0
+[New Gen List 0] --> 5/96/$
+[Enemy Move]From [6/96/$] --> [5/96/$]
+[DEBUG]: 2/59/$
+#######[TURN92]##########
+[Player Coords]x:95 y:5
+#######[TURN0]##########
+[Item Spawn]x:11 y:10
+[Item Spawn]x:91 y:8
+[Item Spawn]x:23 y:7
+[Item Spawn]x:16 y:3
+[Item Spawn]x:47 y:7
+[Item Spawn]x:20 y:14
+[Monster Spawn]x:89 y:13
+[Monster Spawn]x:19 y:5
+[Monster Spawn]x:1 y:11
+[Monster Spawn]x:56 y:4
+[Player Coords]x:18 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/19/&
+[Enemy Move]From [5/19/&] --> [6/19/&]
+[DEBUG]: 4/56/B
+#######[TURN1]##########
+[Player Coords]x:18 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/19/&
+[Enemy Move]From [6/19/&] --> [7/19/&]
+[DEBUG]: 4/55/B
+#######[TURN2]##########
+[Player Coords]x:18 y:7
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 7/18/&
+[Enemy Move]From [7/19/&] --> [7/18/&]
+[DEBUG]: 4/56/B
+#######[TURN3]##########
+[Player Coords]x:18 y:7
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/18/&
+[Enemy Move]From [7/18/&] --> [8/18/&]
+[DEBUG]: 4/55/B
+#######[TURN4]##########
+[Player Coords]x:18 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/17/&
+[Enemy Move]From [8/18/&] --> [8/17/&]
+[DEBUG]: 5/55/B
+#######[TURN5]##########
+[Player Coords]x:17 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/16/&
+[Enemy Move]From [8/17/&] --> [8/16/&]
+[DEBUG]: 5/54/B
+#######[TURN6]##########
+[Player Coords]x:16 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/15/&
+[Enemy Move]From [8/16/&] --> [8/15/&]
+[DEBUG]: 6/54/B
+#######[TURN7]##########
+[Player Coords]x:15 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/14/&
+[Enemy Move]From [8/15/&] --> [8/14/&]
+[DEBUG]: 7/54/B
+#######[TURN8]##########
+[Player Coords]x:14 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/13/&
+[Enemy Move]From [8/14/&] --> [8/13/&]
+[DEBUG]: 7/54/B
+#######[TURN9]##########
+[Player Coords]x:13 y:8
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 8/12/&
+[Enemy Move]From [8/13/&] --> [8/12/&]
+[DEBUG]: 6/54/B
+#######[TURN10]##########
+[Player Coords]x:12 y:8
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 9/12/&
+[Enemy Move]From [8/12/&] --> [9/12/&]
+[DEBUG]: 6/54/B
+#######[TURN11]##########
+[Player Coords]x:12 y:9
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/12/&
+[Enemy Move]From [9/12/&] --> [8/12/&]
+[DEBUG]: 6/54/B
+#######[TURN12]##########
+[Player Coords]x:12 y:9
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/12/&
+[Enemy Move]From [8/12/&] --> [9/12/&]
+[DEBUG]: 6/55/B
+#######[TURN13]##########
+[Player Coords]x:12 y:10
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/12/&
+[Enemy Move]From [9/12/&] --> [10/12/&]
+[DEBUG]: 6/55/B
+#######[TURN14]##########
+[Player Coords]x:13 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/13/&
+[Enemy Move]From [10/12/&] --> [10/13/&]
+[DEBUG]: 6/54/B
+#######[TURN15]##########
+[Player Coords]x:14 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/14/&
+[Enemy Move]From [10/13/&] --> [10/14/&]
+[DEBUG]: 7/54/B
+#######[TURN16]##########
+[Player Coords]x:15 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/15/&
+[Enemy Move]From [10/14/&] --> [10/15/&]
+[DEBUG]: 7/55/B
+#######[TURN17]##########
+[Player Coords]x:16 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/16/&
+[Enemy Move]From [10/15/&] --> [10/16/&]
+[DEBUG]: 7/56/B
+#######[TURN18]##########
+[Player Coords]x:17 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/17/&
+[Enemy Move]From [10/16/&] --> [10/17/&]
+[DEBUG]: 6/56/B
+#######[TURN19]##########
+[Player Coords]x:18 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/18/&
+[Enemy Move]From [10/17/&] --> [10/18/&]
+[DEBUG]: 6/57/B
+#######[TURN20]##########
+[Player Coords]x:19 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/19/&
+[Enemy Move]From [10/18/&] --> [10/19/&]
+[DEBUG]: 6/57/B
+#######[TURN21]##########
+[Player Coords]x:20 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/20/&
+[Enemy Move]From [10/19/&] --> [10/20/&]
+[DEBUG]: 6/57/B
+#######[TURN22]##########
+[Player Coords]x:21 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/21/&
+[Enemy Move]From [10/20/&] --> [10/21/&]
+[DEBUG]: 5/57/B
+#######[TURN23]##########
+[Player Coords]x:22 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/22/&
+[Enemy Move]From [10/21/&] --> [10/22/&]
+[DEBUG]: 5/58/B
+#######[TURN24]##########
+[Player Coords]x:23 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/23/&
+[Enemy Move]From [10/22/&] --> [10/23/&]
+[DEBUG]: 5/59/B
+#######[TURN25]##########
+[Player Coords]x:24 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/24/&
+[Enemy Move]From [10/23/&] --> [10/24/&]
+[DEBUG]: 5/58/B
+#######[TURN26]##########
+[Player Coords]x:25 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/25/&
+[Enemy Move]From [10/24/&] --> [10/25/&]
+[DEBUG]: 5/58/B
+#######[TURN27]##########
+[Player Coords]x:26 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/26/&
+[Enemy Move]From [10/25/&] --> [10/26/&]
+[DEBUG]: 6/58/B
+#######[TURN28]##########
+[Player Coords]x:27 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/27/&
+[Enemy Move]From [10/26/&] --> [10/27/&]
+[DEBUG]: 6/59/B
+#######[TURN29]##########
+[Player Coords]x:28 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/28/&
+[Enemy Move]From [10/27/&] --> [10/28/&]
+[DEBUG]: 5/59/B
+#######[TURN30]##########
+[Player Coords]x:29 y:10
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 10/29/&
+[Enemy Move]From [10/28/&] --> [10/29/&]
+[DEBUG]: 6/59/B
+#######[TURN31]##########
+[Player Coords]x:30 y:10
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/29/&
+[Enemy Move]From [10/29/&] --> [9/29/&]
+[DEBUG]: 5/59/B
+#######[TURN32]##########
+[Player Coords]x:30 y:9
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/29/&
+[Enemy Move]From [9/29/&] --> [8/29/&]
+[DEBUG]: 5/60/B
+#######[TURN33]##########
+[Player Coords]x:30 y:8
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 7/29/&
+[Enemy Move]From [8/29/&] --> [7/29/&]
+[DEBUG]: 4/60/B
+#######[TURN34]##########
+[Player Coords]x:30 y:7
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 6/29/&
+[Enemy Move]From [7/29/&] --> [6/29/&]
+[DEBUG]: 4/59/B
+#######[TURN35]##########
+[Player Coords]x:30 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/30/&
+[Enemy Move]From [6/29/&] --> [6/30/&]
+[DEBUG]: 4/58/B
+#######[TURN36]##########
+[Player Coords]x:31 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/31/&
+[Enemy Move]From [6/30/&] --> [6/31/&]
+[DEBUG]: 3/58/B
+#######[TURN37]##########
+[Player Coords]x:31 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/32/&
+[Enemy Move]From [6/31/&] --> [6/32/&]
+[DEBUG]: 4/58/B
+#######[TURN38]##########
+[Player Coords]x:32 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/32/&
+[Enemy Move]From [6/32/&] --> [5/32/&]
+[DEBUG]: 5/58/B
+#######[TURN39]##########
+[Player Coords]x:32 y:6
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 6/32/&
+[Enemy Move]From [5/32/&] --> [6/32/&]
+[DEBUG]: 5/59/B
+#######[TURN40]##########
+[Player Coords]x:32 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/33/&
+[Enemy Move]From [6/32/&] --> [6/33/&]
+[DEBUG]: 6/59/B
+#######[TURN41]##########
+[Player Coords]x:33 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/33/&
+[Enemy Move]From [6/33/&] --> [5/33/&]
+[DEBUG]: 6/59/B
+#######[TURN42]##########
+[Player Coords]x:33 y:6
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 6/33/&
+[Enemy Move]From [5/33/&] --> [6/33/&]
+[DEBUG]: 7/59/B
+#######[TURN43]##########
+[Player Coords]x:33 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/34/&
+[Enemy Move]From [6/33/&] --> [6/34/&]
+[DEBUG]: 7/59/B
+#######[TURN44]##########
+[Player Coords]x:34 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/34/&
+[Enemy Move]From [6/34/&] --> [5/34/&]
+[DEBUG]: 7/59/B
+#######[TURN45]##########
+[Player Coords]x:34 y:6
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 6/34/&
+[Enemy Move]From [5/34/&] --> [6/34/&]
+[DEBUG]: 8/59/B
+#######[TURN46]##########
+[Player Coords]x:35 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/35/&
+[Enemy Move]From [6/34/&] --> [6/35/&]
+[DEBUG]: 8/59/B
+#######[TURN47]##########
+[Player Coords]x:36 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/36/&
+[Enemy Move]From [6/35/&] --> [6/36/&]
+[DEBUG]: 8/59/B
+#######[TURN48]##########
+[Player Coords]x:37 y:6
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 5/36/&
+[Enemy Move]From [6/36/&] --> [5/36/&]
+[DEBUG]: 8/59/B
+#######[TURN49]##########
+[Player Coords]x:37 y:5
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 4/36/&
+[Enemy Move]From [5/36/&] --> [4/36/&]
+[DEBUG]: 8/59/B
+#######[TURN50]##########
+[Player Coords]x:37 y:4
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 3/36/&
+[Enemy Move]From [4/36/&] --> [3/36/&]
+[DEBUG]: 8/59/B
+#######[TURN51]##########
+[Player Coords]x:37 y:3
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 3/37/&
+[Enemy Move]From [3/36/&] --> [3/37/&]
+[DEBUG]: 8/59/B
+#######[TURN52]##########
+[Player Coords]x:37 y:3
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/37/&
+[Enemy Move]From [3/37/&] --> [2/37/&]
+[DEBUG]: 8/59/B
+#######[TURN53]##########
+[Player Coords]x:37 y:2
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/38/&
+[Enemy Move]From [2/37/&] --> [2/38/&]
+[DEBUG]: 7/59/B
+#######[TURN54]##########
+[Player Coords]x:37 y:1
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 2/37/&
+[Enemy Move]From [2/38/&] --> [2/37/&]
+[DEBUG]: 6/59/B
+#######[TURN55]##########
+[Player Coords]x:37 y:1
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 2/38/&
+[Enemy Move]From [2/37/&] --> [2/38/&]
+[DEBUG]: 6/59/B
+#######[TURN56]##########
+[Player Coords]x:38 y:1
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 2/39/&
+[Enemy Move]From [2/38/&] --> [2/39/&]
+[DEBUG]: 7/59/B
+#######[TURN57]##########
+[Player Coords]x:39 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/40/&
+[Enemy Move]From [2/39/&] --> [2/40/&]
+[DEBUG]: 7/59/B
+#######[TURN58]##########
+[Player Coords]x:39 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/41/&
+[Enemy Move]From [2/40/&] --> [2/41/&]
+[DEBUG]: 7/58/B
+#######[TURN59]##########
+[Player Coords]x:40 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/42/&
+[Enemy Move]From [2/41/&] --> [2/42/&]
+[DEBUG]: 7/58/B
+#######[TURN60]##########
+[Player Coords]x:41 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/42/&] --> [2/43/&]
+[DEBUG]: 8/58/B
+#######[TURN61]##########
+[Player Coords]x:42 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 8/57/B
+#######[TURN62]##########
+[Player Coords]x:43 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 9/57/B
+#######[TURN63]##########
+[Player Coords]x:44 y:1
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 9/57/B
+#######[TURN64]##########
+[Player Coords]x:44 y:1
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 9/57/B
+#######[TURN65]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 10/57/B
+#######[TURN66]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 10/57/B
+#######[TURN67]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 10/58/B
+#######[TURN68]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 9/58/B
+#######[TURN69]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 8/58/B
+#######[TURN70]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 8/58/B
+#######[TURN71]##########
+[Player Coords]x:44 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 8/58/B
+#######[TURN72]##########
+[Player Coords]x:43 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 7/58/B
+#######[TURN73]##########
+[Player Coords]x:44 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 7/59/B
+#######[TURN74]##########
+[Player Coords]x:43 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 7/59/B
+#######[TURN75]##########
+[Player Coords]x:44 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 7/58/B
+#######[TURN76]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 6/58/B
+#######[TURN77]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 5/58/B
+#######[TURN78]##########
+[Player Coords]x:45 y:1
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 4/58/B
+#######[TURN79]##########
+[Player Coords]x:45 y:2
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 4/59/B
+#######[TURN80]##########
+[Player Coords]x:45 y:2
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 2/43/&
+[Enemy Move]From [2/44/&] --> [2/43/&]
+[DEBUG]: 4/58/B
+#######[TURN81]##########
+[Player Coords]x:45 y:2
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 2/44/&
+[Enemy Move]From [2/43/&] --> [2/44/&]
+[DEBUG]: 4/57/B
+#######[TURN82]##########
+[Player Coords]x:45 y:3
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 0] --> 3/44/&
+[Enemy Move]From [2/44/&] --> [3/44/&]
+[DEBUG]: 4/56/B
+#######[TURN83]##########
+[Player Coords]x:45 y:4
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 0] --> 4/44/&
+[Enemy Move]From [3/44/&] --> [4/44/&]
+[DEBUG]: 4/57/B
+#######[TURN84]##########
+[Player Coords]x:45 y:5
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 0] --> 5/44/&
+[Enemy Move]From [4/44/&] --> [5/44/&]
+[DEBUG]: 4/58/B
+#######[TURN85]##########
+[Player Coords]x:45 y:6
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 0] --> 6/44/&
+[Enemy Move]From [5/44/&] --> [6/44/&]
+[DEBUG]: 3/58/B
+#######[TURN86]##########
+[Player Coords]x:45 y:7
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 0] --> 7/44/&
+[Enemy Move]From [6/44/&] --> [7/44/&]
+[DEBUG]: 3/57/B
+#######[TURN87]##########
+[Player Coords]x:45 y:8
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 8/44/&
+[Enemy Move]From [7/44/&] --> [8/44/&]
+[DEBUG]: 4/57/B
+#######[TURN88]##########
+[Player Coords]x:45 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/45/&
+[Enemy Move]From [8/44/&] --> [8/45/&]
+[DEBUG]: 5/57/B
+#######[TURN89]##########
+[Player Coords]x:46 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/46/&
+[Enemy Move]From [8/45/&] --> [8/46/&]
+[DEBUG]: 5/57/B
+#######[TURN90]##########
+[Player Coords]x:47 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/47/&
+[Enemy Move]From [8/46/&] --> [8/47/&]
+[DEBUG]: 5/56/B
+#######[TURN91]##########
+[Player Coords]x:48 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/48/&
+[Enemy Move]From [8/47/&] --> [8/48/&]
+[DEBUG]: 5/55/B
+#######[TURN92]##########
+[Player Coords]x:49 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/49/&
+[Enemy Move]From [8/48/&] --> [8/49/&]
+[DEBUG]: 4/55/B
+#######[TURN93]##########
+[Player Coords]x:50 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/50/&
+[Enemy Move]From [8/49/&] --> [8/50/&]
+[DEBUG]: 4/55/B
+#######[TURN94]##########
+[Player Coords]x:51 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/51/&
+[Enemy Move]From [8/50/&] --> [8/51/&]
+[DEBUG]: 4/56/B
+#######[TURN95]##########
+[Player Coords]x:52 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/52/&
+[Enemy Move]From [8/51/&] --> [8/52/&]
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 6/56/B
+[Enemy Move]From [5/56/B] --> [6/56/B]
+#######[TURN96]##########
+[Player Coords]x:53 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/53/&
+[Enemy Move]From [8/52/&] --> [8/53/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 7/56/B
+[Enemy Move]From [6/56/B] --> [7/56/B]
+#######[TURN97]##########
+[Player Coords]x:54 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/54/&
+[Enemy Move]From [8/53/&] --> [8/54/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/56/B
+[Enemy Move]From [7/56/B] --> [8/56/B]
+#######[TURN98]##########
+[Player Coords]x:55 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/55/&
+[Enemy Move]From [8/54/&] --> [8/55/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/56/B
+[Enemy Move]From [8/56/B] --> [7/56/B]
+#######[TURN99]##########
+[Player Coords]x:56 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/56/&
+[Enemy Move]From [8/55/&] --> [8/56/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 8/56/B
+[Enemy Move]From [7/56/B] --> [8/56/B]
+#######[TURN100]##########
+[Player Coords]x:57 y:8
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/57/&
+[Enemy Move]From [8/56/&] --> [8/57/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/57/B
+[Enemy Move]From [8/56/B] --> [8/57/B]
+#######[TURN101]##########
+[Player Coords]x:58 y:8
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/57/&
+[Enemy Move]From [8/57/&] --> [9/57/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/57/B
+[Enemy Move]From [8/57/B] --> [9/57/B]
+#######[TURN102]##########
+[Player Coords]x:58 y:9
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/57/&
+[Enemy Move]From [9/57/&] --> [10/57/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/57/B
+[Enemy Move]From [9/57/B] --> [10/57/B]
+#######[TURN103]##########
+[Player Coords]x:58 y:10
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 11/57/&
+[Enemy Move]From [10/57/&] --> [11/57/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 11/57/B
+[Enemy Move]From [10/57/B] --> [11/57/B]
+#######[TURN104]##########
+[Player Coords]x:58 y:11
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 12/57/&
+[Enemy Move]From [11/57/&] --> [12/57/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 12/57/B
+[Enemy Move]From [11/57/B] --> [12/57/B]
+#######[TURN105]##########
+[Player Coords]x:58 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/58/&
+[Enemy Move]From [12/57/&] --> [12/58/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/58/B
+[Enemy Move]From [12/57/B] --> [12/58/B]
+#######[TURN106]##########
+[Player Coords]x:59 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/59/&
+[Enemy Move]From [12/58/&] --> [12/59/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/59/B
+[Enemy Move]From [12/58/B] --> [12/59/B]
+#######[TURN107]##########
+[Player Coords]x:60 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/60/&
+[Enemy Move]From [12/59/&] --> [12/60/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/60/B
+[Enemy Move]From [12/59/B] --> [12/60/B]
+#######[TURN108]##########
+[Player Coords]x:61 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/61/&
+[Enemy Move]From [12/60/&] --> [12/61/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/61/B
+[Enemy Move]From [12/60/B] --> [12/61/B]
+#######[TURN109]##########
+[Player Coords]x:62 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/62/&
+[Enemy Move]From [12/61/&] --> [12/62/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/62/B
+[Enemy Move]From [12/61/B] --> [12/62/B]
+#######[TURN110]##########
+[Player Coords]x:63 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/63/&
+[Enemy Move]From [12/62/&] --> [12/63/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/63/B
+[Enemy Move]From [12/62/B] --> [12/63/B]
+#######[TURN111]##########
+[Player Coords]x:64 y:12
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 12/64/&
+[Enemy Move]From [12/63/&] --> [12/64/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 12/64/B
+[Enemy Move]From [12/63/B] --> [12/64/B]
+#######[TURN112]##########
+[Player Coords]x:65 y:12
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 11/64/&
+[Enemy Move]From [12/64/&] --> [11/64/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 11/64/B
+[Enemy Move]From [12/64/B] --> [11/64/B]
+#######[TURN113]##########
+[Player Coords]x:65 y:11
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 10/64/&
+[Enemy Move]From [11/64/&] --> [10/64/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/64/B
+[Enemy Move]From [11/64/B] --> [10/64/B]
+#######[TURN114]##########
+[Player Coords]x:65 y:10
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 9/64/&
+[Enemy Move]From [10/64/&] --> [9/64/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/64/B
+[Enemy Move]From [10/64/B] --> [9/64/B]
+#######[TURN115]##########
+[Player Coords]x:65 y:9
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 9/65/&
+[Enemy Move]From [9/64/&] --> [9/65/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 9/65/B
+[Enemy Move]From [9/64/B] --> [9/65/B]
+#######[TURN116]##########
+[Player Coords]x:66 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/66/&
+[Enemy Move]From [9/65/&] --> [9/66/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/66/B
+[Enemy Move]From [9/65/B] --> [9/66/B]
+#######[TURN117]##########
+[Player Coords]x:66 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/67/&
+[Enemy Move]From [9/66/&] --> [9/67/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/67/B
+[Enemy Move]From [9/66/B] --> [9/67/B]
+#######[TURN118]##########
+[Player Coords]x:67 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/68/&
+[Enemy Move]From [9/67/&] --> [9/68/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/68/B
+[Enemy Move]From [9/67/B] --> [9/68/B]
+#######[TURN119]##########
+[Player Coords]x:68 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/69/&
+[Enemy Move]From [9/68/&] --> [9/69/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/69/B
+[Enemy Move]From [9/68/B] --> [9/69/B]
+#######[TURN120]##########
+[Player Coords]x:69 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/70/&
+[Enemy Move]From [9/69/&] --> [9/70/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/70/B
+[Enemy Move]From [9/69/B] --> [9/70/B]
+#######[TURN121]##########
+[Player Coords]x:70 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/71/&
+[Enemy Move]From [9/70/&] --> [9/71/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/71/B
+[Enemy Move]From [9/70/B] --> [9/71/B]
+#######[TURN122]##########
+[Player Coords]x:71 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/72/&
+[Enemy Move]From [9/71/&] --> [9/72/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/72/B
+[Enemy Move]From [9/71/B] --> [9/72/B]
+#######[TURN123]##########
+[Player Coords]x:72 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/73/&
+[Enemy Move]From [9/72/&] --> [9/73/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/73/B
+[Enemy Move]From [9/72/B] --> [9/73/B]
+#######[TURN124]##########
+[Player Coords]x:73 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/74/&
+[Enemy Move]From [9/73/&] --> [9/74/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/74/B
+[Enemy Move]From [9/73/B] --> [9/74/B]
+#######[TURN125]##########
+[Player Coords]x:74 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/75/&
+[Enemy Move]From [9/74/&] --> [9/75/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/75/B
+[Enemy Move]From [9/74/B] --> [9/75/B]
+#######[TURN126]##########
+[Player Coords]x:75 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/76/&
+[Enemy Move]From [9/75/&] --> [9/76/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/76/B
+[Enemy Move]From [9/75/B] --> [9/76/B]
+#######[TURN127]##########
+[Player Coords]x:76 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/77/&
+[Enemy Move]From [9/76/&] --> [9/77/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/77/B
+[Enemy Move]From [9/76/B] --> [9/77/B]
+#######[TURN128]##########
+[Player Coords]x:77 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/78/&
+[Enemy Move]From [9/77/&] --> [9/78/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/78/B
+[Enemy Move]From [9/77/B] --> [9/78/B]
+#######[TURN129]##########
+[Player Coords]x:78 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/79/&
+[Enemy Move]From [9/78/&] --> [9/79/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/79/B
+[Enemy Move]From [9/78/B] --> [9/79/B]
+#######[TURN130]##########
+[Player Coords]x:79 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/80/&
+[Enemy Move]From [9/79/&] --> [9/80/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/80/B
+[Enemy Move]From [9/79/B] --> [9/80/B]
+#######[TURN131]##########
+[Player Coords]x:80 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/81/&
+[Enemy Move]From [9/80/&] --> [9/81/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/81/B
+[Enemy Move]From [9/80/B] --> [9/81/B]
+#######[TURN132]##########
+[Player Coords]x:81 y:9
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 9/82/&
+[Enemy Move]From [9/81/&] --> [9/82/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 9/82/B
+[Enemy Move]From [9/81/B] --> [9/82/B]
+#######[TURN133]##########
+[Player Coords]x:82 y:9
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/82/&
+[Enemy Move]From [9/82/&] --> [8/82/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/82/B
+[Enemy Move]From [9/82/B] --> [8/82/B]
+#######[TURN134]##########
+[Player Coords]x:82 y:8
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/83/&
+[Enemy Move]From [8/82/&] --> [8/83/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/83/B
+[Enemy Move]From [8/82/B] --> [8/83/B]
+#######[TURN135]##########
+[Player Coords]x:82 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/82/&
+[Enemy Move]From [8/83/&] --> [8/82/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/82/B
+[Enemy Move]From [8/83/B] --> [8/82/B]
+#######[TURN136]##########
+[Player Coords]x:82 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/83/&
+[Enemy Move]From [8/82/&] --> [8/83/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/83/B
+[Enemy Move]From [8/82/B] --> [8/83/B]
+#######[TURN137]##########
+[Player Coords]x:83 y:7
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 8/84/&
+[Enemy Move]From [8/83/&] --> [8/84/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/84/B
+[Enemy Move]From [8/83/B] --> [8/84/B]
+#######[TURN138]##########
+[Player Coords]x:83 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/83/&
+[Enemy Move]From [8/84/&] --> [8/83/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/83/B
+[Enemy Move]From [8/84/B] --> [8/83/B]
+#######[TURN139]##########
+[Player Coords]x:83 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/84/&
+[Enemy Move]From [8/83/&] --> [8/84/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/84/B
+[Enemy Move]From [8/83/B] --> [8/84/B]
+#######[TURN140]##########
+[Player Coords]x:84 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/85/&
+[Enemy Move]From [8/84/&] --> [8/85/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/85/B
+[Enemy Move]From [8/84/B] --> [8/85/B]
+#######[TURN141]##########
+[Player Coords]x:85 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 8/86/&
+[Enemy Move]From [8/85/&] --> [8/86/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 8/86/B
+[Enemy Move]From [8/85/B] --> [8/86/B]
+#######[TURN142]##########
+[Player Coords]x:86 y:7
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [8/86/&] --> [7/86/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [8/86/B] --> [7/86/B]
+#######[TURN143]##########
+[Player Coords]x:87 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/87/&
+[Enemy Move]From [7/86/&] --> [7/87/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/87/B
+[Enemy Move]From [7/86/B] --> [7/87/B]
+#######[TURN144]##########
+[Player Coords]x:88 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/88/&
+[Enemy Move]From [7/87/&] --> [7/88/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/88/B
+[Enemy Move]From [7/87/B] --> [7/88/B]
+#######[TURN145]##########
+[Player Coords]x:89 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/89/&
+[Enemy Move]From [7/88/&] --> [7/89/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/89/B
+[Enemy Move]From [7/88/B] --> [7/89/B]
+#######[TURN146]##########
+[Player Coords]x:90 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/90/&
+[Enemy Move]From [7/89/&] --> [7/90/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/90/B
+[Enemy Move]From [7/89/B] --> [7/90/B]
+#######[TURN147]##########
+[Player Coords]x:91 y:7
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 7/91/&
+[Enemy Move]From [7/90/&] --> [7/91/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 7/91/B
+[Enemy Move]From [7/90/B] --> [7/91/B]
+#######[TURN148]##########
+[Player Coords]x:91 y:7
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 6/91/&
+[Enemy Move]From [7/91/&] --> [6/91/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 6/91/B
+[Enemy Move]From [7/91/B] --> [6/91/B]
+#######[TURN149]##########
+[Player Coords]x:91 y:6
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 6/92/&
+[Enemy Move]From [6/91/&] --> [6/92/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 6/92/B
+[Enemy Move]From [6/91/B] --> [6/92/B]
+#######[TURN150]##########
+[Player Coords]x:91 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/91/&
+[Enemy Move]From [6/92/&] --> [6/91/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 6/91/B
+[Enemy Move]From [6/92/B] --> [6/91/B]
+#######[TURN151]##########
+[Player Coords]x:91 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/92/&
+[Enemy Move]From [6/91/&] --> [6/92/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 6/92/B
+[Enemy Move]From [6/91/B] --> [6/92/B]
+#######[TURN152]##########
+[Player Coords]x:92 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/93/&
+[Enemy Move]From [6/92/&] --> [6/93/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 6/93/B
+[Enemy Move]From [6/92/B] --> [6/93/B]
+#######[TURN153]##########
+[Player Coords]x:93 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/94/&
+[Enemy Move]From [6/93/&] --> [6/94/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 6/94/B
+[Enemy Move]From [6/93/B] --> [6/94/B]
+#######[TURN154]##########
+[Player Coords]x:94 y:5
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 5/94/&
+[Enemy Move]From [6/94/&] --> [5/94/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 5/94/B
+[Enemy Move]From [6/94/B] --> [5/94/B]
+#######[TURN155]##########
+[Player Coords]x:95 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/95/&
+[Enemy Move]From [5/94/&] --> [5/95/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/95/B
+[Enemy Move]From [5/94/B] --> [5/95/B]
+#######[TURN156]##########
+[Player Coords]x:96 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/95/&] --> [5/96/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/95/B] --> [5/96/B]
+#######[TURN157]##########
+[Player Coords]x:97 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN158]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/97/&] --> [5/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/97/B] --> [5/96/B]
+#######[TURN159]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN160]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/97/&] --> [5/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/97/B] --> [5/96/B]
+#######[TURN161]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN162]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/97/&] --> [5/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/97/B] --> [5/96/B]
+#######[TURN163]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN164]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/97/&] --> [5/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/97/B] --> [5/96/B]
+#######[TURN165]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN166]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [5/97/&] --> [5/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [5/97/B] --> [5/96/B]
+#######[TURN167]##########
+[Player Coords]x:98 y:5
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 5/97/&
+[Enemy Move]From [5/96/&] --> [5/97/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 5/97/B
+[Enemy Move]From [5/96/B] --> [5/97/B]
+#######[TURN168]##########
+[Player Coords]x:98 y:6
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 0] --> 6/97/&
+[Enemy Move]From [5/97/&] --> [6/97/&]
+[Monster Move (B)]Dist: 2.23606797749979
+[New Gen List 1] --> 6/97/B
+[Enemy Move]From [5/97/B] --> [6/97/B]
+#######[TURN169]##########
+[Player Coords]x:98 y:6
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 6/96/&
+[Enemy Move]From [6/97/&] --> [6/96/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 6/96/B
+[Enemy Move]From [6/97/B] --> [6/96/B]
+#######[TURN170]##########
+[Player Coords]x:98 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/97/&
+[Enemy Move]From [6/96/&] --> [6/97/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/97/B
+[Enemy Move]From [6/96/B] --> [6/97/B]
+#######[TURN171]##########
+[Player Coords]x:97 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/96/&
+[Enemy Move]From [6/97/&] --> [6/96/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/96/B
+[Enemy Move]From [6/97/B] --> [6/96/B]
+#######[TURN172]##########
+[Player Coords]x:96 y:6
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 5/96/&
+[Enemy Move]From [6/96/&] --> [5/96/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 5/96/B
+[Enemy Move]From [6/96/B] --> [5/96/B]
+#######[TURN173]##########
+[Player Coords]x:96 y:6
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 6/96/&
+[Enemy Move]From [5/96/&] --> [6/96/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 6/96/B
+[Enemy Move]From [5/96/B] --> [6/96/B]
+#######[TURN174]##########
+[Player Coords]x:96 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/95/&
+[Enemy Move]From [6/96/&] --> [6/95/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/95/B
+[Enemy Move]From [6/96/B] --> [6/95/B]
+#######[TURN175]##########
+[Player Coords]x:95 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/94/&
+[Enemy Move]From [6/95/&] --> [6/94/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/94/B
+[Enemy Move]From [6/95/B] --> [6/94/B]
+#######[TURN176]##########
+[Player Coords]x:94 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/93/&
+[Enemy Move]From [6/94/&] --> [6/93/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/93/B
+[Enemy Move]From [6/94/B] --> [6/93/B]
+#######[TURN177]##########
+[Player Coords]x:93 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/92/&
+[Enemy Move]From [6/93/&] --> [6/92/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/92/B
+[Enemy Move]From [6/93/B] --> [6/92/B]
+#######[TURN178]##########
+[Player Coords]x:92 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/91/&
+[Enemy Move]From [6/92/&] --> [6/91/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/91/B
+[Enemy Move]From [6/92/B] --> [6/91/B]
+#######[TURN179]##########
+[Player Coords]x:91 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/90/&
+[Enemy Move]From [6/91/&] --> [6/90/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/90/B
+[Enemy Move]From [6/91/B] --> [6/90/B]
+#######[TURN180]##########
+[Player Coords]x:90 y:6
+[Monster Move (&)]Dist: 0.0
+[New Gen List 0] --> 6/89/&
+[Enemy Move]From [6/90/&] --> [6/89/&]
+[Monster Move (B)]Dist: 0.0
+[New Gen List 1] --> 6/89/B
+[Enemy Move]From [6/90/B] --> [6/89/B]
+#######[TURN181]##########
+[Player Coords]x:89 y:6
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 0] --> 7/89/&
+[Enemy Move]From [6/89/&] --> [7/89/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 7/89/B
+[Enemy Move]From [6/89/B] --> [7/89/B]
+#######[TURN182]##########
+[Player Coords]x:89 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 6/89/&
+[Enemy Move]From [7/89/&] --> [6/89/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 6/89/B
+[Enemy Move]From [7/89/B] --> [6/89/B]
+#######[TURN183]##########
+[Player Coords]x:89 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/89/&
+[Enemy Move]From [6/89/&] --> [7/89/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/89/B
+[Enemy Move]From [6/89/B] --> [7/89/B]
+#######[TURN184]##########
+[Player Coords]x:88 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/88/&
+[Enemy Move]From [7/89/&] --> [7/88/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/88/B
+[Enemy Move]From [7/89/B] --> [7/88/B]
+#######[TURN185]##########
+[Player Coords]x:87 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/87/&
+[Enemy Move]From [7/88/&] --> [7/87/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/87/B
+[Enemy Move]From [7/88/B] --> [7/87/B]
+#######[TURN186]##########
+[Player Coords]x:86 y:7
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/87/&] --> [7/86/&]
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/87/B] --> [7/86/B]
+#######[TURN187]##########
+[Player Coords]x:85 y:7
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 1.0
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 1.0
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN188]##########
+[Player Coords]x:84 y:7
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN189]##########
+[Player Coords]x:83 y:7
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 3.0
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 3.0
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN190]##########
+[Player Coords]x:82 y:7
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 3.1622776601683795
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN191]##########
+[Player Coords]x:82 y:8
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 3.605551275463989
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 3.605551275463989
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN192]##########
+[Player Coords]x:82 y:9
+[Monster AI (&)] Reatch Max Attempts
+[Monster Move (&)]Dist: 4.242640687119285
+[New Gen List 0] --> 7/86/&
+[Enemy Move]From [7/86/&] --> [7/86/&]
+[Monster AI (B)] Reatch Max Attempts
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 1] --> 7/86/B
+[Enemy Move]From [7/86/B] --> [7/86/B]
+#######[TURN193]##########
+[Player Coords]x:82 y:10
+[DEBUG]: 7/86/&
+[DEBUG]: 7/86/B
+#######[TURN194]##########
+[Player Coords]x:81 y:10
+[DEBUG]: 7/86/&
+[DEBUG]: 7/86/B
+#######[TURN195]##########
+[Player Coords]x:80 y:10
+[DEBUG]: 8/86/&
+[DEBUG]: 8/86/B
+#######[TURN196]##########
+[Player Coords]x:79 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/86/B
+#######[TURN197]##########
+[Player Coords]x:78 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/86/B
+#######[TURN198]##########
+[Player Coords]x:77 y:10
+[DEBUG]: 9/85/&
+[DEBUG]: 7/86/B
+#######[TURN199]##########
+[Player Coords]x:76 y:10
+[DEBUG]: 9/86/&
+[DEBUG]: 7/87/B
+#######[TURN200]##########
+[Player Coords]x:75 y:10
+[DEBUG]: 8/86/&
+[DEBUG]: 8/87/B
+#######[TURN201]##########
+[Player Coords]x:74 y:10
+[DEBUG]: 9/86/&
+[DEBUG]: 8/87/B
+#######[TURN202]##########
+[Player Coords]x:74 y:10
+[DEBUG]: 8/86/&
+[DEBUG]: 8/87/B
+#######[TURN203]##########
+[Player Coords]x:75 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/87/B
+#######[TURN204]##########
+[Player Coords]x:76 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/87/B
+#######[TURN205]##########
+[Player Coords]x:77 y:10
+[DEBUG]: 8/86/&
+[DEBUG]: 8/87/B
+#######[TURN206]##########
+[Player Coords]x:78 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/88/B
+#######[TURN207]##########
+[Player Coords]x:79 y:10
+[DEBUG]: 8/86/&
+[DEBUG]: 8/87/B
+#######[TURN208]##########
+[Player Coords]x:80 y:10
+[DEBUG]: 8/85/&
+[DEBUG]: 8/86/B
+#######[TURN209]##########
+[Player Coords]x:80 y:9
+[DEBUG]: 9/85/&
+[Monster Move (B)]Dist: 4.0
+[New Gen List 1] --> 8/84/B
+[Enemy Move]From [8/85/B] --> [8/84/B]
+#######[TURN210]##########
+[Player Coords]x:80 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/84/&
+[Enemy Move]From [9/85/&] --> [9/84/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/83/B
+[Enemy Move]From [8/84/B] --> [8/83/B]
+#######[TURN211]##########
+[Player Coords]x:81 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/83/&
+[Enemy Move]From [9/84/&] --> [9/83/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/82/B
+[Enemy Move]From [8/83/B] --> [8/82/B]
+#######[TURN212]##########
+[Player Coords]x:80 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/82/&
+[Enemy Move]From [9/83/&] --> [9/82/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/81/B
+[Enemy Move]From [8/82/B] --> [8/81/B]
+#######[TURN213]##########
+[Player Coords]x:79 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/81/&
+[Enemy Move]From [9/82/&] --> [9/81/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/80/B
+[Enemy Move]From [8/81/B] --> [8/80/B]
+#######[TURN214]##########
+[Player Coords]x:78 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/80/&
+[Enemy Move]From [9/81/&] --> [9/80/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/79/B
+[Enemy Move]From [8/80/B] --> [8/79/B]
+#######[TURN215]##########
+[Player Coords]x:77 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/79/&
+[Enemy Move]From [9/80/&] --> [9/79/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/78/B
+[Enemy Move]From [8/79/B] --> [8/78/B]
+#######[TURN216]##########
+[Player Coords]x:76 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/78/&
+[Enemy Move]From [9/79/&] --> [9/78/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/77/B
+[Enemy Move]From [8/78/B] --> [8/77/B]
+#######[TURN217]##########
+[Player Coords]x:75 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/77/&
+[Enemy Move]From [9/78/&] --> [9/77/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/76/B
+[Enemy Move]From [8/77/B] --> [8/76/B]
+#######[TURN218]##########
+[Player Coords]x:74 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/76/&
+[Enemy Move]From [9/77/&] --> [9/76/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/75/B
+[Enemy Move]From [8/76/B] --> [8/75/B]
+#######[TURN219]##########
+[Player Coords]x:73 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/75/&
+[Enemy Move]From [9/76/&] --> [9/75/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/74/B
+[Enemy Move]From [8/75/B] --> [8/74/B]
+#######[TURN220]##########
+[Player Coords]x:72 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/74/&
+[Enemy Move]From [9/75/&] --> [9/74/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/73/B
+[Enemy Move]From [8/74/B] --> [8/73/B]
+#######[TURN221]##########
+[Player Coords]x:71 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/73/&
+[Enemy Move]From [9/74/&] --> [9/73/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/72/B
+[Enemy Move]From [8/73/B] --> [8/72/B]
+#######[TURN222]##########
+[Player Coords]x:70 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/72/&
+[Enemy Move]From [9/73/&] --> [9/72/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/71/B
+[Enemy Move]From [8/72/B] --> [8/71/B]
+#######[TURN223]##########
+[Player Coords]x:69 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/71/&
+[Enemy Move]From [9/72/&] --> [9/71/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/70/B
+[Enemy Move]From [8/71/B] --> [8/70/B]
+#######[TURN224]##########
+[Player Coords]x:68 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/70/&
+[Enemy Move]From [9/71/&] --> [9/70/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/69/B
+[Enemy Move]From [8/70/B] --> [8/69/B]
+#######[TURN225]##########
+[Player Coords]x:67 y:8
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 9/69/&
+[Enemy Move]From [9/70/&] --> [9/69/&]
+[Monster Move (B)]Dist: 2.0
+[New Gen List 1] --> 8/68/B
+[Enemy Move]From [8/69/B] --> [8/68/B]
+#######[TURN226]##########
+[Player Coords]x:66 y:8
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 9/68/&
+[Enemy Move]From [9/69/&] --> [9/68/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/67/B
+[Enemy Move]From [8/68/B] --> [8/67/B]
+#######[TURN227]##########
+[Player Coords]x:66 y:9
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 9/67/&
+[Enemy Move]From [9/68/&] --> [9/67/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/66/B
+[Enemy Move]From [8/67/B] --> [8/66/B]
+#######[TURN228]##########
+[Player Coords]x:65 y:9
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 9/66/&
+[Enemy Move]From [9/67/&] --> [9/66/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/65/B
+[Enemy Move]From [8/66/B] --> [8/65/B]
+#######[TURN229]##########
+[Player Coords]x:64 y:9
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 9/65/&
+[Enemy Move]From [9/66/&] --> [9/65/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/64/B
+[Enemy Move]From [8/65/B] --> [8/64/B]
+#######[TURN230]##########
+[Player Coords]x:63 y:9
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 9/64/&
+[Enemy Move]From [9/65/&] --> [9/64/&]
+[Monster Move (B)]Dist: 1.4142135623730951
+[New Gen List 1] --> 7/64/B
+[Enemy Move]From [8/64/B] --> [7/64/B]
+#######[TURN231]##########
+[Player Coords]x:62 y:9
+[Monster Move (&)]Dist: 2.0
+[New Gen List 0] --> 8/64/&
+[Enemy Move]From [9/64/&] --> [8/64/&]
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 1] --> 6/64/B
+[Enemy Move]From [7/64/B] --> [6/64/B]
+#######[TURN232]##########
+[Player Coords]x:61 y:9
+[Monster Move (&)]Dist: 3.1622776601683795
+[New Gen List 0] --> 7/64/&
+[Enemy Move]From [8/64/&] --> [7/64/&]
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 1] --> 6/63/B
+[Enemy Move]From [6/64/B] --> [6/63/B]
+#######[TURN233]##########
+[Player Coords]x:60 y:9
+[DEBUG]: 7/64/&
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 1] --> 6/62/B
+[Enemy Move]From [6/63/B] --> [6/62/B]
+#######[TURN234]##########
+[Player Coords]x:59 y:9
+[DEBUG]: 7/64/&
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 1] --> 5/62/B
+[Enemy Move]From [6/62/B] --> [5/62/B]
+#######[TURN235]##########
+[Player Coords]x:58 y:9
+[DEBUG]: 7/65/&
+[DEBUG]: 5/62/B
+#######[TURN236]##########
+[Player Coords]x:57 y:9
+[DEBUG]: 7/65/&
+[DEBUG]: 6/62/B
+#######[TURN237]##########
+[Player Coords]x:56 y:9
+[DEBUG]: 7/64/&
+[DEBUG]: 6/62/B
+#######[TURN238]##########
+[Player Coords]x:55 y:9
+[DEBUG]: 7/64/&
+[DEBUG]: 6/62/B
+#######[TURN239]##########
+[Player Coords]x:54 y:9
+[DEBUG]: 7/64/&
+[DEBUG]: 6/62/B
+#######[TURN240]##########
+[Player Coords]x:53 y:9
+[DEBUG]: 7/65/&
+[DEBUG]: 6/62/B
+#######[TURN241]##########
+[Player Coords]x:52 y:9
+[DEBUG]: 6/65/&
+[DEBUG]: 5/62/B
+#######[TURN242]##########
+[Player Coords]x:51 y:9
+[DEBUG]: 5/65/&
+[DEBUG]: 6/62/B
+#######[TURN243]##########
+[Player Coords]x:50 y:9
+[DEBUG]: 5/64/&
+[DEBUG]: 5/62/B
+#######[TURN244]##########
+[Player Coords]x:49 y:9
+[DEBUG]: 5/64/&
+[DEBUG]: 4/62/B
+#######[TURN245]##########
+[Player Coords]x:48 y:9
+[DEBUG]: 4/64/&
+[DEBUG]: 4/62/B
+#######[TURN246]##########
+[Player Coords]x:47 y:9
+[SAVE] Sucess Saving all Data
+[LOAD] Sucess LOADING all Data
+[Player Coords]x:47 y:9
+#######[TURN0]##########
+[Item Spawn]x:7 y:8
+[Item Spawn]x:84 y:4
+[Item Spawn]x:16 y:12
+[Item Spawn]x:84 y:5
+[Item Spawn]x:2 y:6
+[Item Spawn]x:22 y:9
+[Item Spawn]x:89 y:14
+[Item Spawn]x:32 y:11
+[Item Spawn]x:71 y:2
+[Item Spawn]x:25 y:9
+[Monster Spawn]x:91 y:13
+[Monster Spawn]x:13 y:4
+[Monster Spawn]x:33 y:6
+[Player Coords]x:18 y:5
+[Monster Move (B)]Dist: 4.0
+[New Gen List 0] --> 4/14/B
+[Enemy Move]From [4/13/B] --> [4/14/B]
+[DEBUG]: 6/33/&
+#######[TURN1]##########
+[Player Coords]x:18 y:4
+[Monster Move (B)]Dist: 3.1622776601683795
+[New Gen List 0] --> 4/15/B
+[Enemy Move]From [4/14/B] --> [4/15/B]
+[DEBUG]: 6/33/&
+#######[TURN2]##########
+[Player Coords]x:18 y:5
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 4/16/B
+[Enemy Move]From [4/15/B] --> [4/16/B]
+[DEBUG]: 6/33/&
+#######[TURN3]##########
+[Player Coords]x:18 y:6
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 5/16/B
+[Enemy Move]From [4/16/B] --> [5/16/B]
+[DEBUG]: 6/33/&
+#######[TURN4]##########
+[Player Coords]x:18 y:7
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 6/16/B
+[Enemy Move]From [5/16/B] --> [6/16/B]
+[DEBUG]: 6/33/&
+#######[TURN5]##########
+[Player Coords]x:18 y:8
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 7/16/B
+[Enemy Move]From [6/16/B] --> [7/16/B]
+[DEBUG]: 5/33/&
+#######[TURN6]##########
+[Player Coords]x:18 y:9
+[Monster Move (B)]Dist: 4.242640687119285
+[New Gen List 0] --> 8/16/B
+[Enemy Move]From [7/16/B] --> [8/16/B]
+[DEBUG]: 5/34/&
+#######[TURN7]##########
+[Player Coords]x:18 y:10
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 8/17/B
+[Enemy Move]From [8/16/B] --> [8/17/B]
+[DEBUG]: 5/35/&
+#######[TURN8]##########
+[Player Coords]x:19 y:10
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 8/18/B
+[Enemy Move]From [8/17/B] --> [8/18/B]
+[DEBUG]: 5/34/&
+#######[TURN9]##########
+[Player Coords]x:20 y:10
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 8/19/B
+[Enemy Move]From [8/18/B] --> [8/19/B]
+[DEBUG]: 5/35/&
+#######[TURN10]##########
+[Player Coords]x:21 y:10
+[Monster Move (B)]Dist: 2.8284271247461903
+[New Gen List 0] --> 8/20/B
+[Enemy Move]From [8/19/B] --> [8/20/B]
+[DEBUG]: 4/35/&
+#######[TURN11]##########
+[Player Coords]x:22 y:10
+[Monster Move (B)]Dist: 4.47213595499958
+[New Gen List 0] --> 8/19/B
+[Enemy Move]From [8/20/B] --> [8/19/B]
+[DEBUG]: 3/35/&
+#######[TURN12]##########
+[Player Coords]x:23 y:10
+[DEBUG]: 8/19/B
+[DEBUG]: 3/34/&
+#######[TURN13]##########
+[Player Coords]x:24 y:10
+[DEBUG]: 9/19/B
+[DEBUG]: 4/34/&
+#######[TURN14]##########
+[Player Coords]x:25 y:10
+[DEBUG]: 9/18/B
+[DEBUG]: 4/34/&
+#######[TURN15]##########
+[Player Coords]x:26 y:10
+[DEBUG]: 9/18/B
+[DEBUG]: 4/33/&
+#######[TURN16]##########
+[Player Coords]x:27 y:10
+[DEBUG]: 8/18/B
+[DEBUG]: 4/34/&
+#######[TURN17]##########
+[Player Coords]x:28 y:10
+[DEBUG]: 9/18/B
+[DEBUG]: 5/34/&
+#######[TURN18]##########
+[Player Coords]x:29 y:10
+[DEBUG]: 9/17/B
+[DEBUG]: 5/34/&
+#######[TURN19]##########
+[Player Coords]x:30 y:10
+[DEBUG]: 9/17/B
+[Monster Move (&)]Dist: 4.242640687119285
+[New Gen List 1] --> 6/33/&
+[Enemy Move]From [6/34/&] --> [6/33/&]
+#######[TURN20]##########
+[Player Coords]x:30 y:9
+[DEBUG]: 9/17/B
+[Monster Move (&)]Dist: 2.8284271247461903
+[New Gen List 1] --> 6/32/&
+[Enemy Move]From [6/33/&] --> [6/32/&]
+#######[TURN21]##########
+[Player Coords]x:30 y:8
+[DEBUG]: 9/17/B
+[Monster Move (&)]Dist: 2.0
+[New Gen List 1] --> 7/32/&
+[Enemy Move]From [6/32/&] --> [7/32/&]
+#######[TURN22]##########
+[Player Coords]x:31 y:8
+[DEBUG]: 10/17/B
+[Monster Move (&)]Dist: 1.4142135623730951
+[New Gen List 1] --> 8/32/&
+[Enemy Move]From [7/32/&] --> [8/32/&]
+#######[TURN23]##########
+[Player Coords]x:32 y:8
+[DEBUG]: 10/18/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 8/33/&
+[Enemy Move]From [8/32/&] --> [8/33/&]
+#######[TURN24]##########
+[Player Coords]x:33 y:8
+[DEBUG]: 11/18/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 8/34/&
+[Enemy Move]From [8/33/&] --> [8/34/&]
+#######[TURN25]##########
+[Player Coords]x:34 y:8
+[DEBUG]: 11/19/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 8/35/&
+[Enemy Move]From [8/34/&] --> [8/35/&]
+#######[TURN26]##########
+[Player Coords]x:35 y:8
+[DEBUG]: 11/18/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 7/35/&
+[Enemy Move]From [8/35/&] --> [7/35/&]
+#######[TURN27]##########
+[Player Coords]x:35 y:8
+[DEBUG]: 11/18/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 8/35/&
+[Enemy Move]From [7/35/&] --> [8/35/&]
+#######[TURN28]##########
+[Player Coords]x:36 y:8
+[DEBUG]: 11/17/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/35/&
+[Enemy Move]From [8/35/&] --> [9/35/&]
+#######[TURN29]##########
+[Player Coords]x:36 y:9
+[DEBUG]: 11/18/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/35/&
+[Enemy Move]From [9/35/&] --> [10/35/&]
+#######[TURN30]##########
+[Player Coords]x:36 y:10
+[DEBUG]: 11/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/36/&
+[Enemy Move]From [10/35/&] --> [10/36/&]
+#######[TURN31]##########
+[Player Coords]x:37 y:10
+[DEBUG]: 11/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/37/&
+[Enemy Move]From [10/36/&] --> [10/37/&]
+#######[TURN32]##########
+[Player Coords]x:38 y:10
+[DEBUG]: 12/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/38/&
+[Enemy Move]From [10/37/&] --> [10/38/&]
+#######[TURN33]##########
+[Player Coords]x:39 y:10
+[DEBUG]: 12/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/39/&
+[Enemy Move]From [10/38/&] --> [10/39/&]
+#######[TURN34]##########
+[Player Coords]x:40 y:10
+[DEBUG]: 12/17/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 10/40/&
+[Enemy Move]From [10/39/&] --> [10/40/&]
+#######[TURN35]##########
+[Player Coords]x:40 y:10
+[DEBUG]: 12/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/40/&
+[Enemy Move]From [10/40/&] --> [9/40/&]
+#######[TURN36]##########
+[Player Coords]x:40 y:10
+[DEBUG]: 13/16/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 10/40/&
+[Enemy Move]From [9/40/&] --> [10/40/&]
+#######[TURN37]##########
+[Player Coords]x:41 y:10
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/41/&
+[Enemy Move]From [10/40/&] --> [10/41/&]
+#######[TURN38]##########
+[Player Coords]x:42 y:10
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/42/&
+[Enemy Move]From [10/41/&] --> [10/42/&]
+#######[TURN39]##########
+[Player Coords]x:43 y:10
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/43/&
+[Enemy Move]From [10/42/&] --> [10/43/&]
+#######[TURN40]##########
+[Player Coords]x:44 y:10
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/44/&
+[Enemy Move]From [10/43/&] --> [10/44/&]
+#######[TURN41]##########
+[Player Coords]x:45 y:10
+[DEBUG]: 14/18/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/45/&
+[Enemy Move]From [10/44/&] --> [10/45/&]
+#######[TURN42]##########
+[Player Coords]x:46 y:10
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/46/&
+[Enemy Move]From [10/45/&] --> [10/46/&]
+#######[TURN43]##########
+[Player Coords]x:47 y:10
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/47/&
+[Enemy Move]From [10/46/&] --> [10/47/&]
+#######[TURN44]##########
+[Player Coords]x:48 y:10
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/48/&
+[Enemy Move]From [10/47/&] --> [10/48/&]
+#######[TURN45]##########
+[Player Coords]x:49 y:10
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/49/&
+[Enemy Move]From [10/48/&] --> [10/49/&]
+#######[TURN46]##########
+[Player Coords]x:50 y:10
+[DEBUG]: 13/17/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 11/49/&
+[Enemy Move]From [10/49/&] --> [11/49/&]
+#######[TURN47]##########
+[Player Coords]x:50 y:11
+[DEBUG]: 13/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/50/&
+[Enemy Move]From [11/49/&] --> [11/50/&]
+#######[TURN48]##########
+[Player Coords]x:50 y:11
+[DEBUG]: 13/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/51/&
+[Enemy Move]From [11/50/&] --> [11/51/&]
+#######[TURN49]##########
+[Player Coords]x:51 y:11
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/52/&
+[Enemy Move]From [11/51/&] --> [11/52/&]
+#######[TURN50]##########
+[Player Coords]x:52 y:11
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/53/&
+[Enemy Move]From [11/52/&] --> [11/53/&]
+#######[TURN51]##########
+[Player Coords]x:53 y:11
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/54/&
+[Enemy Move]From [11/53/&] --> [11/54/&]
+#######[TURN52]##########
+[Player Coords]x:54 y:11
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/55/&
+[Enemy Move]From [11/54/&] --> [11/55/&]
+#######[TURN53]##########
+[Player Coords]x:55 y:11
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 0.0
+[New Gen List 1] --> 11/56/&
+[Enemy Move]From [11/55/&] --> [11/56/&]
+#######[TURN54]##########
+[Player Coords]x:56 y:11
+[DEBUG]: 14/18/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 10/56/&
+[Enemy Move]From [11/56/&] --> [10/56/&]
+#######[TURN55]##########
+[Player Coords]x:56 y:11
+[DEBUG]: 14/18/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/56/&
+[Enemy Move]From [10/56/&] --> [9/56/&]
+#######[TURN56]##########
+[Player Coords]x:56 y:10
+[DEBUG]: 14/17/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 8/56/&
+[Enemy Move]From [9/56/&] --> [8/56/&]
+#######[TURN57]##########
+[Player Coords]x:56 y:9
+[DEBUG]: 13/17/B
+[Monster Move (&)]Dist: 2.23606797749979
+[New Gen List 1] --> 9/56/&
+[Enemy Move]From [8/56/&] --> [9/56/&]
+#######[TURN58]##########
+[Player Coords]x:57 y:9
+[DEBUG]: 13/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/57/&
+[Enemy Move]From [9/56/&] --> [9/57/&]
+#######[TURN59]##########
+[Player Coords]x:58 y:9
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [9/57/&] --> [9/58/&]
+#######[TURN60]##########
+[Player Coords]x:59 y:9
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/59/&
+[Enemy Move]From [9/58/&] --> [9/59/&]
+#######[TURN61]##########
+[Player Coords]x:60 y:9
+[DEBUG]: 14/15/B
+[Monster Move (&)]Dist: 3.0
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [9/59/&] --> [9/58/&]
+#######[TURN62]##########
+[Player Coords]x:61 y:9
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 3.0
+[New Gen List 1] --> 9/59/&
+[Enemy Move]From [9/58/&] --> [9/59/&]
+#######[TURN63]##########
+[Player Coords]x:62 y:9
+[DEBUG]: 14/16/B
+[Monster Move (&)]Dist: 5.0
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [9/59/&] --> [9/58/&]
+#######[TURN64]##########
+[Player Coords]x:63 y:9
+[DEBUG]: 14/17/B
+[DEBUG]: 9/58/&
+#######[TURN65]##########
+[Player Coords]x:64 y:9
+[DEBUG]: 13/17/B
+[DEBUG]: 10/58/&
+#######[TURN66]##########
+[Player Coords]x:64 y:9
+[DEBUG]: 13/18/B
+[DEBUG]: 9/58/&
+#######[TURN67]##########
+[Player Coords]x:65 y:9
+[DEBUG]: 13/19/B
+[DEBUG]: 8/58/&
+#######[TURN68]##########
+[Player Coords]x:66 y:9
+[DEBUG]: 12/19/B
+[DEBUG]: 8/58/&
+#######[TURN69]##########
+[Player Coords]x:67 y:9
+[DEBUG]: 12/18/B
+[DEBUG]: 8/57/&
+#######[TURN70]##########
+[Player Coords]x:68 y:9
+[DEBUG]: 12/18/B
+[DEBUG]: 8/58/&
+#######[TURN71]##########
+[Player Coords]x:69 y:9
+[DEBUG]: 12/19/B
+[DEBUG]: 8/59/&
+#######[TURN72]##########
+[Player Coords]x:70 y:9
+[DEBUG]: 13/19/B
+[DEBUG]: 9/59/&
+#######[TURN73]##########
+[Player Coords]x:71 y:9
+[DEBUG]: 13/19/B
+[DEBUG]: 9/59/&
+#######[TURN74]##########
+[Player Coords]x:72 y:9
+[DEBUG]: 13/20/B
+[DEBUG]: 10/59/&
+#######[TURN75]##########
+[Player Coords]x:73 y:9
+[DEBUG]: 13/21/B
+[DEBUG]: 11/59/&
+#######[TURN76]##########
+[Player Coords]x:74 y:9
+[DEBUG]: 13/21/B
+[DEBUG]: 11/58/&
+#######[TURN77]##########
+[Player Coords]x:75 y:9
+[DEBUG]: 13/22/B
+[DEBUG]: 11/57/&
+#######[TURN78]##########
+[Player Coords]x:76 y:9
+[DEBUG]: 13/22/B
+[DEBUG]: 11/57/&
+#######[TURN79]##########
+[Player Coords]x:77 y:9
+[DEBUG]: 13/22/B
+[DEBUG]: 11/58/&
+#######[TURN80]##########
+[Player Coords]x:78 y:9
+[DEBUG]: 14/22/B
+[DEBUG]: 11/58/&
+#######[TURN81]##########
+[Player Coords]x:79 y:9
+[DEBUG]: 14/21/B
+[DEBUG]: 11/59/&
+#######[TURN82]##########
+[Player Coords]x:80 y:9
+[DEBUG]: 14/20/B
+[DEBUG]: 12/59/&
+#######[TURN83]##########
+[Player Coords]x:80 y:9
+[DEBUG]: 13/20/B
+[DEBUG]: 11/59/&
+#######[TURN84]##########
+[Player Coords]x:81 y:9
+[DEBUG]: 13/20/B
+[DEBUG]: 12/59/&
+#######[TURN85]##########
+[Player Coords]x:80 y:9
+[DEBUG]: 14/20/B
+[DEBUG]: 12/58/&
+#######[TURN86]##########
+[Player Coords]x:79 y:9
+[DEBUG]: 14/19/B
+[DEBUG]: 11/58/&
+#######[TURN87]##########
+[Player Coords]x:78 y:9
+[DEBUG]: 14/19/B
+[DEBUG]: 12/58/&
+#######[TURN88]##########
+[Player Coords]x:78 y:9
+[DEBUG]: 13/19/B
+[DEBUG]: 13/58/&
+#######[TURN89]##########
+[Player Coords]x:77 y:9
+[DEBUG]: 12/19/B
+[DEBUG]: 13/58/&
+#######[TURN90]##########
+[Player Coords]x:76 y:9
+[DEBUG]: 12/18/B
+[DEBUG]: 13/59/&
+#######[TURN91]##########
+[Player Coords]x:76 y:9
+[DEBUG]: 11/18/B
+[DEBUG]: 13/58/&
+#######[TURN92]##########
+[Player Coords]x:75 y:9
+[DEBUG]: 12/18/B
+[DEBUG]: 13/58/&
+#######[TURN93]##########
+[Player Coords]x:74 y:9
+[DEBUG]: 11/18/B
+[DEBUG]: 13/58/&
+#######[TURN94]##########
+[Player Coords]x:73 y:9
+[DEBUG]: 11/18/B
+[DEBUG]: 13/58/&
+#######[TURN95]##########
+[Player Coords]x:72 y:9
+[DEBUG]: 12/18/B
+[DEBUG]: 13/57/&
+#######[TURN96]##########
+[Player Coords]x:71 y:9
+[DEBUG]: 11/18/B
+[DEBUG]: 14/57/&
+#######[TURN97]##########
+[Player Coords]x:71 y:9
+[DEBUG]: 11/19/B
+[DEBUG]: 14/58/&
+#######[TURN98]##########
+[Player Coords]x:70 y:9
+[DEBUG]: 12/19/B
+[DEBUG]: 14/57/&
+#######[TURN99]##########
+[Player Coords]x:70 y:9
+[DEBUG]: 12/20/B
+[DEBUG]: 13/57/&
+#######[TURN100]##########
+[Player Coords]x:69 y:9
+[DEBUG]: 12/20/B
+[DEBUG]: 14/57/&
+#######[TURN101]##########
+[Player Coords]x:68 y:9
+[DEBUG]: 11/20/B
+[DEBUG]: 13/57/&
+#######[TURN102]##########
+[Player Coords]x:67 y:9
+[DEBUG]: 11/20/B
+[DEBUG]: 13/57/&
+#######[TURN103]##########
+[Player Coords]x:66 y:9
+[DEBUG]: 11/19/B
+[DEBUG]: 13/58/&
+#######[TURN104]##########
+[Player Coords]x:65 y:9
+[DEBUG]: 10/19/B
+[DEBUG]: 13/57/&
+#######[TURN105]##########
+[Player Coords]x:64 y:9
+[DEBUG]: 9/19/B
+[DEBUG]: 12/57/&
+#######[TURN106]##########
+[Player Coords]x:63 y:9
+[DEBUG]: 9/19/B
+[DEBUG]: 12/57/&
+#######[TURN107]##########
+[Player Coords]x:62 y:9
+[DEBUG]: 10/19/B
+[Monster Move (&)]Dist: 3.605551275463989
+[New Gen List 1] --> 11/58/&
+[Enemy Move]From [11/57/&] --> [11/58/&]
+#######[TURN108]##########
+[Player Coords]x:61 y:9
+[DEBUG]: 10/20/B
+[Monster Move (&)]Dist: 3.605551275463989
+[New Gen List 1] --> 10/58/&
+[Enemy Move]From [11/58/&] --> [10/58/&]
+#######[TURN109]##########
+[Player Coords]x:60 y:9
+[DEBUG]: 10/19/B
+[Monster Move (&)]Dist: 3.605551275463989
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [10/58/&] --> [9/58/&]
+#######[TURN110]##########
+[Player Coords]x:60 y:8
+[DEBUG]: 9/19/B
+[Monster Move (&)]Dist: 1.0
+[New Gen List 1] --> 9/59/&
+[Enemy Move]From [9/58/&] --> [9/59/&]
+#######[TURN111]##########
+[Player Coords]x:60 y:9
+[DEBUG]: 9/20/B
+[Monster Move (&)]Dist: 3.0
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [9/59/&] --> [9/58/&]
+#######[TURN112]##########
+[Player Coords]x:61 y:9
+[DEBUG]: 8/20/B
+[Monster Move (&)]Dist: 3.0
+[New Gen List 1] --> 9/59/&
+[Enemy Move]From [9/58/&] --> [9/59/&]
+#######[TURN113]##########
+[Player Coords]x:62 y:9
+[DEBUG]: 8/20/B
+[Monster Move (&)]Dist: 5.0
+[New Gen List 1] --> 9/58/&
+[Enemy Move]From [9/59/&] --> [9/58/&]
+#######[TURN114]##########
+[Player Coords]x:63 y:9
+[DEBUG]: 8/20/B
+[DEBUG]: 9/58/&
+#######[TURN115]##########
+[Player Coords]x:64 y:9
+[DEBUG]: 7/20/B
+[DEBUG]: 9/58/&
+#######[TURN116]##########
+[Player Coords]x:65 y:9
+[DEBUG]: 7/20/B
+[DEBUG]: 9/57/&
+#######[TURN117]##########
+[Player Coords]x:65 y:9
+[DEBUG]: 7/20/B
+[DEBUG]: 9/57/&
+#######[TURN118]##########
+[Player Coords]x:66 y:9
+[DEBUG]: 6/20/B
+[DEBUG]: 8/57/&
+#######[TURN119]##########
+[Player Coords]x:67 y:9
+[DEBUG]: 7/20/B
+[DEBUG]: 7/57/&
+#######[TURN120]##########
+[Player Coords]x:67 y:10
+[DEBUG]: 7/20/B
+[DEBUG]: 7/57/&
+#######[TURN121]##########
+[Player Coords]x:67 y:11
+[DEBUG]: 7/20/B
+[DEBUG]: 7/57/&
+#######[TURN122]##########
+[Player Coords]x:67 y:12
+[DEBUG]: 7/20/B
+[DEBUG]: 6/57/&
+#######[TURN123]##########
+[Player Coords]x:67 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 6/57/&
+#######[TURN124]##########
+[Player Coords]x:67 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 7/57/&
+#######[TURN125]##########
+[Player Coords]x:68 y:13
+[DEBUG]: 7/20/B
+[DEBUG]: 7/57/&
+#######[TURN126]##########
+[Player Coords]x:69 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 7/58/&
+#######[TURN127]##########
+[Player Coords]x:70 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 8/58/&
+#######[TURN128]##########
+[Player Coords]x:71 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 8/58/&
+#######[TURN129]##########
+[Player Coords]x:72 y:13
+[DEBUG]: 6/20/B
+[DEBUG]: 9/58/&
+#######[TURN130]##########
+[Player Coords]x:72 y:12
+[DEBUG]: 6/19/B
+[DEBUG]: 8/58/&
+#######[TURN131]##########
+[Player Coords]x:72 y:11
+[DEBUG]: 6/18/B
+[DEBUG]: 8/59/&
+#######[TURN132]##########
+[Player Coords]x:72 y:10
+[DEBUG]: 6/19/B
+[DEBUG]: 7/59/&
+#######[TURN133]##########
+[Player Coords]x:73 y:10
+[DEBUG]: 6/20/B
+[DEBUG]: 6/59/&
+#######[TURN134]##########
+[Player Coords]x:74 y:10
+[DEBUG]: 6/20/B
+[DEBUG]: 5/59/&
+#######[TURN135]##########
+[Player Coords]x:75 y:10
+[DEBUG]: 6/20/B
+[DEBUG]: 5/60/&
+#######[TURN136]##########
+[Player Coords]x:76 y:10
+[DEBUG]: 6/19/B
+[DEBUG]: 5/60/&
+#######[TURN137]##########
+[Player Coords]x:77 y:10
+[DEBUG]: 7/19/B
+[DEBUG]: 5/60/&
+#######[TURN138]##########
+[Player Coords]x:78 y:10
+[DEBUG]: 7/19/B
+[DEBUG]: 5/60/&
+#######[TURN139]##########
+[Player Coords]x:79 y:10
+[DEBUG]: 7/20/B
+[DEBUG]: 5/59/&
+#######[TURN140]##########
+[Player Coords]x:80 y:10
+[DEBUG]: 7/20/B
+[DEBUG]: 6/59/&
+#######[TURN141]##########
+[Player Coords]x:81 y:10
+[DEBUG]: 7/20/B
+[DEBUG]: 6/59/&
+#######[TURN142]##########
+[Player Coords]x:82 y:10
+[DEBUG]: 8/20/B
+[DEBUG]: 6/59/&
+#######[TURN143]##########
+[Player Coords]x:82 y:9
+[DEBUG]: 8/19/B
+[DEBUG]: 7/59/&
+#######[TURN144]##########
+[Player Coords]x:82 y:8
+[DEBUG]: 9/19/B
+[DEBUG]: 7/59/&
+#######[TURN145]##########
+[Player Coords]x:82 y:7
+[DEBUG]: 9/20/B
+[DEBUG]: 7/58/&
+#######[TURN146]##########
+[Player Coords]x:83 y:7
+[DEBUG]: 9/21/B
+[DEBUG]: 8/58/&
+#######[TURN147]##########
+[Player Coords]x:84 y:7
+[DEBUG]: 10/21/B
+[DEBUG]: 8/57/&
+#######[TURN148]##########
+[Player Coords]x:85 y:7
+[DEBUG]: 10/21/B
+[DEBUG]: 8/56/&
+#######[TURN149]##########
+[Player Coords]x:86 y:7
+[DEBUG]: 10/20/B
+[DEBUG]: 8/56/&
+#######[TURN150]##########
+[Player Coords]x:87 y:7
+[DEBUG]: 10/21/B
+[DEBUG]: 8/56/&
+#######[TURN151]##########
+[Player Coords]x:88 y:7
+[DEBUG]: 9/21/B
+[DEBUG]: 9/56/&
+#######[TURN152]##########
+[Player Coords]x:89 y:7
+[DEBUG]: 10/21/B
+[DEBUG]: 9/56/&
+#######[TURN153]##########
+[Player Coords]x:90 y:7
+[DEBUG]: 10/22/B
+[DEBUG]: 10/56/&
+#######[TURN154]##########
+[Player Coords]x:90 y:7
+[DEBUG]: 10/23/B
+[DEBUG]: 11/56/&
+#######[TURN155]##########
+[Player Coords]x:90 y:6
+[DEBUG]: 10/22/B
+[DEBUG]: 11/56/&
+#######[TURN156]##########
+[Player Coords]x:91 y:6
+[DEBUG]: 11/22/B
+[DEBUG]: 11/57/&
+#######[TURN157]##########
+[Player Coords]x:92 y:6
+[DEBUG]: 11/22/B
+[DEBUG]: 11/58/&
+#######[TURN158]##########
+[Player Coords]x:93 y:6
+[DEBUG]: 10/22/B
+[DEBUG]: 11/59/&
+#######[TURN159]##########
+[Player Coords]x:94 y:6
+[DEBUG]: 10/22/B
+[DEBUG]: 11/60/&
+#######[TURN160]##########
+[Player Coords]x:95 y:6
+[DEBUG]: 10/23/B
+[DEBUG]: 11/60/&
+#######[TURN161]##########
+[Player Coords]x:96 y:6
