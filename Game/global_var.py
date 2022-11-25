@@ -5,8 +5,10 @@ class Global:
     PLAYER_X = 1
     PLAYER_Y = 1
     TURNS = 0
+    NEXT_LEVEL = False
     NEW_GEN_ITEMS = []
     NEW_GEN_MONSTER = []
+    GAME_WIN = False
     STATS={
         'HP':10,
         'LV':0,

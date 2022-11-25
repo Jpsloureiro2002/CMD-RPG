@@ -18,7 +18,16 @@ def Game(game_Start, Load):
     else:
         slot = input("Witch Slot 1~5:\n")
         Data.load(slot)
-    while (game_Start and not g.DEAD):
+    while (game_Start and not g.DEAD and not g.GAME_WIN):
+        if g.NEXT_LEVEL:
+            Generation.clearGen()
+            g.TURNS = 0
+            Logs.log(f"#######[TURN{g.TURNS}]##########")
+            Display.draw_raw_Map()
+            Generation.gen_item(3,"potions")
+            Generation.gen_item(2,"swords")
+            Generation.gen_monster(2)
+            g.NEXT_LEVEL = False
         res()
         Logs.log(f"[Player Coords]x:{g.PLAYER_X} y:{g.PLAYER_Y}")
         Display.update_map()
@@ -71,6 +80,9 @@ def Options():
 ##Start of Program
 while True:
     clsp()
+    g.GAME_WIN = False
+    g.STATS["Level"] = 0
+    g.TURNS = 0
     banner = pyfiglet.figlet_format("Math Dungeons!!")
     print(banner)
     print("Choose your Option: start(s), options(o), load(l),quit(q)")

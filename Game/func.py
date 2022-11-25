@@ -4,7 +4,9 @@ from PIL import Image
 import random
 import math
 from datetime import datetime
+import pyfiglet
 import pickle
+clsp = lambda : os.system('cls')
 
 class Display:
     def draw_raw_Map():
@@ -77,6 +79,13 @@ class Display:
             for i in row:
                 r = r + i
             print(r)
+    def end_game():
+        clsp()
+        banner = pyfiglet.figlet_format("Congrats You Finish the Game")
+        print(banner)
+        print("For Now :)...")
+        input("\nWrite Something to go to the start!!\n")
+        g.GAME_WIN = True
 
 class KeyEvent():
     def KeyPress(option):
@@ -92,6 +101,7 @@ class KeyEvent():
 class Colision():
     def check_col():
         wall = "█"
+        net_lv = "≡"
         #print(g.Map[g.PLAYER_Y+1]) #Isto representa a linha do player
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
@@ -99,24 +109,42 @@ class Colision():
         
         if row[g.PLAYER_X-2] == wall:
             g.Move_Lock['a'] = True
-            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Wall")
+        elif row[g.PLAYER_X-2] == net_lv:
+            Level.next_level()
         else:
             #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Space")
             g.Move_Lock['a'] = False
         # o x+1 vai ser a pos do Player o x+2 vai ser a pos a direita do player isto por causa do temp na criação do mapa
         if row[g.PLAYER_X] == wall:
             g.Move_Lock['d'] = True
+            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Wall")
+        elif row[g.PLAYER_X] == net_lv:
+            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Next Level")
+            Level.next_level()
         else:
             g.Move_Lock['d'] = False
         if row_Up[g.PLAYER_X-1] == wall:
             g.Move_Lock['w'] = True
+        elif row_Up[g.PLAYER_X-1] == net_lv:
+            Level.next_level()
         else:
             g.Move_Lock['w'] = False
         if row_Down[g.PLAYER_X-1] == wall:
             g.Move_Lock['s'] = True
+        elif row_Down[g.PLAYER_X-1] == net_lv:
+            Level.next_level()
         else:
             g.Move_Lock['s'] = False
-            
+
+class Level:
+    def next_level():
+        g.STATS["Level"] = g.STATS['Level'] + 1
+        path = "Assets/Maps/level"+str(g.STATS["Level"])+".gif"
+        if os.path.exists(path):
+            g.NEXT_LEVEL = True
+        else:
+            Display.end_game()
+
 class Logs:
     def log(log):
         date = datetime.today().strftime('%Y_%m_%d')
@@ -125,6 +153,7 @@ class Logs:
 
 class Generation():
     def gen_item(n,types):
+
         item_list = g.items[types]
         for i in range(n):
             item_temp = random.choice(item_list)
@@ -134,7 +163,7 @@ class Generation():
             while check == False:
                 row = g.Map[y]
                 Logs.log(f"[Item Spawn]x:{x} y:{y}")
-                if (row[x] != "█" and row[x] != g.PLAYER_SKIN) and row[x] != "I":
+                if (row[x] != "█" and row[x] != g.PLAYER_SKIN and row[x] != "I" and row[x] != "≡"):
                     row[x] = "I"
                     g.NEW_GEN_ITEMS.append(f"{y}/{x}/{item_temp}")
                     check = True
@@ -149,13 +178,15 @@ class Generation():
             while check == False:
                 row = g.Map[y]
                 Logs.log(f"[Monster Spawn]x:{x} y:{y}")
-                if (row[x] != "█" and row[x] != g.PLAYER_SKIN) and row[x] != "I":
+                if (row[x] != "█" and row[x] != g.PLAYER_SKIN and row[x] != "I" and row[x] != "≡"):
                     row[x] = item_temp
                     g.NEW_GEN_MONSTER.append(f"{y}/{x}/{item_temp}")
                     check = True
                 y = random.randint(1,15)
                 x = random.randint(0,100)
-
+    def clearGen():
+        g.NEW_GEN_ITEMS.clear()
+        g.NEW_GEN_MONSTER.clear()
 class AI():
     def Monster_AI():
         IDs = 0
