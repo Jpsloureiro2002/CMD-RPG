@@ -10,12 +10,14 @@ class Global:
     NEW_GEN_MONSTER = []
     GAME_WIN = False
     STATS={
-        'HP':10,
+        'HP':5,
+        'MAXHP':10,
         'LV':0,
         'XP':0,
         'Slot':'-1',
         'Def':0,
-        'Level':0
+        'Level':0,
+        'Atk':1
     }
     Map = {
         1:[],
@@ -41,17 +43,18 @@ class Global:
         'a':False,
     }
     #0-Swords 1-SHields 2- Armor
-    inv = []
+    inv = ["swords/0","potions/0"]
     equip = {
-        '-1':'hand',
-        '0':'',
-        '1':'',
-        '2':''
+        99:'hand',
+        0:'',
+        1:'',
+        2:''
     }
     items={
-        "swords":[("knife",5),("iron_sword",10)],
+        "swords":[("daguer",3),("knife",5),("iron_sword",10)],
         "potions":[("life_b",3),("life_g",5)],
-        "Shield":[("Wood Shield",2)]
+        "Shield":[("Wood Shield",2)],
+        "Armor":[("Wood Armor",10)]
     }
     best_list = ["$","B","&"]
     # [HP,ATACK,DEF]

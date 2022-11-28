@@ -7,8 +7,141 @@ from datetime import datetime
 import pyfiglet
 import pickle
 clsp = lambda : os.system('cls')
+class Stats:
+    def set_atrib():
+        #ID/NOME
+        g.STATS["Def"] = 0
+        #lst list of the splited string and LSTD list of the dictionary
+        if g.equip[0] != "":
+            lst = g.equip[0].split("/")
+            idi = int(lst[1])
+            nome_dic = lst[0]
+            lstd = g.items[nome_dic]
+            g.STATS["Atk"] = 1 + lstd[idi][1]
+        else:
+            g.STATS["Atk"] = 1
+        if g.equip[1] != "":
+            lst = g.equip[1].split("/")
+            idi = int(lst[1])
+            nome_dic = lst[0]
+            lstd = g.items[nome_dic]
+            g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
+        else:
+            g.STATS["Def"] = 0
+        if g.equip[2] != "":
+            lst = g.equip[2].split("/")
+            idi = int(lst[1])
+            nome_dic = lst[0]
+            lstd = g.items[nome_dic]
+            g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
+        else:
+            g.STATS["Def"] = 0
 
 class Display:
+    def draw_stats():
+        clsp()
+        Display.title("Stats!")
+        print("#"*100)
+        for key, value in g.STATS.items():
+            print(key, ' : ', value)
+        print("#"*100)
+        if g.equip[0] != "":
+            r = g.equip[0].split("/")
+            dicR = g.items.get(r[0])
+            print(f"Right Hand: {dicR[int(r[1])][0]}")
+        else:
+            print("Right Hand: None")
+        if g.equip[1] != "":
+            l = g.equip[1].split("/")
+            dicl = g.items.get(l[0])
+            print(f"Left Hand: {dicl[int(l[1])][0]}")
+        else:
+            print("Left Hand: None")
+        if g.equip[2] != "":
+            a = g.equip[2].split("/")
+            dica = g.items.get(a[0])
+            print(f"Armor: {dica[int(a[1])][0]}")
+        else:
+            print("Armor: None")
+        print("#"*100)
+        input("Write Something to go back!\n")
+    def title(str):
+        banner = pyfiglet.figlet_format(str)
+        print(banner)
+    def draw_inv():
+        page = 1
+        LIST_ITEMS = 10
+        while True:
+            clsp()
+            Display.title("Inventory!")
+            print("#"*100)
+            reg = page * LIST_ITEMS
+            iterador = reg - LIST_ITEMS
+            ids = reg - LIST_ITEMS
+            while (iterador <= reg and iterador <= len(g.inv)-1):
+                none = ""
+                inventario = g.inv[ids].split("/")
+                name = inventario[0]
+                dic = g.items[name]
+                id_dic = int(inventario[1])
+                if name == "potions":
+                    prefix = f"Heal:{dic[id_dic][1]}"
+                elif name == "swords":
+                    prefix = f"Damage:{dic[id_dic][1]}"
+                elif name == "Shield":
+                    prefix = f"Armor:{dic[id_dic][1]}"
+                print(f"ID/Name[{id_dic}/{name:5}] -> {dic[id_dic][0]:15} : {prefix}")
+                ids += 1
+                iterador += 1
+            iterador = reg - LIST_ITEMS
+            print("#"*100)
+            print(f"Page {page}")
+            print("Commands: page, back, equip(e) or use(u)")
+            option = input("Write Here:\n")
+            if option == "back":
+                break
+            if option == "page":
+                pg = int(input("Chose the Page:\n"))
+                dif = len(g.inv) - (pg * LIST_ITEMS)
+                if (pg <= 0 or  dif > LIST_ITEMS+1):
+                    pg = 1
+                page = pg
+            if (option == "e" or option == "u"):
+                comand = input(">[ID/NAME] Ex:. 1/swords\n>")
+                try:
+                    cm_info = comand.split("/")
+                    comand = cm_info[1] + "/" + cm_info[0]
+                    id_item = int(cm_info[0])
+                    nome_dic = cm_info[1]
+                    #Logs.log(str(comand))
+                    #Logs.log(str(g.inv))
+                    #Logs.log(str(comand in g.inv))
+                    if comand in g.inv:
+                        if nome_dic == "swords":
+                            ids_equip = 0
+                        elif nome_dic == "potions":
+                            ids_equip = 98
+                        elif nome_dic == "Shield":
+                            ids_equip = 1
+                        elif nome_dic == "Armor":
+                            ids_equip = 2
+                        if ids_equip == 98:
+                            lstPotiuon = g.items[nome_dic]
+                            hpRegen = lstPotiuon[id_item][1]
+                            if g.STATS["HP"] == g.STATS["MAXHP"]:
+                                print("You Have Full Health .-.")
+                            else:
+                                g.inv.remove(comand)
+                            g.STATS["HP"] = g.STATS["HP"] + hpRegen
+                            if g.STATS["HP"] > g.STATS["MAXHP"]:
+                                g.STATS["HP"] = g.STATS["MAXHP"]
+                            
+                        else:
+                            g.equip[ids_equip] = comand
+                            Stats.set_atrib()
+                except:
+                    print("Something is wrong!")
+
     def draw_raw_Map():
         file = os.path.join("Assets","Maps","level"+str(g.STATS['Level'])+".gif")
         img = Image.open(file).convert("RGB")

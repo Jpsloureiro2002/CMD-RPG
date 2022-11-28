@@ -45,6 +45,11 @@ def Game(game_Start, Load):
                     print(banner)
                     time.sleep(3)
                     sys.exit()
+            elif (Option == "inv" or Option == "i"):
+                Display.draw_inv()
+            elif (Option == "stats" or Option == "st"):
+                Display.draw_stats()
+                break
             else:
                 break
         Colision.check_col()
