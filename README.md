@@ -4,7 +4,7 @@ Is a turn-based game in which your character must explore and battle fierce mons
 You must defeat the minions of the π and stop their evil plans to turn the flat world into a round world.
 <h2>How it started:</h2>
 <p>
-It started with a simple project of a text-based rpg but over time before I even opened this repository around 2018. Now I make the game with the goal of learning and improving.
+It started with a simple project of a text-based rpg, but over time before, even before I opened this repository around 2018, I have been improving and adding more promising stuff, and now I make the game with the goal of learning and improving.
 </p>
 <h2>How it works:</h2>
 The project is still under development so I don't have much to say yet but I can at least tell you how it works, let's start with the basics:
