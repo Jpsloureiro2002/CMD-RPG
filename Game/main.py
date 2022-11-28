@@ -13,8 +13,10 @@ def Game(game_Start, Load):
         Logs.log(f"#######[TURN{g.TURNS}]##########")
         Display.draw_raw_Map()
         Generation.gen_item(3,"potions")
-        Generation.gen_item(2,"swords")
-        Generation.gen_monster(2)
+        Generation.gen_item(1,"swords")
+        Generation.gen_item(1,"Shield")
+        Generation.gen_item(1,"Armor")
+        Generation.gen_monster(1+int(g.STATS["Level"]))
     else:
         slot = input("Witch Slot 1~5:\n")
         Data.load(slot)

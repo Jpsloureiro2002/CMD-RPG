@@ -6,11 +6,12 @@ class Global:
     PLAYER_Y = 1
     TURNS = 0
     NEXT_LEVEL = False
+    INFO_TEXT = ""
     NEW_GEN_ITEMS = []
     NEW_GEN_MONSTER = []
     GAME_WIN = False
     STATS={
-        'HP':5,
+        'HP':10,
         'MAXHP':10,
         'LV':0,
         'XP':0,
@@ -51,8 +52,8 @@ class Global:
         2:''
     }
     items={
-        "swords":[("daguer",3),("knife",5),("iron_sword",10)],
-        "potions":[("life_b",3),("life_g",5)],
+        "swords":[("Dagger",3),("Knife",5),("Iron Sword",10)],
+        "potions":[("Life Potion S",3),("Life Potion M",5)],
         "Shield":[("Wood Shield",2)],
         "Armor":[("Wood Armor",10)]
     }

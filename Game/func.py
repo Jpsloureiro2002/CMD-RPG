@@ -7,6 +7,31 @@ from datetime import datetime
 import pyfiglet
 import pickle
 clsp = lambda : os.system('cls')
+class Func:
+    def item_pick_up(i_x,i_y):
+        g.INFO_TEXT = "New Item Found Check your Inv"
+        pos = Data.find_Item(i_x,i_y)
+        if pos:
+            str_clear = g.NEW_GEN_ITEMS[pos]
+            str_info = g.NEW_GEN_ITEMS[pos].split("/")
+            item_name = str_info[3]
+            Logs.log(f"ITEM NAME : {str_clear}")
+            dic_item = g.items.get(item_name)
+            if dic_item:
+                tup_Item = eval(str_info[2])
+                ids = dic_item.index(tup_Item)
+                str_formated = f"{item_name}/{ids}"
+                if item_name != "potions":
+                    if str_formated in g.inv:
+                        g.NEW_GEN_ITEMS.remove(g.NEW_GEN_ITEMS[pos])
+                        return False     
+                g.inv.append(str_formated)
+                g.NEW_GEN_ITEMS.remove(g.NEW_GEN_ITEMS[pos])
+                Logs.log("[ITEM REMOVE] Item is now in your inv")
+            else:
+                Logs.log("[DICTIONARY ERROR] Dictionary is giving Null")
+        else:
+            Logs.log("[ITEM] Pos is False")
 class Stats:
     def set_atrib():
         #ID/NOME
@@ -25,7 +50,7 @@ class Stats:
             idi = int(lst[1])
             nome_dic = lst[0]
             lstd = g.items[nome_dic]
-            g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
+            g.STATS["Def"] = g.STATS["Def"] + lstd[idi][1]
         else:
             g.STATS["Def"] = 0
         if g.equip[2] != "":
@@ -34,8 +59,6 @@ class Stats:
             nome_dic = lst[0]
             lstd = g.items[nome_dic]
             g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
-        else:
-            g.STATS["Def"] = 0
 
 class Display:
     def draw_stats():
@@ -235,15 +258,18 @@ class Colision():
     def check_col():
         wall = "█"
         net_lv = "≡"
+        item = "I"
         #print(g.Map[g.PLAYER_Y+1]) #Isto representa a linha do player
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
-        
+        Logs.log(str(row[g.PLAYER_X] == item))
         if row[g.PLAYER_X-2] == wall:
             g.Move_Lock['a'] = True
         elif row[g.PLAYER_X-2] == net_lv:
             Level.next_level()
+        elif row[g.PLAYER_X-2] == net_lv:
+            Func.item_pick_up(g.PLAYER_X-2,g.PLAYER_Y+1)
         else:
             #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Space")
             g.Move_Lock['a'] = False
@@ -254,18 +280,24 @@ class Colision():
         elif row[g.PLAYER_X] == net_lv:
             #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Next Level")
             Level.next_level()
+        elif row[g.PLAYER_X] == item:
+            Func.item_pick_up(g.PLAYER_X,g.PLAYER_Y+1)
         else:
             g.Move_Lock['d'] = False
         if row_Up[g.PLAYER_X-1] == wall:
             g.Move_Lock['w'] = True
         elif row_Up[g.PLAYER_X-1] == net_lv:
             Level.next_level()
+        elif row_Up[g.PLAYER_X-1] == item:
+            Func.item_pick_up(g.PLAYER_X-1,g.PLAYER_Y)
         else:
             g.Move_Lock['w'] = False
         if row_Down[g.PLAYER_X-1] == wall:
             g.Move_Lock['s'] = True
         elif row_Down[g.PLAYER_X-1] == net_lv:
             Level.next_level()
+        elif row_Down[g.PLAYER_X-1] == item:
+            Func.item_pick_up(g.PLAYER_X-1,g.PLAYER_Y+2)
         else:
             g.Move_Lock['s'] = False
 
@@ -298,7 +330,7 @@ class Generation():
                 Logs.log(f"[Item Spawn]x:{x} y:{y}")
                 if (row[x] != "█" and row[x] != g.PLAYER_SKIN and row[x] != "I" and row[x] != "≡"):
                     row[x] = "I"
-                    g.NEW_GEN_ITEMS.append(f"{y}/{x}/{item_temp}")
+                    g.NEW_GEN_ITEMS.append(f"{y}/{x}/{item_temp}/{types}")
                     check = True
                 y = random.randint(1,15)
                 x = random.randint(0,99)
@@ -427,4 +459,12 @@ class Data():
         with open(f'Saves/Save_{slot}.pkl','rb') as f:
             g.TURNS,g.Map,g.STATS,g.DEAD,g.PLAYER_X,g.PLAYER_Y,g.NEW_GEN_ITEMS,g.NEW_GEN_MONSTER,g.Move_Lock,g.inv,g.equip = pickle.load(f)
         Logs.log("[LOAD] Sucess LOADING all Data")
+    def find_Item(x_Item,y_Item):
+        pos = 0
+        for lis in g.NEW_GEN_ITEMS:
+            str_info = lis.split("/")
+            if (int(str_info[0]) == y_Item and int(str_info[1]) == x_Item):
+                return pos
+            pos +=1
+        return False
 
