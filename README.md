@@ -1,5 +1,8 @@
 # CMD-RPG
-<h1>Welcome to <b>MATH GAME</b></h1>
+<h1>Welcome to <b>MATH DUNGEON</b></h1>
+Is a turn-based game in which your character must explore and battle fierce monsters in the catacombs of the π(Pi).
+You must defeat the minions of the π and stop their evil plans to turn the flat world into a round world.
+<h2>How it started:</h2>
 <p>
 It started with a simple project of a text-based rpg but over time before I even opened this repository around 2018. Now I make the game with the goal of learning and improving.
 </p>
