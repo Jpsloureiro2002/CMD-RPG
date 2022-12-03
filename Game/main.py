@@ -20,7 +20,8 @@ def Game(game_Start, Load):
     else:
         slot = input("Witch Slot 1~5:\n")
         Data.load(slot)
-    while (game_Start and not g.DEAD and not g.GAME_WIN):
+    while (game_Start) and (not g.DEAD) and (not g.GAME_WIN):
+        Logs.log(f"[DEBUG] GAME START : {g.DEAD}")
         if g.NEXT_LEVEL:
             Generation.clearGen()
             g.TURNS = 0
@@ -58,6 +59,48 @@ def Game(game_Start, Load):
         KeyEvent.KeyPress(Option)
         AI.Monster_AI()
         g.TURNS +=1
+        if g.IS_BATTLE:
+            if g.MONSTER_INFO:
+                Monster_stats = g.bestiary.get(g.MONSTER_INFO)
+            else:
+                Monster_stats = [10,10,3,1,1]
+        win = False
+        while (g.IS_BATTLE and not win):
+            nextt = False
+            while not nextt:
+                clsp() 
+                Display.draw_battle(Monster_stats)
+                print("\n"*2)
+                print("If you find this *, it will cost youa  turn!")
+                print("Commands: Atack(a)*, inv(i)*, stats(s)")
+                option = input("What will you do?\n")
+                if option == "a":
+                    Monster_stats = Data.attackMonster(Monster_stats)
+                    nextt = True
+                elif (option == "inv" or option == "i"):
+                    Display.draw_inv()
+                    nextt = True
+                elif (option == "stats" or option == "s"):
+                    Display.draw_stats()
+                    nextt = False
+            #AI do monstro (TEcniocamente so atacar)
+            AI.Monster_Turn(Monster_stats)
+            r = Data.is_dead(True,True,Monster_stats)
+            if r:
+                if r == "MonsterDead":
+                    win = True
+                    Monster_stats.clear()
+                    g.IS_BATTLE = False
+                    g.MONSTER_INFO = None
+                    g.TEMP_MONSTER_STATS.clear()
+                    break
+                    #add a win display and XP rewards
+                elif r == "PlayerDead":
+                    Logs.log("[DEBUG] PLAYER IS DEAD")
+                    g.IS_BATTLE = False
+                    g.MONSTER_INFO = None
+                    g.TEMP_MONSTER_STATS.clear()
+                    break
         Logs.log(f"#######[TURN{g.TURNS}]##########")
 def Options():
     while True:
@@ -87,6 +130,7 @@ def Options():
 ##Start of Program
 while True:
     clsp()
+    g.DEAD = False
     g.GAME_WIN = False
     g.STATS["Level"] = 0
     g.TURNS = 0

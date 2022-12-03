@@ -6,6 +6,9 @@ class Global:
     PLAYER_Y = 1
     TURNS = 0
     NEXT_LEVEL = False
+    IS_BATTLE = False
+    MONSTER_INFO = None
+    TEMP_MONSTER_STATS = []
     INFO_TEXT = ""
     NEW_GEN_ITEMS = []
     NEW_GEN_MONSTER = []
@@ -58,11 +61,13 @@ class Global:
         "Armor":[("Wood Armor",10)]
     }
     best_list = ["$","B","&"]
-    # [HP,ATACK,DEF]
+    # [HP,MAXHP,ATACK,DEF,LV]
+    # *NOT YET A FEATURE
+    # If LV is 0 then gen a monster with more or less the LV of the player*
     bestiary={
-        0:[10,4,4],
-        1:[30,7,5],
-        2:[10,2,3]
+        0:[10,10,4,4,1],
+        1:[30,30,7,5,2],
+        2:[10,10,2,3,5]
     }
     skins={
         "Default":"■",

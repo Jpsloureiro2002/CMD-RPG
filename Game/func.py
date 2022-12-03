@@ -61,12 +61,33 @@ class Stats:
             g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
 
 class Display:
+    def draw_infos(Monster_stats):
+        none = ""
+        #HP, Def, ATK, Inv, Stats, ambos do monstro e HP Hint Gerar um Nome Difrente
+        print(f"Player{none:49} Monster")
+        #HP bar
+        print(f"HP:{g.STATS['HP']}|{g.STATS['MAXHP']}{none:50} Monster HP: {Monster_stats[0]}/{Monster_stats[1]}")
+    def draw_battle(Stats_M):
+        file = os.path.join("Assets","Maps","script_MB_start.gif")
+        img = Image.open(file).convert("RGB")
+        pix = img.load()
+
+        for y in range(15):
+            row = ""
+            for x in range(100):
+                if pix[x,y] == (0,0,0):
+                    row = row + "█"
+                else:
+                    row = row + " "
+            print(row)
+        Display.draw_infos(Stats_M)
     def draw_stats():
         clsp()
         Display.title("Stats!")
         print("#"*100)
         for key, value in g.STATS.items():
-            print(key, ' : ', value)
+            if key != "Slot":
+                print(f'{key:8}: {value}')
         print("#"*100)
         if g.equip[0] != "":
             r = g.equip[0].split("/")
@@ -264,43 +285,69 @@ class Colision():
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
         Logs.log(str(row[g.PLAYER_X] == item))
+        ##########################################
+        #Left (a)
         if row[g.PLAYER_X-2] == wall:
             g.Move_Lock['a'] = True
         elif row[g.PLAYER_X-2] == net_lv:
             Level.next_level()
+            g.Move_Lock['a'] = False
         elif row[g.PLAYER_X-2] == net_lv:
             Func.item_pick_up(g.PLAYER_X-2,g.PLAYER_Y+1)
-        else:
-            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Space")
             g.Move_Lock['a'] = False
-        # o x+1 vai ser a pos do Player o x+2 vai ser a pos a direita do player isto por causa do temp na criação do mapa
+        elif row[g.PLAYER_X-2] in g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row[g.PLAYER_X-2])
+            g.IS_BATTLE = True
+            g.Move_Lock['a'] = False
+        else:
+            g.Move_Lock['a'] = False
+        ############################################
+        #right(d)
         if row[g.PLAYER_X] == wall:
             g.Move_Lock['d'] = True
-            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Wall")
         elif row[g.PLAYER_X] == net_lv:
-            #Logs.log(f"[Player Pos Row({g.PLAYER_Y+1}) and Col({g.PLAYER_X-1})] Value is = Next Level")
             Level.next_level()
+            g.Move_Lock['d'] = False
         elif row[g.PLAYER_X] == item:
             Func.item_pick_up(g.PLAYER_X,g.PLAYER_Y+1)
+            g.Move_Lock['d'] = False
+        elif row[g.PLAYER_X] in g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row[g.PLAYER_X])
+            g.IS_BATTLE = True
+            g.Move_Lock['d'] = False
         else:
             g.Move_Lock['d'] = False
+        ############################################
+        #Up (w)
         if row_Up[g.PLAYER_X-1] == wall:
             g.Move_Lock['w'] = True
         elif row_Up[g.PLAYER_X-1] == net_lv:
             Level.next_level()
         elif row_Up[g.PLAYER_X-1] == item:
             Func.item_pick_up(g.PLAYER_X-1,g.PLAYER_Y)
+        elif row_Up[g.PLAYER_X-1] in g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Up[g.PLAYER_X-1])
+            g.IS_BATTLE = True
+            g.Move_Lock['w'] = False
         else:
             g.Move_Lock['w'] = False
+        ############################################
+        #Down (s)
         if row_Down[g.PLAYER_X-1] == wall:
             g.Move_Lock['s'] = True
         elif row_Down[g.PLAYER_X-1] == net_lv:
             Level.next_level()
+            g.Move_Lock['s'] = False
         elif row_Down[g.PLAYER_X-1] == item:
             Func.item_pick_up(g.PLAYER_X-1,g.PLAYER_Y+2)
+            g.Move_Lock['s'] = False
+        elif row_Down[g.PLAYER_X-1] in g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Down[g.PLAYER_X-1])
+            g.IS_BATTLE = True
+            g.Move_Lock['s'] = False
         else:
             g.Move_Lock['s'] = False
-
+        ############################################
 class Level:
     def next_level():
         g.STATS["Level"] = g.STATS['Level'] + 1
@@ -444,6 +491,10 @@ class AI():
             g.NEW_GEN_MONSTER[ID] = f"{y}/{x-1}/{skin}"
         elif (choice == 4 and row[x+1] != "█"):
             g.NEW_GEN_MONSTER[ID] = f"{y}/{x+1}/{skin}"
+    def Monster_Turn(M_Stats):
+        dmg = (5.6*M_Stats[4]+M_Stats[2])-(g.STATS.get("Def")*2)
+        if dmg > 0:
+            g.STATS['HP'] = int(g.STATS.get('HP') - dmg)
 
 class Data():
     def save(slot):
@@ -467,4 +518,23 @@ class Data():
                 return pos
             pos +=1
         return False
+    def attackMonster(M_Stats):
+        dmg = g.STATS.get("Atk")-(M_Stats[3]*2)
+        if dmg > 0:
+            M_Stats[0] =M_Stats[0] - dmg 
+        return M_Stats
+    def is_dead(Player = False,Monster = False, M_stats = []):
+        if Player:
+            if g.STATS.get("HP") <= 0:
+                g.DEAD = True
+                return "PlayerDead"
+        else:
+            return None
+        if Monster:
+            if len(M_stats) > 0:
+                if M_stats[1] <= 0:
+                    return "MonsterDead"
+        else:
+            return None
+
 

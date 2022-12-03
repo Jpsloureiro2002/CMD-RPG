@@ -128,3 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.txt
+Game/BrainStorm/Graph_RPG.png
+Game/BrainStorm/Testes.py
+Game/teste.py
+.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
+*.pkl
