@@ -60,6 +60,10 @@ def Game(game_Start, Load):
         AI.Monster_AI()
         g.TURNS +=1
         if g.IS_BATTLE:
+
+            Logs.log(f"[DEBUG] EQUAL: {g.MONSTER_INFO in g.NEW_GEN_MONSTER}")
+            Logs.log(f"[DEBUG] MOSNTER INFO: {g.MONSTER_INFO}")
+            Logs.log(f"[DEBUG] NEW GEM MONSTER: {g.NEW_GEN_MONSTER}")
             if g.MONSTER_INFO:
                 Monster_stats = g.bestiary.get(g.MONSTER_INFO)
             else:
@@ -84,7 +88,6 @@ def Game(game_Start, Load):
                     Display.draw_stats()
                     nextt = False
             #AI do monstro (TEcniocamente so atacar)
-            AI.Monster_Turn(Monster_stats)
             r = Data.is_dead(True,True,Monster_stats)
             if r:
                 if r == "MonsterDead":
@@ -93,14 +96,18 @@ def Game(game_Start, Load):
                     g.IS_BATTLE = False
                     g.MONSTER_INFO = None
                     g.TEMP_MONSTER_STATS.clear()
-                    break
                     #add a win display and XP rewards
-                elif r == "PlayerDead":
+                    break
+                else:
+                    AI.Monster_Turn(Monster_stats)
+            if r:
+                if r == "PlayerDead":
                     Logs.log("[DEBUG] PLAYER IS DEAD")
                     g.IS_BATTLE = False
                     g.MONSTER_INFO = None
                     g.TEMP_MONSTER_STATS.clear()
                     break
+
         Logs.log(f"#######[TURN{g.TURNS}]##########")
 def Options():
     while True:

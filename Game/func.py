@@ -8,6 +8,11 @@ import pyfiglet
 import pickle
 clsp = lambda : os.system('cls')
 class Func:
+    def remove_Monster(x,y,types):
+        #y/x/types
+        New_gen_string = f"{y}/{x}/{types}"
+        if New_gen_string in g.NEW_GEN_MONSTER:
+            g.NEW_GEN_MONSTER.remove(New_gen_string)
     def item_pick_up(i_x,i_y):
         g.INFO_TEXT = "New Item Found Check your Inv"
         pos = Data.find_Item(i_x,i_y)
@@ -297,6 +302,7 @@ class Colision():
             g.Move_Lock['a'] = False
         elif row[g.PLAYER_X-2] in g.best_list:
             g.MONSTER_INFO = g.best_list.index(row[g.PLAYER_X-2])
+            Func.remove_Monster(g.PLAYER_X-2,g.PLAYER_Y+1,row[g.PLAYER_X-2])
             g.IS_BATTLE = True
             g.Move_Lock['a'] = False
         else:
@@ -313,6 +319,7 @@ class Colision():
             g.Move_Lock['d'] = False
         elif row[g.PLAYER_X] in g.best_list:
             g.MONSTER_INFO = g.best_list.index(row[g.PLAYER_X])
+            Func.remove_Monster(g.PLAYER_X,g.PLAYER_Y+1,row[g.PLAYER_X])
             g.IS_BATTLE = True
             g.Move_Lock['d'] = False
         else:
@@ -327,6 +334,7 @@ class Colision():
             Func.item_pick_up(g.PLAYER_X-1,g.PLAYER_Y)
         elif row_Up[g.PLAYER_X-1] in g.best_list:
             g.MONSTER_INFO = g.best_list.index(row_Up[g.PLAYER_X-1])
+            Func.remove_Monster(g.PLAYER_X-1,g.PLAYER_Y,row_Up[g.PLAYER_X-1])
             g.IS_BATTLE = True
             g.Move_Lock['w'] = False
         else:
@@ -343,6 +351,7 @@ class Colision():
             g.Move_Lock['s'] = False
         elif row_Down[g.PLAYER_X-1] in g.best_list:
             g.MONSTER_INFO = g.best_list.index(row_Down[g.PLAYER_X-1])
+            Func.remove_Monster(g.PLAYER_X-1,g.PLAYER_Y+2,row_Down[g.PLAYER_X-1])
             g.IS_BATTLE = True
             g.Move_Lock['s'] = False
         else:
@@ -532,7 +541,7 @@ class Data():
             return None
         if Monster:
             if len(M_stats) > 0:
-                if M_stats[1] <= 0:
+                if M_stats[0] <= 0:
                     return "MonsterDead"
         else:
             return None
