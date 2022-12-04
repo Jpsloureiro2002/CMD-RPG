@@ -8,8 +8,37 @@ import pyfiglet
 import pickle
 clsp = lambda : os.system('cls')
 class Func:
+    def setStatsLvup():
+        g.STATS['Def']= int(g.STATS["LV"]*5*0.2)
+        g.STATS['HP'], g.STATS['MAXP']= int(g.STATS["LV"] *9*0.2)
+    def setMaxP():
+        lv = g.STATS["LV"]
+        maxxp= (lv+(lv+1))*100*0.5
+        g.STATS['MAXP'] = int(maxxp)
+        pass
+    def givexp(Monster_level):
+        xp = 50*(0.8* Monster_level)
+        g.STATS['XP'] += int(xp)
+        if Func.levelup():
+            Display.draw_Battle_win(xp,True,0,g.STATS["LV"])
+            Logs.log("[LEVEL UP] True")
+        else:
+             Display.draw_Battle_win(xp,False)
+    def levelup():
+        if g.STATS['XP'] >= g.STATS['MAXP']:
+            rest = g.STATS['XP']-g.STATS['MAXP']
+            g.STATS['XP'] = 0
+            g.STATS['XP'] += int(rest)
+            g.STATS['LV'] += 1
+            Func.setMaxP()
+            Func.setStatsLvup()
+            return True
+        if g.STATS['LV'] >= 50:
+            return True
+        else:
+            return False
+        pass
     def remove_Monster(x,y,types):
-        #y/x/types
         New_gen_string = f"{y}/{x}/{types}"
         if New_gen_string in g.NEW_GEN_MONSTER:
             g.NEW_GEN_MONSTER.remove(New_gen_string)
@@ -66,6 +95,19 @@ class Stats:
             g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
 
 class Display:
+    def draw_Battle_win(xp_gain, levelup = False, rest = 0, level = 0):
+        clsp()
+        Display.title("You Win!")
+        print("\n"*2)
+        if g.STATS['LV'] <= 50:
+            if levelup:
+                print(f"You defeat the monster and get {int(xp_gain)} xp and level up to NV: {level}")
+            else:
+                print(f"You defeat the monster and get {int(xp_gain)}")
+        else:
+            print(f"You defeat the monster and get {int(xp_gain)} xp but you reach the maximum level :(")
+        input("\n\nWrite something to quit:\n")
+        
     def draw_infos(Monster_stats):
         none = ""
         #HP, Def, ATK, Inv, Stats, ambos do monstro e HP Hint Gerar um Nome Difrente
@@ -120,6 +162,8 @@ class Display:
     def draw_inv():
         page = 1
         LIST_ITEMS = 10
+        items_info_list = []
+        iterador_list_info = 0
         while True:
             clsp()
             Display.title("Inventory!")
@@ -139,7 +183,9 @@ class Display:
                     prefix = f"Damage:{dic[id_dic][1]}"
                 elif name == "Shield":
                     prefix = f"Armor:{dic[id_dic][1]}"
-                print(f"ID/Name[{id_dic}/{name:5}] -> {dic[id_dic][0]:15} : {prefix}")
+                info_intem = f"{id_dic}/{name}"
+                items_info_list.append(f"{info_intem}")
+                print(f"ID[{items_info_list.index(info_intem)}] -> {dic[id_dic][0]:15} : {prefix}")
                 ids += 1
                 iterador += 1
             iterador = reg - LIST_ITEMS
@@ -156,38 +202,41 @@ class Display:
                     pg = 1
                 page = pg
             if (option == "e" or option == "u"):
-                comand = input(">[ID/NAME] Ex:. 1/swords\n>")
+                comand = input(">ID Ex:. 1\n>")
                 try:
-                    cm_info = comand.split("/")
-                    comand = cm_info[1] + "/" + cm_info[0]
-                    id_item = int(cm_info[0])
-                    nome_dic = cm_info[1]
-                    #Logs.log(str(comand))
-                    #Logs.log(str(g.inv))
-                    #Logs.log(str(comand in g.inv))
-                    if comand in g.inv:
-                        if nome_dic == "swords":
-                            ids_equip = 0
-                        elif nome_dic == "potions":
-                            ids_equip = 98
-                        elif nome_dic == "Shield":
-                            ids_equip = 1
-                        elif nome_dic == "Armor":
-                            ids_equip = 2
-                        if ids_equip == 98:
-                            lstPotiuon = g.items[nome_dic]
-                            hpRegen = lstPotiuon[id_item][1]
-                            if g.STATS["HP"] == g.STATS["MAXHP"]:
-                                print("You Have Full Health .-.")
+                    
+                    if items_info_list[int(comand)]:
+                        comand_id = items_info_list[int(comand)]
+                        cm_info = comand_id.split("/")
+                        comand_id = cm_info[1] + "/" + cm_info[0]
+                        id_item = int(cm_info[0])
+                        nome_dic = cm_info[1]
+                        #Logs.log(str(comand))
+                        #Logs.log(str(g.inv))
+                        #Logs.log(str(comand in g.inv))
+                        if comand_id in g.inv:
+                            if nome_dic == "swords":
+                                ids_equip = 0
+                            elif nome_dic == "potions":
+                                ids_equip = 98
+                            elif nome_dic == "Shield":
+                                ids_equip = 1
+                            elif nome_dic == "Armor":
+                                ids_equip = 2
+                            if ids_equip == 98:
+                                lstPotiuon = g.items[nome_dic]
+                                hpRegen = lstPotiuon[id_item][1]
+                                if g.STATS["HP"] == g.STATS["MAXHP"]:
+                                    print("You Have Full Health .-.")
+                                else:
+                                    g.inv.remove(comand_id)
+                                g.STATS["HP"] = g.STATS["HP"] + hpRegen
+                                if g.STATS["HP"] > g.STATS["MAXHP"]:
+                                    g.STATS["HP"] = g.STATS["MAXHP"]
+                                
                             else:
-                                g.inv.remove(comand)
-                            g.STATS["HP"] = g.STATS["HP"] + hpRegen
-                            if g.STATS["HP"] > g.STATS["MAXHP"]:
-                                g.STATS["HP"] = g.STATS["MAXHP"]
-                            
-                        else:
-                            g.equip[ids_equip] = comand
-                            Stats.set_atrib()
+                                g.equip[ids_equip] = comand_id
+                                Stats.set_atrib()
                 except:
                     print("Something is wrong!")
 
@@ -289,7 +338,45 @@ class Colision():
         row = g.Map[g.PLAYER_Y+1]
         row_Up = g.Map[g.PLAYER_Y]
         row_Down = g.Map[g.PLAYER_Y+2]
-        Logs.log(str(row[g.PLAYER_X] == item))
+        #Logs.log(str(row[g.PLAYER_X] == item))
+        ##########################################
+        #If Inside the player
+        if row[g.PLAYER_X+1] in  g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row[g.PLAYER_X+1])
+            Func.remove_Monster(g.PLAYER_X+1,g.PLAYER_Y+1,row[g.PLAYER_X+1])
+            g.IS_BATTLE = True
+            pass
+        elif row[g.PLAYER_X+1] == item:
+            Func.item_pick_up(g.PLAYER_X-2,g.PLAYER_Y+1)
+            pass
+        ##########################################
+        #UP Left CORNER (w a)
+        if row_Up[g.PLAYER_X-2] in  g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Up[g.PLAYER_X-2])
+            Func.remove_Monster(g.PLAYER_X-2,g.PLAYER_Y,row_Up[g.PLAYER_X-2])
+            g.IS_BATTLE = True
+            pass
+        ##########################################
+        #UP Right CORNER (w d)
+        if row_Up[g.PLAYER_X] in  g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Up[g.PLAYER_X])
+            Func.remove_Monster(g.PLAYER_X,g.PLAYER_Y,row_Up[g.PLAYER_X])
+            g.IS_BATTLE = True
+            pass
+        ##########################################
+        #Down Left CORNER (s a)
+        if row_Down[g.PLAYER_X-2] in  g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Down[g.PLAYER_X-2])
+            Func.remove_Monster(g.PLAYER_X-2,g.PLAYER_Y+2,row_Down[g.PLAYER_X-2])
+            g.IS_BATTLE = True
+            pass
+        ##########################################
+        #Down Right CORNER (s d)
+        if row_Down[g.PLAYER_X] in  g.best_list:
+            g.MONSTER_INFO = g.best_list.index(row_Down[g.PLAYER_X])
+            Func.remove_Monster(g.PLAYER_X,g.PLAYER_Y+2,row_Down[g.PLAYER_X])
+            g.IS_BATTLE = True
+            pass
         ##########################################
         #Left (a)
         if row[g.PLAYER_X-2] == wall:
@@ -297,7 +384,7 @@ class Colision():
         elif row[g.PLAYER_X-2] == net_lv:
             Level.next_level()
             g.Move_Lock['a'] = False
-        elif row[g.PLAYER_X-2] == net_lv:
+        elif row[g.PLAYER_X-2] == item:
             Func.item_pick_up(g.PLAYER_X-2,g.PLAYER_Y+1)
             g.Move_Lock['a'] = False
         elif row[g.PLAYER_X-2] in g.best_list:
@@ -530,7 +617,9 @@ class Data():
     def attackMonster(M_Stats):
         dmg = g.STATS.get("Atk")-(M_Stats[3]*2)
         if dmg > 0:
-            M_Stats[0] =M_Stats[0] - dmg 
+            M_Stats[0] =M_Stats[0] - dmg
+        else:
+            M_Stats[0] -=1
         return M_Stats
     def is_dead(Player = False,Monster = False, M_stats = []):
         if Player:

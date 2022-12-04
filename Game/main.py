@@ -9,6 +9,7 @@ res = lambda : os.system('mode con: cols=100 lines=30')
 clsp = lambda : os.system('cls')
 
 def Game(game_Start, Load):
+    Func.setMaxP()
     if not Load:
         Logs.log(f"#######[TURN{g.TURNS}]##########")
         Display.draw_raw_Map()
@@ -60,10 +61,9 @@ def Game(game_Start, Load):
         AI.Monster_AI()
         g.TURNS +=1
         if g.IS_BATTLE:
-
-            Logs.log(f"[DEBUG] EQUAL: {g.MONSTER_INFO in g.NEW_GEN_MONSTER}")
+            """Logs.log(f"[DEBUG] EQUAL: {g.MONSTER_INFO in g.NEW_GEN_MONSTER}")
             Logs.log(f"[DEBUG] MOSNTER INFO: {g.MONSTER_INFO}")
-            Logs.log(f"[DEBUG] NEW GEM MONSTER: {g.NEW_GEN_MONSTER}")
+            Logs.log(f"[DEBUG] NEW GEM MONSTER: {g.NEW_GEN_MONSTER}")"""
             if g.MONSTER_INFO:
                 Monster_stats = g.bestiary.get(g.MONSTER_INFO)
             else:
@@ -92,11 +92,10 @@ def Game(game_Start, Load):
             if r:
                 if r == "MonsterDead":
                     win = True
-                    Monster_stats.clear()
                     g.IS_BATTLE = False
                     g.MONSTER_INFO = None
-                    g.TEMP_MONSTER_STATS.clear()
-                    #add a win display and XP rewards
+                    Func.givexp(Monster_stats[4])
+                    Monster_stats.clear()
                     break
                 else:
                     AI.Monster_Turn(Monster_stats)
@@ -105,7 +104,6 @@ def Game(game_Start, Load):
                     Logs.log("[DEBUG] PLAYER IS DEAD")
                     g.IS_BATTLE = False
                     g.MONSTER_INFO = None
-                    g.TEMP_MONSTER_STATS.clear()
                     break
 
         Logs.log(f"#######[TURN{g.TURNS}]##########")
@@ -134,9 +132,15 @@ def Options():
                     clsp()
         if op == "back":
             break    
+
+
+
+
 ##Start of Program
 while True:
     clsp()
+    g.STATS = g.STATS_DEF.copy()
+    g.equip = g.equip_def.copy()
     g.DEAD = False
     g.GAME_WIN = False
     g.STATS["Level"] = 0

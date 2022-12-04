@@ -26,4 +26,6 @@ Again I haven't Implemented that much yet but I can tell you that yes it has som
 - Converting .GIF Images to PROMPT
 - Log System
 - SKINS💲💲💲(no, you don't need to spend money)
+- Xp e Niveis
+- Batalhas de Monstros por turnos
 - Still more to come...
