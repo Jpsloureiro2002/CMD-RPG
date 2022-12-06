@@ -4,3 +4,4 @@ REM
 set dt=%dt:~4,2%-%dt:~6,2%-%dt:~0,4%
 TITLE LOGS%dt%
 python logs.py
+pause

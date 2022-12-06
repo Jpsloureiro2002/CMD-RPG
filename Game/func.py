@@ -8,9 +8,15 @@ import pyfiglet
 import pickle
 clsp = lambda : os.system('cls')
 class Func:
+    def check_dict_exist(content, dic = g.equip):
+        for key in dic:
+            if  dic.get(key) == content:
+                return True
+        return False
     def setStatsLvup():
-        g.STATS['Def']= int(g.STATS["LV"]*5*0.2)
-        g.STATS['HP'], g.STATS['MAXP']= int(g.STATS["LV"] *9*0.2)
+        g.STATS['Def']+= int(g.STATS["LV"]*0.2)
+        g.STATS['MAXHP'] += int(g.STATS["LV"]*9*0.2)
+        g.STATS['HP'] = g.STATS['MAXHP']
     def setMaxP():
         lv = g.STATS["LV"]
         maxxp= (lv+(lv+1))*100*0.5
@@ -25,19 +31,17 @@ class Func:
         else:
              Display.draw_Battle_win(xp,False)
     def levelup():
-        if g.STATS['XP'] >= g.STATS['MAXP']:
+        while g.STATS['XP'] >= g.STATS['MAXP']:
+            if g.STATS['LV'] >= 50:
+                Func.setStatsLvup()
+                return True
             rest = g.STATS['XP']-g.STATS['MAXP']
             g.STATS['XP'] = 0
             g.STATS['XP'] += int(rest)
             g.STATS['LV'] += 1
             Func.setMaxP()
             Func.setStatsLvup()
-            return True
-        if g.STATS['LV'] >= 50:
-            return True
-        else:
-            return False
-        pass
+        return True
     def remove_Monster(x,y,types):
         New_gen_string = f"{y}/{x}/{types}"
         if New_gen_string in g.NEW_GEN_MONSTER:
@@ -95,6 +99,12 @@ class Stats:
             g.STATS["Def"] =g.STATS["Def"] + lstd[idi][1]
 
 class Display:
+    def draw_Game_over():
+        clsp()
+        banner = pyfiglet.figlet_format("GAME OVER")
+        print(banner)
+        print("Best Luck Next Time :D")
+        input("\nWrite Something to go to the start!!\n")
     def draw_Battle_win(xp_gain, levelup = False, rest = 0, level = 0):
         clsp()
         Display.title("You Win!")
@@ -113,6 +123,7 @@ class Display:
         #HP, Def, ATK, Inv, Stats, ambos do monstro e HP Hint Gerar um Nome Difrente
         print(f"Player{none:49} Monster")
         #HP bar
+        Logs.log(f"[DEBUG MONSTER STATS]{str(Monster_stats)}")
         print(f"HP:{g.STATS['HP']}|{g.STATS['MAXHP']}{none:50} Monster HP: {Monster_stats[0]}/{Monster_stats[1]}")
     def draw_battle(Stats_M):
         file = os.path.join("Assets","Maps","script_MB_start.gif")
@@ -163,8 +174,8 @@ class Display:
         page = 1
         LIST_ITEMS = 10
         items_info_list = []
-        iterador_list_info = 0
         while True:
+            str_equip = "[EQ]"
             clsp()
             Display.title("Inventory!")
             print("#"*100)
@@ -172,7 +183,6 @@ class Display:
             iterador = reg - LIST_ITEMS
             ids = reg - LIST_ITEMS
             while (iterador <= reg and iterador <= len(g.inv)-1):
-                none = ""
                 inventario = g.inv[ids].split("/")
                 name = inventario[0]
                 dic = g.items[name]
@@ -184,8 +194,12 @@ class Display:
                 elif name == "Shield":
                     prefix = f"Armor:{dic[id_dic][1]}"
                 info_intem = f"{id_dic}/{name}"
+                info_intem_inverse = f"{name}/{id_dic}"
                 items_info_list.append(f"{info_intem}")
-                print(f"ID[{items_info_list.index(info_intem)}] -> {dic[id_dic][0]:15} : {prefix}")
+                if Func.check_dict_exist(info_intem_inverse,g.equip):
+                    print(f"ID[{items_info_list.index(info_intem)}] -> {dic[id_dic][0] + str_equip:15} : {prefix}")
+                else:
+                    print(f"ID[{items_info_list.index(info_intem)}] -> {dic[id_dic][0]:15} : {prefix}")
                 ids += 1
                 iterador += 1
             iterador = reg - LIST_ITEMS
@@ -460,6 +474,24 @@ class Logs:
         file.write(log + "\n")
 
 class Generation():
+    def create_montser_stat():
+        lv = g.STATS['LV']
+        if lv <= 1:
+            lv +=2
+        choise_level = random.randint(0,1)
+        if (choise_level and lv <= 1):
+            lv += 1
+        data_monster = []
+        atk = (lv + g.STATS['Def']) + (g.STATS['Def']*0.1)
+        defs = (0.4*lv+((g.STATS['Atk']*0.2)/20))
+        hp = 1.9*lv+(g.STATS['Atk']*0.2)
+        data_monster.append(int(hp))
+        data_monster.append(int(hp))
+        data_monster.append(int(atk))
+        data_monster.append(int(defs))
+        data_monster.append(lv)
+        Logs.log("[DEBUG GENERATION] New Stats Created")
+        return data_monster
     def gen_item(n,types):
 
         item_list = g.items[types]
@@ -478,10 +510,11 @@ class Generation():
                 y = random.randint(1,15)
                 x = random.randint(0,99)
     def gen_monster(n):
+        #Bug Find Here
         for i in range(n):
             item_temp = random.choice(g.best_list)
             y = random.randint(1,15)
-            x = random.randint(0,100)
+            x = random.randint(0,98)
             check = False
             while check == False:
                 row = g.Map[y]
@@ -570,7 +603,7 @@ class AI():
         g.NEW_GEN_MONSTER[ID] = info
     def Move_random(ID):
         inforand = g.NEW_GEN_MONSTER[ID]
-        Logs.log(f"[DEBUG]: {inforand}")
+        #Logs.log(f"[DEBUG]: {inforand}")
         itemrand = inforand.split("/")
         x,y = (int(itemrand[1]),int(itemrand[0]))
         skin = itemrand[2]
@@ -588,10 +621,12 @@ class AI():
         elif (choice == 4 and row[x+1] != "█"):
             g.NEW_GEN_MONSTER[ID] = f"{y}/{x+1}/{skin}"
     def Monster_Turn(M_Stats):
-        dmg = (5.6*M_Stats[4]+M_Stats[2])-(g.STATS.get("Def")*2)
+        dmg = int((5.6*M_Stats[4]+M_Stats[2])-(g.STATS.get("Def")*2))
+        Logs.log(f"[DEBUG AI MONSTER TURN] DMG:{dmg}")
         if dmg > 0:
-            g.STATS['HP'] = int(g.STATS.get('HP') - dmg)
-
+            g.STATS['HP'] -= dmg
+        else:
+            g.STATS['HP'] -= 1
 class Data():
     def save(slot):
         try:
@@ -621,18 +656,17 @@ class Data():
         else:
             M_Stats[0] -=1
         return M_Stats
-    def is_dead(Player = False,Monster = False, M_stats = []):
-        if Player:
-            if g.STATS.get("HP") <= 0:
-                g.DEAD = True
-                return "PlayerDead"
+    def is_dead_M(M_stats = []):
+        if len(M_stats) > 0:
+            if M_stats[0] <= 0:
+                return True
         else:
-            return None
-        if Monster:
-            if len(M_stats) > 0:
-                if M_stats[0] <= 0:
-                    return "MonsterDead"
+            return False
+    def is_dead_P():
+        if g.STATS.get("HP") <= 0:
+            g.DEAD = True
+            return True
         else:
-            return None
+            return False
 
 

@@ -6,6 +6,7 @@ clsp()
 date = datetime.today().strftime('%Y_%m_%d')
 creat = open(f"Logs/logs_{date}.txt","a")
 file = open(f"Logs/logs_{date}.txt","r")
+file_clear = open(f"Logs/logs_{date}.txt","w")
 while 1:
     where = file.tell()
     line = file.readline()

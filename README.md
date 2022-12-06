@@ -22,6 +22,7 @@ Again I haven't Implemented that much yet but I can tell you that yes it has som
 - Equip Items
 - Auto pickup of items
 - AI system on monsters
+- Monster Generation
 - Auto Generation of Items and Monsters on the map
 - Converting .GIF Images to PROMPT
 - Log System

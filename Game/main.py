@@ -22,7 +22,7 @@ def Game(game_Start, Load):
         slot = input("Witch Slot 1~5:\n")
         Data.load(slot)
     while (game_Start) and (not g.DEAD) and (not g.GAME_WIN):
-        Logs.log(f"[DEBUG] GAME START : {g.DEAD}")
+        #Logs.log(f"[DEBUG] GAME START : {g.DEAD}")
         if g.NEXT_LEVEL:
             Generation.clearGen()
             g.TURNS = 0
@@ -64,10 +64,15 @@ def Game(game_Start, Load):
             """Logs.log(f"[DEBUG] EQUAL: {g.MONSTER_INFO in g.NEW_GEN_MONSTER}")
             Logs.log(f"[DEBUG] MOSNTER INFO: {g.MONSTER_INFO}")
             Logs.log(f"[DEBUG] NEW GEM MONSTER: {g.NEW_GEN_MONSTER}")"""
+            ##Erro alguns mosntros não dão o mosntro serto
             if g.MONSTER_INFO:
-                Monster_stats = g.bestiary.get(g.MONSTER_INFO)
+                if g.bestiary[g.MONSTER_INFO]:
+                    #Monster_stats = g.bestiary.get(g.MONSTER_INFO)
+                    Monster_stats = Generation.create_montser_stat()
+                else:
+                    Monster_stats = Generation.create_montser_stat()
             else:
-                Monster_stats = [10,10,3,1,1]
+                    Monster_stats = Generation.create_montser_stat()
         win = False
         while (g.IS_BATTLE and not win):
             nextt = False
@@ -87,24 +92,24 @@ def Game(game_Start, Load):
                 elif (option == "stats" or option == "s"):
                     Display.draw_stats()
                     nextt = False
-            #AI do monstro (TEcniocamente so atacar)
-            r = Data.is_dead(True,True,Monster_stats)
-            if r:
-                if r == "MonsterDead":
-                    win = True
-                    g.IS_BATTLE = False
-                    g.MONSTER_INFO = None
-                    Func.givexp(Monster_stats[4])
-                    Monster_stats.clear()
-                    break
-                else:
-                    AI.Monster_Turn(Monster_stats)
-            if r:
-                if r == "PlayerDead":
-                    Logs.log("[DEBUG] PLAYER IS DEAD")
-                    g.IS_BATTLE = False
-                    g.MONSTER_INFO = None
-                    break
+            
+            Is_Monster_Dead = Data.is_dead_M(Monster_stats)
+            if Is_Monster_Dead:
+                win = True
+                g.IS_BATTLE = False
+                g.MONSTER_INFO = None
+                Func.givexp(Monster_stats[4])
+                Monster_stats.clear()
+                break
+            else:
+                AI.Monster_Turn(Monster_stats)
+            Is_PLayer_Dead = Data.is_dead_P()
+            if Is_PLayer_Dead:
+                Logs.log("[DEBUG] PLAYER IS DEAD")
+                Display.draw_Game_over()
+                g.IS_BATTLE = False
+                g.MONSTER_INFO = None
+                break
 
         Logs.log(f"#######[TURN{g.TURNS}]##########")
 def Options():
@@ -141,6 +146,8 @@ while True:
     clsp()
     g.STATS = g.STATS_DEF.copy()
     g.equip = g.equip_def.copy()
+    g.NEW_GEN_ITEMS.clear()
+    g.NEW_GEN_MONSTER.clear()
     g.DEAD = False
     g.GAME_WIN = False
     g.STATS["Level"] = 0

@@ -77,14 +77,17 @@ class Global:
         "Shield":[("Wood Shield",2)],
         "Armor":[("Wood Armor",10)]
     }
-    best_list = ["$","B","&"]
+    best_list = ["$","B","&","{","#"]
     # [HP,MAXHP,ATACK,DEF,LV]
     # *NOT YET A FEATURE
     # If LV is 0 then gen a monster with more or less the LV of the player*
+    #Probably this will go to the trash i'll make something to auto generate the  monsters
     bestiary={
-        0:[10,10,4,4,1],
-        1:[30,30,7,3,2],
-        2:[10,10,2,3,5]
+        0:[11,11,4,4,1],
+        1:[30,30,4,3,2],
+        2:[10,10,13,3,5],
+        3:[8,8,2,20,5],
+        4:[12,12,10,3,5]
     }
     skins={
         "Default":"■",
